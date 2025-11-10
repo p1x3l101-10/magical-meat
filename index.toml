@@ -98,11 +98,11 @@ hash = "b9a8ece6d2733d9ba354f630394f410597878675aba33262760848a7f4de2648"
 
 [[files]]
 file = "config/hexcasting/common.json"
-hash = "c0e37aeda3a508f8b87dddc1a39769627216978974e35287e6f88f40c0909582"
+hash = "9246a464a1d8530b04f90075ccbc363d1e546083c255640f59b965fb9f4a6b11"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "b429aa2690accf6006d6f2c688b6844c0907b273617ed61b7792547315799afe"
+hash = "29700e2655fc436f7d950fe546f499852e1d4394ce1e70d9166755d2a0dea430"
 
 [[files]]
 file = "config/hexdebug/client.toml"

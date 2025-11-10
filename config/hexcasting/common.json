@@ -5,5 +5,5 @@
   "mediaToHealthRate": 10000.0,
   "cypherCooldown": 8,
   "trinketCooldown": 5,
-  "artifactCooldown": 3
+  "artifactCooldown": 1
 }
