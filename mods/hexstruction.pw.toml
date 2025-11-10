@@ -1,0 +1,13 @@
+name = "HexStruction"
+filename = "hexstruction-fabric-1.2.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dGRSMTTM/versions/hc9ISI7g/hexstruction-fabric-1.2.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "f815ed9f240694aee937faa195a112a28549b83a9f39970e9590daad82e79d8d1297a9ebe867d5d9b6d4eb6c11b0eaaba66252d369485fd13502e9995828ad95"
+
+[update]
+[update.modrinth]
+mod-id = "dGRSMTTM"
+version = "hc9ISI7g"

@@ -1,0 +1,13 @@
+name = "HexParse"
+filename = "hexParse-fabric-1.20.1-1.5.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WjFyIzFj/versions/QBJsPPPk/hexParse-fabric-1.20.1-1.5.1.jar"
+hash-format = "sha512"
+hash = "21a473d6400e313894237805e8c5c417e4a4ba2595006b79d26b7093a6b23d835e74b9ef47dbeb5ac392451492386ed8a7feaccd9a7c7327885ea46f5db7c536"
+
+[update]
+[update.modrinth]
+mod-id = "WjFyIzFj"
+version = "QBJsPPPk"

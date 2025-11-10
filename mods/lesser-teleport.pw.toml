@@ -1,0 +1,13 @@
+name = "Lesser Teleport"
+filename = "lessertp-1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ok7gSefA/versions/1dghakQD/lessertp-1.2.2.jar"
+hash-format = "sha1"
+hash = "811ebca4e837ff1452c8cde2f767e2ab12d4b71b"
+
+[update]
+[update.modrinth]
+mod-id = "Ok7gSefA"
+version = "1dghakQD"
