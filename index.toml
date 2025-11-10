@@ -708,5 +708,10 @@ hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/toms-metal-storage.pw.toml"
+hash = "348f2f3c01aebaa1d619dd66a22c52216d6d475a26a77ae1bcdb614e1978a7e0"
+metafile = true
+
+[[files]]
 file = "unsup.ini"
 hash = "a11079d8bd2dea4e4bb497f3ea22d06cc9b41745b1ff63b283f69264edd317c6"
