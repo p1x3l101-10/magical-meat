@@ -1,0 +1,13 @@
+name = "Magic Meat"
+author = "P1x3l101"
+version = "0.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "80dfb77137b925ab76ceec892f18451dd64195eda4a42d6e1bcd877eafcb0d00"
+
+[versions]
+fabric = "0.18.0"
+minecraft = "1.20.1"
