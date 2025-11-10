@@ -1,6 +1,6 @@
 name = "Magic Meat"
 author = "P1x3l101"
-version = "0.0.0"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
