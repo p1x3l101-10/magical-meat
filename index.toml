@@ -21,6 +21,82 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
+file = "config/amendments-common.json"
+hash = "5ccf5bb88365a94fcc61d41f85d092ff805712aea434857e00e4c0d17f105747"
+
+[[files]]
+file = "config/analog.json"
+hash = "234a27d4dae26d42762e9a43be7c326411db7bb2c65eb591aa4fd5342d0259b4"
+
+[[files]]
+file = "config/analog/records/11.ogg"
+hash = "66ceaedc698d340fac76e9f0c15a003014bc5eb3458302202aed89d4f5b27170"
+
+[[files]]
+file = "config/analog/records/13.ogg"
+hash = "6ffa34f875e05882d39b191e4608794ef009b4444cd95b940de682e1d631a93a"
+
+[[files]]
+file = "config/analog/records/5.ogg"
+hash = "40e97b3d59e0e0acf73ee6535495e39b0fe869ae051bc489f5836f190413f777"
+
+[[files]]
+file = "config/analog/records/_list.json"
+hash = "17512ba85d6d80f2926f11d0963aba6aa0fa76841291d68d2e60fdf8096d78a6"
+
+[[files]]
+file = "config/analog/records/blocks.ogg"
+hash = "99ca4b6316f425c40c5b264b48d7e131beaccb26b4560f1cd268c492968391e0"
+
+[[files]]
+file = "config/analog/records/cat.ogg"
+hash = "cfdcd419da8ab1aac21804f04c674a58bce6a417845e669bf5d49080f28147d5"
+
+[[files]]
+file = "config/analog/records/chirp.ogg"
+hash = "d4d84aa958e9bdfc3119ad5da1398ad8bffe50fac73f61331c9b908e2c6aa618"
+
+[[files]]
+file = "config/analog/records/far.ogg"
+hash = "356e8c8ab5ceedfd02c09bae7043d8b2ddd76938c90c83cdad614ffc726d3024"
+
+[[files]]
+file = "config/analog/records/mall.ogg"
+hash = "2c498992c21e31059843495f52dd44006de8eb9bd9358dc2e59135a66e527248"
+
+[[files]]
+file = "config/analog/records/mellohi.ogg"
+hash = "9a29c68a4d4ba5943d1a83b9d94741cf7062653a84358ffae9c23a38bdf788af"
+
+[[files]]
+file = "config/analog/records/otherside.ogg"
+hash = "4da7177a8c6df0e7f1f0f8e49643d4d5ba6f90020bba439705ff24ef6849bae6"
+
+[[files]]
+file = "config/analog/records/pigstep.ogg"
+hash = "15519af2b24833586129c736477b91f33ccb1d5d03660f74f4866dd30fa0e05c"
+
+[[files]]
+file = "config/analog/records/relic.ogg"
+hash = "0e458dc01284511c565f09649a4f79ceb775740a71270a83c6d8e070719d0be9"
+
+[[files]]
+file = "config/analog/records/stal.ogg"
+hash = "35e8f16be12f7743398fdcc2635cfe3ff916b43c123b3485516547778c50c50d"
+
+[[files]]
+file = "config/analog/records/strad.ogg"
+hash = "c29b787100160ffa5b9b41c595bb407360983cd60816e9d67ec3057c7eacd804"
+
+[[files]]
+file = "config/analog/records/wait.ogg"
+hash = "b32cab460783407dc80cb6605ccacf7eb145571410d8b8b692e077173452a6a8"
+
+[[files]]
+file = "config/analog/records/ward.ogg"
+hash = "91225a4344fedcdf58683c241691a8362d8bba62ef6b6e4ab2d48240525ece5c"
+
+[[files]]
 file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
@@ -29,8 +105,60 @@ file = "config/betteradvancements.json"
 hash = "82ffaabd04cb676394314ad57bacb68b9160d2d8fec5109f1f106115e71417af"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "a6873d4aa453bd467b9e10c97a305ee98fc8cbeb084c3bcfb7b08a5f76837b1f"
+
+[[files]]
+file = "config/bluemap/maps/world.conf"
+hash = "5abda0daec6d5c9bb84a7a6178c352bfebbc2537dd6e033bc2d472b240eae173"
+
+[[files]]
+file = "config/bluemap/maps/world_oneironaut_deep_noosphere.conf"
+hash = "58643e9ed489547309e71715bab2373708121256e4aaf304c37acc274219de5b"
+
+[[files]]
+file = "config/bluemap/maps/world_oneironaut_noosphere.conf"
+hash = "898a2e857ac2fc80cf5e5ac7fbb5976564f568b4c99d1a3aa1e3aa78bc9a5f4c"
+
+[[files]]
+file = "config/bluemap/maps/world_the_end.conf"
+hash = "073ed08979efb33521d5fe8dc4b939d0b9dade220081d59fb5bb8a2680323788"
+
+[[files]]
+file = "config/bluemap/maps/world_the_nether.conf"
+hash = "897705ff44b710ea423b9ff5dfd9b507215218bd40ef87e7f59032ae3e71a8d1"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "f4f9fc6a3ec27abe824b1aef445183f4c988c212724fb850c17ab489353c7b51"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "ce1f7419cb657755fcb3266817251951701119b95c8e34fb8fa0a1f6be8c7b17"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "dbf122b4932a67e8b602ebe24d3278616522c24d2e9481f6c31c9949e75ed9f6"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "eb7fbbf671c247286fd9d3c52a43142da7e65dfb53c08163e0742b2979f3ca24"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
+
+[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/carryon-client.json"
+hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
+
+[[files]]
+file = "config/carryon-common.json"
+hash = "da6fdce0a0b230f5ad04a17eba82e3d54651e9c540177e0169cdfe9e6ecba00e"
 
 [[files]]
 file = "config/complexhex/client.json5"
@@ -43,6 +171,30 @@ hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 [[files]]
 file = "config/complexhex/server.json5"
 hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "db0674b3c5b5b38f38f32022b471c4d236b91e99e78ec5e823268ef7a06c1dfe"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "5d95e8d508454bfee9141f79205dbd43c1341aa66c3962b7b7238cc67af587a4"
+
+[[files]]
+file = "config/createbigcannons-client.toml"
+hash = "0fab875c08d2556853ae96c96973dc9c29a8bd30834b76fbcdde81a62d931108"
+
+[[files]]
+file = "config/createbigcannons-common.toml"
+hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+
+[[files]]
+file = "config/createbigcannons-server.toml"
+hash = "93bbe03b397ef285cd18a78c74f1442fb3b0c4b840f38d1cdd77dd3e148adf45"
 
 [[files]]
 file = "config/emi.css"
@@ -81,6 +233,10 @@ file = "config/forgeconfigapiport.toml"
 hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
 
 [[files]]
+file = "config/gravestones.json"
+hash = "5d54a39cf8caa1576127e054b2fae188376c440e889fec101cb469dd48be40b5"
+
+[[files]]
 file = "config/hexal/client.json5"
 hash = "9d071e8829e0f8703f0fb63cba40668a862b008af16b31b9019ed9e1a4d3b287"
 
@@ -98,11 +254,11 @@ hash = "b9a8ece6d2733d9ba354f630394f410597878675aba33262760848a7f4de2648"
 
 [[files]]
 file = "config/hexcasting/common.json"
-hash = "9246a464a1d8530b04f90075ccbc363d1e546083c255640f59b965fb9f4a6b11"
+hash = "8b98819586c291487883596dc95806f9d97d01f429f5efae11d706e7aa6dcb99"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "29700e2655fc436f7d950fe546f499852e1d4394ce1e70d9166755d2a0dea430"
+hash = "3cc82f0b4322b6e00d26a942b04cf54b77a94e0b892d4dc74b8660abf5bb8495"
 
 [[files]]
 file = "config/hexdebug/client.toml"
@@ -138,7 +294,7 @@ hash = "86db026a6eff1c090d363069db0536d0c3b6fda9bb239d32dfcd7ae4e280dab4"
 
 [[files]]
 file = "config/hierophantics/client.toml"
-hash = "5b429168797f7e6acfd1ac9ccd05a61475f67f6e5359f3c597bd97ce4e1b1295"
+hash = "f3a595b517575ce6b01929281884219ff7048ff280b97f7e767cb85bc581d5d4"
 
 [[files]]
 file = "config/hierophantics/server.toml"
@@ -171,6 +327,10 @@ hash = "4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2"
 [[files]]
 file = "config/jade/plugins.json"
 hash = "e04b7037f136ce7fb5e3d9a9412422484951ee1fb0f5d9f4ce9a1a6fd7960877"
+
+[[files]]
+file = "config/jade/server-plugin-overrides.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -265,6 +425,26 @@ file = "config/paucal.json5"
 hash = "fd8dbcd3db695f130b78e5eb763e33669c2b7215edb9d95f55429307cc7b8905"
 
 [[files]]
+file = "config/polymer/auto-host.json"
+hash = "9c14a7ce4b3fcc893b85c9acc3c4dece2c67945d3f1e5a02ff12654f1fafdbcc"
+
+[[files]]
+file = "config/polymer/common.json"
+hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
+
+[[files]]
+file = "config/polymer/resource-pack.json"
+hash = "3f7d72ba47fc2dded9abac4df53416d7548fb7b2383b4310f7e63d571bac1bb4"
+
+[[files]]
+file = "config/polymer/server.json"
+hash = "2613cd7e40cfaceab4d6cac3bec496dfc4573e6126377e54d545df7a04395690"
+
+[[files]]
+file = "config/ritchiesprojectilelib-server.toml"
+hash = "78c64a3078547709a09d511eb0d1c4c5d502a1cb4ebee23553708a5d86acadda"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "397c8144c4440ecde7899c8d0bda480354bee15bd8f4b1d238a673fab9a7b034"
 
@@ -302,7 +482,19 @@ hash = "9f1a41df3457cc963cfcac2b4467e1f7ae58896676eef49d5d86532930a6ad4f"
 
 [[files]]
 file = "config/tis3d-common.toml"
-hash = "856ba9074b5fdb552803eecfd5b4f3d240fb9d3a7780c80c52ccb96e7a479ba5"
+hash = "de4ac589f042748b5eee152034365ccb5e02cd083b67d138090a36202f7cbd15"
+
+[[files]]
+file = "config/toms_storage.json"
+hash = "9d8618b1e931bb01dcd78cd3058428eef19e97483c67aaf25d49dfb96b9f634c"
+
+[[files]]
+file = "config/voicechat/translations.properties"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "a18ccb2ec7030e305df98d615a67590969db5d9be6859092e474e1ef3e498b4e"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
