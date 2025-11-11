@@ -535,6 +535,11 @@ file = "mods/hexical-2.0.0-e0d7ef9.jar"
 hash = "1fc2f62878be4f6fa4765e20d186986f4948670e1a04aaabbf8844a4d03b4080"
 
 [[files]]
+file = "mods/hexmapping.pw.toml"
+hash = "3c6fd0d6526dda772627517c0ef132b2864bbfd193bca75b35205cb8bb33114b"
+metafile = true
+
+[[files]]
 file = "mods/hexparse.pw.toml"
 hash = "e2f55b29e52f10afad1832703d1092e83e029c1f79a2a2b22d9c1a8bf920aedc"
 metafile = true
