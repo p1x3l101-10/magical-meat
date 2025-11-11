@@ -346,7 +346,7 @@ hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
 
 [[files]]
 file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+hash = "5f879f8285e11d7281b9aee9df113abbff2f895efe1b5064e2c716d265ee5cc3"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -362,11 +362,11 @@ hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
 
 [[files]]
 file = "kubejs/server_scripts/example.js"
-hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
+hash = "6bb34a1898552ce09a310c7af9a571f5c9349ea3269074c9605b6795d37d8138"
 
 [[files]]
 file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+hash = "f447c0e4266e15b34a4f961e1356ca22f1036b07e439a689de22bb6a293e605d"
 
 [[files]]
 file = "mods/amendments.pw.toml"
