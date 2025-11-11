@@ -357,6 +357,10 @@ file = "kubejs/config/common.properties"
 hash = "8d62f23aefce86c1606369281e660bb5ce63de21e25eee044510339a8afd2041"
 
 [[files]]
+file = "kubejs/data/hexcasting/loot_tables/grant_patchi_book.json"
+hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
+
+[[files]]
 file = "kubejs/server_scripts/example.js"
 hash = "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2"
 
