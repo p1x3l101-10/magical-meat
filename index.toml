@@ -423,6 +423,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/create-fabric.pw.toml"
+hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "207e904557993d8787bdd9a735ad2f094b06aaed0de9d59a9edb1bfba509f745"
 metafile = true
