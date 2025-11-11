@@ -378,6 +378,11 @@ hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
+file = "mods/e4mc.pw.toml"
+hash = "e663f7a8af3dc2e071bce60131381a2ef243d9cc84ed5b74b1c2ae5cd244ac86"
+metafile = true
+
+[[files]]
 file = "mods/efhexs-1.0.0-20dbe0d.jar"
 hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 
