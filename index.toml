@@ -712,11 +712,6 @@ hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat-radio.pw.toml"
-hash = "3453a1b7e2bf0983ba1c6b58e1536f3dc222e4da87f392d1ff6b47030b4c9ef7"
-metafile = true
-
-[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "fae2bc6c282159f6a2e55e22d19241c625a9795dddbe8bd0f0b501c8aa709be1"
 metafile = true
