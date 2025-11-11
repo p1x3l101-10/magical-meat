@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Ok7gSefA/versions/1dghakQD/lessertp-1.2.2.jar"
-hash-format = "sha1"
-hash = "811ebca4e837ff1452c8cde2f767e2ab12d4b71b"
+hash-format = "sha512"
+hash = "fd0c9b8642af315fd0c1c197a5bf80113ac22a103cb2e39a5754039b8b6467705f35311d4ea498cd4bafc19dc64d72fb99abe144ed3ddcc64b74e1c42b341b5f"
 
 [update]
 [update.modrinth]

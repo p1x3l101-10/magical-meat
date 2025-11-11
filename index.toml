@@ -561,7 +561,7 @@ metafile = true
 
 [[files]]
 file = "mods/lesser-teleport.pw.toml"
-hash = "2ae602e2ec5d87e68790326913202b71da20c7166cd70beb42405412decff16b"
+hash = "9a007915eba7703d5ecda48c7abe36a1e29e6f39c729e026dd5551b48ae44c40"
 metafile = true
 
 [[files]]
