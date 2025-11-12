@@ -1413,9 +1413,8 @@ hash = "39e27b12d6b188df2b249bf84ed8427c62a7d9c9802ab0469304d554f89f43be"
 metafile = true
 
 [[files]]
-file = "mods/hexcellular.pw.toml"
-hash = "51c39678a509b311fe444e1231843d152157136297d83f52c41d19e85a17d790"
-metafile = true
+file = "mods/hexcellular-1.1.0-64d134a.jar"
+hash = "e54f19e2bce24516a5c480f699fc6da910fd6b2d71e425a16636669dfdc517aa"
 
 [[files]]
 file = "mods/hexchanting.pw.toml"
