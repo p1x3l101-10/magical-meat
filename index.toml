@@ -1355,6 +1355,11 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/death-knights.pw.toml"
+hash = "ef745f8cc5a093b4a1d6f7809f8bdc9b95a6bc2b4ef1a74aca9adbdf7ecf58eb"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-torches.pw.toml"
 hash = "69aaac3512cc2b6766260d707e28d56d9b53eb7a85532d9fe63052ebb046927c"
 metafile = true
@@ -1381,6 +1386,11 @@ metafile = true
 [[files]]
 file = "mods/ephemera-fabric-1.20.1-0.3.0.jar"
 hash = "1d385e8fa6bf1d33fd76b89cddab3f51545261bac924092b58193324b2a82671"
+
+[[files]]
+file = "mods/eternal-attributes.pw.toml"
+hash = "64b486e16ccc051f897e7cc16ce33c45b3f7d45c3622544f15c54bb354efea76"
+metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
@@ -1620,6 +1630,11 @@ hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
 metafile = true
 
 [[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "0a51aa853f7ec0323cabc98e9c6957e35f8e8581f1ee5ce12eb95d0e98665fc2"
+metafile = true
+
+[[files]]
 file = "mods/neepmeat.pw.toml"
 hash = "67b973f3640c8ab7cdc6f69cdc919e87487c97af2975dc8714e41c296d32d8dd"
 metafile = true
@@ -1685,6 +1700,11 @@ metafile = true
 [[files]]
 file = "mods/phlexiful.pw.toml"
 hash = "6c12c8bf3a6b4ce0eff470be2941afead60953d23a09152d0e0c54c1bad4ed1f"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
