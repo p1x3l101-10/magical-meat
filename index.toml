@@ -611,6 +611,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
+metafile = true
+
+[[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "26a5cee35b797140d098a3e8c039b868edd1779e28d4a2cba1cd73e8ed32ca34"
 metafile = true
