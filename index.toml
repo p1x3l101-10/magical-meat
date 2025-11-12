@@ -1535,6 +1535,11 @@ hash = "211d05efd962f20f4eb4704ae6f781960f7931abb687e14b42fead9c980e7a95"
 metafile = true
 
 [[files]]
+file = "mods/jsonpatcher.pw.toml"
+hash = "f149e9b1b21f40c44f167ef018e7e310d164d49b4c0c0ed65dd6f64827496c17"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
@@ -1714,6 +1719,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
+metafile = true
+
+[[files]]
+file = "mods/spasm.pw.toml"
+hash = "d85f532c65f1674ff6f3448a4cb8fd8d0f86b0a6c7446de37793f525e8cdd184"
 metafile = true
 
 [[files]]
