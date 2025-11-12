@@ -1565,6 +1565,16 @@ hash = "887656197aff2cd6009a0ff04996b4318aa202b8ed253650860f4882a60bc876"
 metafile = true
 
 [[files]]
+file = "mods/mixin-conflict-helper.pw.toml"
+hash = "d7aaccec2291f2be791ec0cc3185102eec7aabc9323f6262343293a375603db5"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "6cd55df8041a48cb7f5f95ea4520f5ed59064e71ff9dab8b0e02bb922b68c9cb"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "f43c82e3cc6079291ddae81445c703905b6c670dd43f444e47f5cd817944e822"
 metafile = true
