@@ -241,10 +241,6 @@ file = "config/forgeconfigapiport.toml"
 hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
 
 [[files]]
-file = "config/gravestones.json"
-hash = "5d54a39cf8caa1576127e054b2fae188376c440e889fec101cb469dd48be40b5"
-
-[[files]]
 file = "config/hexal/client.json5"
 hash = "9d071e8829e0f8703f0fb63cba40668a862b008af16b31b9019ed9e1a4d3b287"
 
@@ -506,7 +502,7 @@ hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
 
 [[files]]
 file = "config/voicechat/voicechat-client.properties"
-hash = "a1b7de88e3209f48f1ba4380449093e85506b9305bb754cbd88f606859d497db"
+hash = "3360fd65537503100ae41a053f0ec3081ed837e8ef95ad567dd7bdd11541f4b5"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -597,7 +593,7 @@ metafile = true
 
 [[files]]
 file = "mods/analog.pw.toml"
-hash = "d16b012585073b25dc94673ba2d5154b34155b32a0fe44e9f147e39b88d91e88"
+hash = "d76104f459f0f9862711632665e625636a815811b61b2e773bfa726b4ba10ca2"
 metafile = true
 
 [[files]]
