@@ -1,0 +1,13 @@
+name = "You Were Slain"
+filename = "youwereslain-1.0.0-1.20.x.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SfSneJdD/versions/hzTL6Qwq/youwereslain-1.0.0-1.20.x.jar"
+hash-format = "sha512"
+hash = "c5c314ff7feab104b938916708b9d912ba6e1a94c749414629bb286ffae8ce6db6a9e2d1552ae6003a6826e2883d9848b042d1519e7fdb868ceeca91259f06f6"
+
+[update]
+[update.modrinth]
+mod-id = "SfSneJdD"
+version = "hzTL6Qwq"

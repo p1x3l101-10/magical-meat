@@ -1156,6 +1156,11 @@ hash = "7598f0435251f845fdf85c8ed2ac612b2d0404e0ee73a1fcdebaf4eb6c95296d"
 metafile = true
 
 [[files]]
+file = "mods/yacl.pw.toml"
+hash = "8305bf17272f0c579b0930b751c12089de9fb157dbdb5c080836ce3daad310b5"
+metafile = true
+
+[[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "40af5de7db5a767b935c406184bc298d6e9483cf255c5152dc2f795dd509ce06"
 metafile = true
@@ -1163,6 +1168,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "649c259a4777ba1b544b69d04a79f2b1b0e1a3c520033cc86a3c14d5fa53564a"
+metafile = true
+
+[[files]]
+file = "mods/you-were-slain.pw.toml"
+hash = "440d00796292221349937ce80c63acb7c031fa936a75617f4cd925b6dcd0e646"
 metafile = true
 
 [[files]]
