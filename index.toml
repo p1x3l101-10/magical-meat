@@ -897,6 +897,11 @@ hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
+file = "mods/nyctophobia-dread.pw.toml"
+hash = "74d303cbabbf2a66dbc0a8e0a750a1deb0443d59ec40b0b92b830ab5171596e2"
+metafile = true
+
+[[files]]
 file = "mods/oneironaut-fabric-1.20.1-0.5.0-8143784.jar"
 hash = "4b246fb6e3e82bf03a5cd3e6eefa93784118bdcaeba1c6a26fd697f7d9f9e988"
 
