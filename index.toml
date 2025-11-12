@@ -853,11 +853,6 @@ hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
-file = "mods/lapisworks.pw.toml"
-hash = "61f75e922c00ab017fbc2d371b079e0493ada621b8fcf90619244bc8c25cd2ba"
-metafile = true
-
-[[files]]
 file = "mods/lesser-teleport.pw.toml"
 hash = "9a007915eba7703d5ecda48c7abe36a1e29e6f39c729e026dd5551b48ae44c40"
 metafile = true
