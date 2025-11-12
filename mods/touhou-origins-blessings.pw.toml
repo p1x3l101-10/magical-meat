@@ -1,0 +1,13 @@
+name = "Touhou Origins: Blessings"
+filename = "touhoublessings-1.20.1-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/REGoShH1/versions/BRtlsQEw/touhoublessings-1.20.1-1.0.4.jar"
+hash-format = "sha512"
+hash = "3621cf83a775a96e808f372d2011ffd4c7a28b1fd81798c526fb6b2e25ba26ca94b04ee9b4ee3571aad3a32d9bce85b3da918dc2228a77bb8ec37391ccfd2965"
+
+[update]
+[update.modrinth]
+mod-id = "REGoShH1"
+version = "BRtlsQEw"

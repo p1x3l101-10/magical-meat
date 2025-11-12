@@ -1,0 +1,13 @@
+name = "Incapacitated"
+filename = "Incapacitated-fabric-1.20.1-1.9.3LTS.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CmDgNtOI/versions/DDhQxn8s/Incapacitated-fabric-1.20.1-1.9.3LTS.jar"
+hash-format = "sha512"
+hash = "85ab9506ea71b9fed28caf36875af6ad6c9bcb4385a498ebf9e7692792b7cb17e215a5114450bbdbad948eb84a2eceee54d150410f0e3fd0d2f69f8277deb9be"
+
+[update]
+[update.modrinth]
+mod-id = "CmDgNtOI"
+version = "DDhQxn8s"

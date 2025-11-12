@@ -585,6 +585,16 @@ file = "kubejs/startup_scripts/example.js"
 hash = "f447c0e4266e15b34a4f961e1356ca22f1036b07e439a689de22bb6a293e605d"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
+metafile = true
+
+[[files]]
+file = "mods/altorigingui.pw.toml"
+hash = "95d278261dad118bd5ce0474d4f8d05ceab0c81e16159cb94182b550187cd473"
+metafile = true
+
+[[files]]
 file = "mods/amendments.pw.toml"
 hash = "deba8bfb9a55d3a857079d3da87b24ece7223eeb3934e5cc028df48c1a7123c7"
 metafile = true
@@ -807,6 +817,11 @@ hash = "060c6baaec85f47ba4bc2c0f4b8642b9933c27d3c166eb00ef86b4bbfd7f34a3"
 metafile = true
 
 [[files]]
+file = "mods/incapacitated.pw.toml"
+hash = "bf76c91bc8fdea48f9361c022f9d2535400ff38e4feff5b89e4f40e2b02637db"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
@@ -906,6 +921,16 @@ file = "mods/oneironaut-fabric-1.20.1-0.5.0-8143784.jar"
 hash = "4b246fb6e3e82bf03a5cd3e6eefa93784118bdcaeba1c6a26fd697f7d9f9e988"
 
 [[files]]
+file = "mods/origins-classes.pw.toml"
+hash = "727beac4d8109d8136ce3aa101040a80caa4b353e3262eaa6d6256ca38d818b3"
+metafile = true
+
+[[files]]
+file = "mods/origins.pw.toml"
+hash = "faadbd329bd9b454d469c4ebdbcee1aa718b922c86ba68db8284152cb28ecf75"
+metafile = true
+
+[[files]]
 file = "mods/overevaluate-1.0.0-7ebb76e.jar"
 hash = "01e98745137398e905e5da6ce53e5dc8140e30480c4f27dc99db7fc991cc7c0a"
 
@@ -922,6 +947,11 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "49ef3ff0a74c6338f2160c4ee683ae34f745a38c0c87f2d7527e4f88406113fe"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "43b4a9ca9aaac5a16ed067aee92cafaf30d6166d62d7fa851179c6257ed75b59"
 metafile = true
 
 [[files]]
@@ -1014,8 +1044,23 @@ hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
 metafile = true
 
 [[files]]
+file = "mods/touhou-origins-blessings.pw.toml"
+hash = "659eacfa6ba4df9a6d03e0566888550f29fab511a5ec13a5a834d239ce5e32c2"
+metafile = true
+
+[[files]]
+file = "mods/touhou-origins.pw.toml"
+hash = "a44088681aa09c008bf904a95d0715329ca087e390f9340336e2907d3e5388a9"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
+metafile = true
+
+[[files]]
+file = "mods/unoriginal.pw.toml"
+hash = "7cbd442dc4816697956f89b1e759ef310f22801afa0284b8a6c271a93f82a455"
 metafile = true
 
 [[files]]
