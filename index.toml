@@ -1787,18 +1787,8 @@ hash = "cdcd8b1b9f62eea4f46ed5bc3a58125ae5ae2ceb1854739666eeacffda6fabc7"
 metafile = true
 
 [[files]]
-file = "mods/unionlib.pw.toml"
-hash = "cbde9bfa3c81ec02be213954a0fcf19aacad1d75eaa15081c7b2ff32ae2a5b76"
-metafile = true
-
-[[files]]
 file = "mods/unoriginal.pw.toml"
 hash = "7cbd442dc4816697956f89b1e759ef310f22801afa0284b8a6c271a93f82a455"
-metafile = true
-
-[[files]]
-file = "mods/violentvillagers.pw.toml"
-hash = "aa8739fe39457c7b5ed69da10b698c378e5b8b32710e18dada787739d20ce98f"
 metafile = true
 
 [[files]]
