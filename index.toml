@@ -904,6 +904,11 @@ hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
+file = "mods/infernum-effugium.pw.toml"
+hash = "a7abc895474e1851bcb4957e69d6d9fdef3411b7ee989932e1673e109622f5a6"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
 metafile = true

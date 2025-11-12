@@ -1,0 +1,13 @@
+name = "Infernum Effugium"
+filename = "infernum-effugium-1.3.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oewi3keo/versions/JDDF6Uw2/infernum-effugium-1.3.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "74db9fed96f2e05dbf3ab2681c92dbffec1c9031cf7a628befcde3b9efe636037c72b8b099fd4c02206b433a90157c605c3750fc812508b44ac43837c920a3cb"
+
+[update]
+[update.modrinth]
+mod-id = "oewi3keo"
+version = "JDDF6Uw2"
