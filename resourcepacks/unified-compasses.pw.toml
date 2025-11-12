@@ -1,0 +1,13 @@
+name = "Unified Compasses"
+filename = "Unified Compass.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Mq3AyNVA/versions/PIklTswa/Unified%20Compass.zip"
+hash-format = "sha512"
+hash = "e7c40e9fc69ddbc3f2127fbddbf2bc74639811a46f11104720f0c96bb4ba0c8d6ee71a09db40210093946762e236db44f03ef6af7c89c790981b2de96814dbd1"
+
+[update]
+[update.modrinth]
+mod-id = "Mq3AyNVA"
+version = "PIklTswa"

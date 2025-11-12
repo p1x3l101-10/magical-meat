@@ -1090,5 +1090,10 @@ hash = "348f2f3c01aebaa1d619dd66a22c52216d6d475a26a77ae1bcdb614e1978a7e0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/unified-compasses.pw.toml"
+hash = "36a59efc8c062f453a5861bd5364fedd31d32b8236e1705531f62edb7d16f6e7"
+metafile = true
+
+[[files]]
 file = "unsup.ini"
 hash = "a11079d8bd2dea4e4bb497f3ea22d06cc9b41745b1ff63b283f69264edd317c6"
