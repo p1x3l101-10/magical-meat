@@ -194,7 +194,7 @@ hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
 
 [[files]]
 file = "config/create-server.toml"
-hash = "5d95e8d508454bfee9141f79205dbd43c1341aa66c3962b7b7238cc67af587a4"
+hash = "45e7071444b687a5540c2bf7006166f00ada1979086a57a8d25d29a0ae36ca58"
 
 [[files]]
 file = "config/createbigcannons-client.toml"
@@ -285,6 +285,10 @@ file = "config/hexdebug/server.toml"
 hash = "24d767f58cb2ea04ad24b783b24c3f84a048eb74edb005111e722f0636c08c83"
 
 [[files]]
+file = "config/hexdim.json"
+hash = "d2cd22e87b75b22d5f1dc280e9ac9acf7311de756b600c71756984143fb7328c"
+
+[[files]]
 file = "config/hexparse/common.json5"
 hash = "92491108dcce2bfaadfcb92e8032c7f3ae7d08e0bda8e00412167c6935c96785"
 
@@ -307,6 +311,10 @@ hash = "e31e1e4a392c81a903fbb296b2276e8aa134fca0335f33e9849d0dc7da13631d"
 [[files]]
 file = "config/hexstruction/server.toml"
 hash = "86db026a6eff1c090d363069db0536d0c3b6fda9bb239d32dfcd7ae4e280dab4"
+
+[[files]]
+file = "config/hextweaks.json"
+hash = "466a145e9d94fef2ed66f6620491ad910888e861916894fdd1beab06e37a08bd"
 
 [[files]]
 file = "config/hierophantics/client.toml"
@@ -387,6 +395,10 @@ hash = "07052785400b48d3757dbbcfff0b50899fbaed1ac54ea09bc9024ea7f73b7644"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "8ee405b6a65236d3ae7d8cfedfe32b5c487051a16d0c36ccb08edb17d6cec6a5"
+
+[[files]]
+file = "config/jsonpatcher.json"
+hash = "0dbc42a29cafdf669ec15ba1f68c284fdd876ff5d38200bde07719b52c012ba3"
 
 [[files]]
 file = "config/lithium.properties"
@@ -485,6 +497,10 @@ file = "config/polymer/common.json"
 hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
 [[files]]
+file = "config/polymer/networking.json"
+hash = "2057a3b3b89214439199107df8a7fde5b76994d606af8f17c5872f8627f01bce"
+
+[[files]]
 file = "config/polymer/resource-pack.json"
 hash = "3f7d72ba47fc2dded9abac4df53416d7548fb7b2383b4310f7e63d571bac1bb4"
 
@@ -498,7 +514,7 @@ hash = "27cd70051136835dd5b3cc5f2a1684abf0703526d5e1c8ff964a7f02d35944aa"
 
 [[files]]
 file = "config/ritchiesprojectilelib-server.toml"
-hash = "78c64a3078547709a09d511eb0d1c4c5d502a1cb4ebee23553708a5d86acadda"
+hash = "bd2ff5fb308c6648b18322b2a2d8bfc164027289ff5edbd72a7737b7e5dd822b"
 
 [[files]]
 file = "config/rpg_series/loot_v2.json"
@@ -547,6 +563,10 @@ hash = "4d77e8a4f77752c328a602e6dd0f0d8a5d37fc6a7882e30e1f595b079447a86c"
 [[files]]
 file = "config/spell_power/enchantments.json"
 hash = "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7"
+
+[[files]]
+file = "config/stackdeobf.json"
+hash = "ab7ea0a22b66e8d4b6eebbeace63fa71dfc830afaa0649c89a62c18df65a8808"
 
 [[files]]
 file = "config/supplementaries-client.json"
