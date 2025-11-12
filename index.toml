@@ -105,6 +105,14 @@ file = "config/appleskin.json5"
 hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
 
 [[files]]
+file = "config/apugli.json"
+hash = "df76206ed6a3da84e11af71f17b9450d3b3c76507ac4da9b10ccf65fe212fed7"
+
+[[files]]
+file = "config/attributefix.json"
+hash = "894c3aec4fafd04ba67c113307c87dcfa627c96e5de3e92f31b35b19090fe350"
+
+[[files]]
 file = "config/betteradvancements.json"
 hash = "82ffaabd04cb676394314ad57bacb68b9160d2d8fec5109f1f106115e71417af"
 
@@ -241,6 +249,10 @@ file = "config/forgeconfigapiport.toml"
 hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
 
 [[files]]
+file = "config/gravestones.json"
+hash = "5d54a39cf8caa1576127e054b2fae188376c440e889fec101cb469dd48be40b5"
+
+[[files]]
 file = "config/hexal/client.json5"
 hash = "9d071e8829e0f8703f0fb63cba40668a862b008af16b31b9019ed9e1a4d3b287"
 
@@ -273,6 +285,10 @@ file = "config/hexdebug/server.toml"
 hash = "24d767f58cb2ea04ad24b783b24c3f84a048eb74edb005111e722f0636c08c83"
 
 [[files]]
+file = "config/hexparse/common.json5"
+hash = "92491108dcce2bfaadfcb92e8032c7f3ae7d08e0bda8e00412167c6935c96785"
+
+[[files]]
 file = "config/hexportation/client.json5"
 hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
@@ -303,6 +319,14 @@ hash = "fd568ebceac9cf223399adc567d49ac424c30f7e1b6022470b5a47a84288f483"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/incapacitated.json"
+hash = "39b5ffdabbdc6cac20556379efb86624fddf96d7df7a0274226fb4a969d0563b"
+
+[[files]]
+file = "config/incapacitated.properties"
+hash = "de8a7f433cd00028cb84027533b3e9c559ffc57c5e3a71ccfae5815d75ace1b2"
 
 [[files]]
 file = "config/indium-renderer.properties"
@@ -417,12 +441,40 @@ file = "config/oneironaut/server.json5"
 hash = "fdf25e2e970edb6c7d7f036ca2fcf09c2cd2077418a4b17bb5d3383430a46ea7"
 
 [[files]]
+file = "config/origins_server.json"
+hash = "dcabca28374a74dd40a118cbb7ebbfbf094fea86ebd6302a8894e23004f034e7"
+
+[[files]]
+file = "config/pal.properties"
+hash = "0894f002d2e8b37a0c0ec3d53b91f7208009c33dbe3157fa431e97e62a1db591"
+
+[[files]]
+file = "config/paladins/items_v5.json"
+hash = "aa33276a8ca001fcc909ec391612e9c2e7587920d29245f378f4c4bf8d4ab24c"
+
+[[files]]
+file = "config/paladins/shields.json"
+hash = "090dfa083da5d9cdc340c45695791a3feec716c2aab86f1d33effd34eef3c047"
+
+[[files]]
+file = "config/paladins/tweaks.json"
+hash = "f000fb79ee42fbe168c39d14436debf8759067cdcabe9cdc40e51475c840a02c"
+
+[[files]]
+file = "config/paladins/villages.json"
+hash = "1f055f8cdc62d4035fecc05af7a1b6398ff0f9efdacc4422c4e58d8ec0a253bb"
+
+[[files]]
 file = "config/patchouli.json5"
 hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 
 [[files]]
 file = "config/paucal.json5"
 hash = "fd8dbcd3db695f130b78e5eb763e33669c2b7215edb9d95f55429307cc7b8905"
+
+[[files]]
+file = "config/pehkui/config.json"
+hash = "75e8ec2af2fc88915cdb24c8bcc5c1fe4091851ff2b1ed910aa53c0f110883a6"
 
 [[files]]
 file = "config/polymer/auto-host.json"
@@ -441,8 +493,20 @@ file = "config/polymer/server.json"
 hash = "2613cd7e40cfaceab4d6cac3bec496dfc4573e6126377e54d545df7a04395690"
 
 [[files]]
+file = "config/power_config.json5"
+hash = "27cd70051136835dd5b3cc5f2a1684abf0703526d5e1c8ff964a7f02d35944aa"
+
+[[files]]
 file = "config/ritchiesprojectilelib-server.toml"
 hash = "78c64a3078547709a09d511eb0d1c4c5d502a1cb4ebee23553708a5d86acadda"
+
+[[files]]
+file = "config/rpg_series/loot_v2.json"
+hash = "60577cf7d8c68f47fa223d6f60aa03553ab3a89e603fe504d09168fb2275139c"
+
+[[files]]
+file = "config/rpg_series/tag_cache.json"
+hash = "9cb5086763fd033fce69053162c73fd153f5a3d4bbb05181c47a947486d26e0c"
 
 [[files]]
 file = "config/sodium-extra-options.json"
@@ -467,6 +531,22 @@ hash = "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac"
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
 hash = "e15675903d1871c1f16e517b2f28fb7724a3b4b609a3a6d58c3bdc4ffc6ea8e5"
+
+[[files]]
+file = "config/spell_engine/enchantments.json"
+hash = "504170b7a22b5f6a18d1ae510b66386f0af3a9fe24ea98af2175ad9cf2b5ba8e"
+
+[[files]]
+file = "config/spell_engine/server.json5"
+hash = "74b725d6ca4f0b3b5309a175374242331dedfca7976bbf686b002f72567d2aeb"
+
+[[files]]
+file = "config/spell_power/attributes.json"
+hash = "4d77e8a4f77752c328a602e6dd0f0d8a5d37fc6a7882e30e1f595b079447a86c"
+
+[[files]]
+file = "config/spell_power/enchantments.json"
+hash = "70a86e07d3a2038d202e8a64b060cf38385430aa029afd56fa5e833872cf19b7"
 
 [[files]]
 file = "config/supplementaries-client.json"
