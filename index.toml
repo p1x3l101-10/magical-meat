@@ -621,12 +621,588 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+file = "kubejs/assets/minecraft/items/compass.json"
+hash = "bf6ffd4ca71b3cd342ac8ced0a2b3b0c4ca095495d1604ce61c9c891ada3ae8a"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_00.json"
+hash = "abc0c41c414c51e2dcec584bedb39c41f3823b3a385367c7f27847e5ad2e21a6"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_01.json"
+hash = "fb7206161a50cd031b87a0d62be726086f54f48737fc0cdce40ca78be501e575"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_02.json"
+hash = "73f82193cdd7aa354efde001d9aff9dd5c90acbab38bc57a9e7b5987fdf8f1e2"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_03.json"
+hash = "1adbe1a45e511f33c6ea3ff24dffa6130b48ffd902b4a8a84879b0ff3e8c9305"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_04.json"
+hash = "bf3f0b923cf90f26591921cf90cdfc634fc002bb4951f85d806e7cbb8740bbe3"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_05.json"
+hash = "4a3766e445368e764c27c0b9d7f1beafa611706376efad7a55c7d70f045df9a6"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_06.json"
+hash = "ff163a805725ef449fdd0451e743859c13b0b376a9734c8029b27ed514df0715"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_07.json"
+hash = "eeabe9d67af99fe5ed232efbb97be263b4cae873d09861c693625ca87bb61af6"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_08.json"
+hash = "930ae0a87acd0476613a9f522775bb5259cef88542f0bc53acfe4109cd861f90"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_09.json"
+hash = "19903e3d1e1e857190ce27eacd7705f789e3701ffad8f0a161de11df361d0f85"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_10.json"
+hash = "a5484b1aa732ca7ec683f81b4e8398694c16c6a55e8f462edcd611d76a551b8c"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_11.json"
+hash = "e3fc663edab101ca497b2dce36d793588c1ac5bd3a67b0e8f4aa7267139c9d14"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_12.json"
+hash = "73c9850394a110277db7ded8e3fad2407da4af0fb24cb691dd32d3ddf0e99a50"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_13.json"
+hash = "3ae588bf84d7b389f7a8eea2b81af9d2642d146c7c47f613212159cdf924924d"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_14.json"
+hash = "54f168a496ccd4da903a4d9e46f1b60985f7a0f8d72c09de03506d60cdbf464f"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_15.json"
+hash = "a7f2c784c6c57be92cd7f05ae7175039c16a2f6c3f961a2b8d4d9da7cfc334c9"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_16.json"
+hash = "9667a2165dba31026815e6c000dc9b2ddf310b76d0117696f182378d5fa9545a"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_17.json"
+hash = "5c273877e8514f18c5ff3b3e44e92dec2051ac9e3090dec1bfff0a304953bd37"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_18.json"
+hash = "6f22e6a2c8ab9ca0941f0bb79b0295750aa7ffe67a965c446755bc7387a82cab"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_19.json"
+hash = "6ed84fd92d38dc0ca01fbf759869b011135e91dc75baa31fe9c315edfeb498ef"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_20.json"
+hash = "ac0a764503da2582d90f050d9f905260f24d8898e49ea43d543583b2947f7832"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_21.json"
+hash = "52bbbe4014b1fd1ae42a4942ebbbbdb66c45acf9b51492b3abc710bcdb008451"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_22.json"
+hash = "27e03f9e753710cff0533f1dbfc2ea85d9d25333528eca2853508ce91cbce661"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_23.json"
+hash = "54b42bc88bbe1cc816fb832c026ed685ae82427a83db1eabb06b3734bfba5b8d"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_24.json"
+hash = "b9e8f1cf1df39750d14bb36d0bb538028e1f72b034521e6ffbd7d7f0b4b24d89"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_25.json"
+hash = "4fe0428c97c12009aee0cea1c80ad3529bf83bcee8cb3c37ca72c1842e8c09a8"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_26.json"
+hash = "aa59f1d40714dc28d935644118af97573fe8b2d7da946ce9119ad5cb78594b08"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_27.json"
+hash = "69e5e4a203b379caff289660c655573a623896fd0ccb8a9057b5c054c4319ce7"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_28.json"
+hash = "88c3793da4e32182f17688be6d0035a44432006f0042cbbd4844f83718a79ba0"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_29.json"
+hash = "abd6aea1ff04832a1cae7ec0b5bb8e805e2e56723672d5b53ad55acd3051d3ba"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_30.json"
+hash = "3f85b720a3a9d2e943a05c6279e2dab8306019b6321b32980ece87846af54651"
+
+[[files]]
+file = "kubejs/assets/minecraft/models/item/lodestone_compass_31.json"
+hash = "3382bbfaca8e07d3b50a5ab8876a38fea5c2a709c794b204552698d262627105"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/end_portal_frame_bottom.png"
+hash = "403c9358acc3926fb6641b89ea3700a97719330004f7f4e4c2c77a5127529efa"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/end_portal_frame_bottom_full.png"
+hash = "c7d6ba2ac78496a522b92962b33b4200bbe8ee0f5c9383df388160723ac4b9fb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/end_portal_frame_front.png"
+hash = "b750c29527ad811ac5a476c6d5ffcdd37add5a2f65393817db445f27a186924e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/end_portal_frame_front_full.png"
+hash = "45709a05fa0c5fc9741292e4ce0ef0b0e649ce72c45a72374b64ee8a9d48fe36"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/end_portal_frame_top.png"
+hash = "c9bfdb1cb55990b1f7c573ad719d551e492873d7ab1a60ea196557785d44a257"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/block/end_portal_frame_top_full.png"
+hash = "55e5fc00c852620b2f74cd685d0cc2a4078baff85fd856841b38fa3592dbe95a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_00.png"
+hash = "fd5866c255b40f4506d27c2d32aea982470424582405244150fcadfb9eb5d6aa"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_01.png"
+hash = "63aafe5e5fce871ec5a6d1b09deed0214d78cc197f51fa6d1afa2a222c57a72e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_02.png"
+hash = "3a30204883a56918a6f0a41b9d5e0ed9bc30f41cde4e3a19ccbc0d89e7afcce3"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_03.png"
+hash = "d68c71f07982208ef1d0c2053aa8d1f91d7a492ef87cbb41aec9db6cdef77576"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_04.png"
+hash = "39530e2c3d44e29dee608658814930fbfc72c3f44c872fc514405ac2dd63548e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_05.png"
+hash = "22519d8f301d064576c929b5d060dc647eb63f4b186328b5b365c984c253a250"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_06.png"
+hash = "ecd9120dbd9730bb274d196f4d1a23415afa36659d177f76044a27cc6d256cdf"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_07.png"
+hash = "7a70bee879b78577a9adbb3283886a2d667314852f496ea9b2ecfefef9881ef3"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_08.png"
+hash = "83ea54bdb6d6f418098093ecbaef1457e6ffec0d027eeeeec04c47d818463b21"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_09.png"
+hash = "7a70bee879b78577a9adbb3283886a2d667314852f496ea9b2ecfefef9881ef3"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_10.png"
+hash = "93363c78ac9d52e0d573a7fc40ccfcb13382548aeabbcfb28fc1ffe90f0bfc4b"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_11.png"
+hash = "18c9997495031ea3f6ecf0b3796361661ea855ff75c08664fda9af77aa7b19da"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_12.png"
+hash = "adee5672a0459ce7d46d79cb8bce594f23c23d0fa0cb090486465e9eaf702eaf"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_13.png"
+hash = "6ae0a6d0d1a92f0d3472e473c2fff82e940ef27fd5ff3fb69895f75580eff462"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_14.png"
+hash = "5a6038844851ea040549194cfcaee20ce999398bd237f8354a5d3249399b0ae6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_15.png"
+hash = "c1fe0281475b8cbf0e15524ab3477cb81874b645189156f9ae601a2d88497677"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_16.png"
+hash = "322ab67bbfd0dea785941bee564057e076d57de0b0ccc5a9c49f6ba871a9bfd2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_17.png"
+hash = "01ab23a92820c504d468fbd5ec1c1ebc6693d9c915ec286ffbe6e38ddbf29500"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_18.png"
+hash = "ed86c4f668f1e5d870b7354c3dbacadd9141862f809056ae2996bfdcd8727480"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_19.png"
+hash = "1567687845f81726901e74b232c96218488f609a9d322cec3394107a8d0a7310"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_20.png"
+hash = "3e7673ecbe9cedca89d15e0c53ebadeeae777b98a4f230dbe7aae6de8cc38e7e"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_21.png"
+hash = "81c4ddb8ba3ffe0641ffd75a3f0e609d8fa67b6590ac5d840af6ae8f873d0a68"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_22.png"
+hash = "1ef0ab7bebcf9902f96ae137ab8d5a50223c31898d8d64aab391e068ef94f51c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_23.png"
+hash = "94d33c6d5cdf7418bcb93c1e8d035d44334d1949ea768c8f90bd969726e3c885"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_24.png"
+hash = "5874181e28f5d5b8f6febda8217f66628edcf9de317a40a32670fd7911c53a4f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_25.png"
+hash = "5874181e28f5d5b8f6febda8217f66628edcf9de317a40a32670fd7911c53a4f"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_26.png"
+hash = "bc01823453f1d3ea9adb42bb50f345f51a8ef200f55f97361a5da12830170444"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_27.png"
+hash = "6d63fe46ff7fafa0afc314248dff751818e4c209e0a7801f76b1e024470e9d5a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_28.png"
+hash = "6d63fe46ff7fafa0afc314248dff751818e4c209e0a7801f76b1e024470e9d5a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_29.png"
+hash = "e7ffd1907b792b773b9139629a66cbd1d53d125a3a7b60c918f15157b104e18a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_30.png"
+hash = "9b4982a4ad82b0ce631ee92a101b0b83e97d312c73b4dad458db47e35be7f321"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/compass_31.png"
+hash = "eed8070ddaf28f4956bd858de8d2f3d44247f523e6842ea476d123c1f77e86f0"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_00.png"
+hash = "b99c8c850ee3591c3ab4719482f57c7c760013a394a3d9e4660c7f99bbe72203"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_01.png"
+hash = "52e4b6f51315a5b15c766f5634d471c470de2423cebd5b83b7ec219332899272"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_02.png"
+hash = "29b016a9a14a3187dd3979dd13ed4bcc83d471529eb661a1d7f0c708f33193d1"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_03.png"
+hash = "3e6627b57d83f5cbe43d99031d795592e4babd451ac8a79ec81c2907a582f0df"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_04.png"
+hash = "c9fac409e63e24cd3de0647f3b7240b587402c66c0174d9084787c6c47d99126"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_05.png"
+hash = "8c69826bccb3327e37754cf4e85ae47d777f5d952c30722e42d5d845fffbd06a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_06.png"
+hash = "18de4dd884f118fec4177ee82c06e164c8ec25bc5a51cebc30d402a11de00db4"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_07.png"
+hash = "b4689b1ba61c096ac1f59cf8d291395979cc1c4ddcb39e96efc9c1ee35f9d0cf"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_08.png"
+hash = "a77ac1f12f6e68fd78a728604a576e1d016d2c59f1404bb414d28790e5e94daf"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_09.png"
+hash = "b4689b1ba61c096ac1f59cf8d291395979cc1c4ddcb39e96efc9c1ee35f9d0cf"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_10.png"
+hash = "7bee2cb60f03bc4fd613a6908c577fb9c488791c303e669e7e3efff2f13431ad"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_11.png"
+hash = "0ff180a74520d9865a28cc6480fbbbce2ab0a49e02cb730773401c02497d535a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_12.png"
+hash = "6407e631fa12c0f9adf6df4145279b0cbf4270097755633054d67123dfa98fce"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_13.png"
+hash = "3daa8fa228d3519ecff7c6b84a139eb7f87bda4b2346094d7f88d579f9dc0f71"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_14.png"
+hash = "0221b2da762e92b71b47855533a41342642421cbc1412d6cbc75e3ff6dc853c8"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_15.png"
+hash = "08b540e2e991365fca78ced5bcbc199ff54c43777eeae0a6b1a40a86dedbcca3"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_16.png"
+hash = "b9a6e66b54ff215caa3d07a6d74bb159a638ae03ee913e0e8c3b7fd06f90b1b2"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_17.png"
+hash = "3b11ebbf18d8b8d4f4b5b933520e36aa7b6281efb08de7538623c155a9749e48"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_18.png"
+hash = "fb29f68d80affb9b690bfefc638cd0838038369e32e55be3b81c1bee11adcef9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_19.png"
+hash = "75252f71bec4604e7cf3319097de8c0d2b24d5579e62360f20c7a163200743e4"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_20.png"
+hash = "ad5e8ebf4fd4bc19729380197643cd614163dba3995a01538cbcb5d95e146fe6"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_21.png"
+hash = "814fc7586709f2e81993ed5281745af6805093410deac91309fecb124efe349c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_22.png"
+hash = "5050d812fec7c6a3068c5b599148b0bf5fcc7bdb2959e9376b2d9a5af434598c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_23.png"
+hash = "c80dfc668f009a23bb4c0580d20e70b0f1938accec3cdbf1d5d5921e9bf63f5c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_24.png"
+hash = "476c97e11776e8a50e889da12ed16c70cfed20dc7ba7c48d2e503735415a10e7"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_25.png"
+hash = "476c97e11776e8a50e889da12ed16c70cfed20dc7ba7c48d2e503735415a10e7"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_26.png"
+hash = "4a9e8b8a716e4401b686b51e667a0b153e1b39f42a28c306a1f5fe6f92b46288"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_27.png"
+hash = "76559e13032597d553cc3ae23af2e37af6e2cd48d937ba97201614e1ae603ceb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_28.png"
+hash = "76559e13032597d553cc3ae23af2e37af6e2cd48d937ba97201614e1ae603ceb"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_29.png"
+hash = "92f2bb01f453782b1c5fff20e0346622cb106279a4c8fbd5abb77d8a805ca29a"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_30.png"
+hash = "6fdd429b36fcec6b7d131af09f4612e02fcdc30fc27e1548dd15d7d0f2c5035c"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/lodestone_compass_31.png"
+hash = "11fde4f45fae2cb57914a186cf72385cd1c3570160aaea2febfbdc26f5dab5de"
+
+[[files]]
+file = "kubejs/assets/toms_storage/lang/en_us.json"
+hash = "39781c4fc1ae8623a82deac24b8705a094f8aaeb110f036b835f77192e262c8d"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/block/cable_framed.json"
+hash = "e04e43861c92bdc64d2a29970514274cac1a46c710ff24ff63686607cdc090cf"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/block/crafting_terminal.json"
+hash = "fa0540b364e97b37a41a7adb83b6f6682a3455b7733b56d018aeddd2f02c565e"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/block/inventory_connector.json"
+hash = "6e7f3a11f4d540e9288469456bdb6766dfb79011a958fad208ad27bd7eb30501"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/block/level_emitter_off.json"
+hash = "42fbb68d6f1f68fa087c66f57a64b1e93e70b3bfc65c82ca905ebc0d24442a3c"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/block/level_emitter_on.json"
+hash = "edb0a3cf764c169aaeb9865e40734a676b84a76165a291aed72cf9caedc1019e"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/block/storage_terminal.json"
+hash = "869838aa666cf12fd9cc63a88b7a59eb62f08f2508919681f992a8a9506bd20c"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/item/ts.inventory_cable_connector_framed.json"
+hash = "de77e6cccbf5263e9fa50e976e47d340a05b88a54b7be3605ca06d314b4b09d5"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/item/ts.inventory_cable_framed.json"
+hash = "620ed21dec51c11502170054e6224783069ca308f549db307af7112affab1e59"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/item/ts.level_emitter.json"
+hash = "e90d500ef3224f1315259bbb1b00acd3a66730751f3b3765da2e6a49db11bdf7"
+
+[[files]]
+file = "kubejs/assets/toms_storage/models/item/ts.paint_kit.json"
+hash = "83eec0441b82300e940247fa446c922f4e0f799a4077e4b96f46b65de7cafb32"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/cable_frame.png"
+hash = "25e527feba20e3710ef4d04dd26a2ee6b840354fdb68edc7979bd569546b8802"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/crafting_terminal_front.png"
+hash = "93f90cebce4b28e0d9a941421f456102831cc8c97a5a0be031dffaee647f57be"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/crafting_terminal_front.png.mcmeta"
+hash = "abf28852e57166700510a905ff7924bed463e77383179271043075012f3aa391"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inv_cable_connector.png"
+hash = "79d816ecb891f9d967301740a7e8fa01050c0e5795d716b2402db80773a90d31"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inventory_block.png"
+hash = "606d23c98d01fbfa442c11ba7461569800df5ec201bce8f26b8f8692c815b278"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inventory_cable.png"
+hash = "971eb6660a1d9a3d55a3a660943d34a9ee1d7c8307762eaec3bf3a94431f2476"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inventory_connector.png"
+hash = "24cccb5b99d318c01b0c585c3ca7ba69a7c3df221d7be3424aaf787633a49c2a"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inventory_connector_top.png"
+hash = "87e8b69b9f52a6836a6ec06df9fc772b596cd7fcb77875fd25ee826c896700fb"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inventory_hopper_basic.png"
+hash = "4d2dc86fe5e52b86d78106b1a58959ef4429abe96e1dba0659e05f048e15b0a7"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inventory_proxy_bottom.png"
+hash = "e185bd08847f819001b32ae87354eb87498d3e1f08eacd373e2db2199fc190fa"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inventory_proxy_filter.png"
+hash = "47787fb93c00d56ddf247a6d0b6b0eb57c85932daee394400a93900afab8d254"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inventory_proxy_side.png"
+hash = "eadba9e114698c5d046be705207b4f6d2a7535686f1facb3f67b3d49718f4a8a"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/inventory_proxy_top.png"
+hash = "0c65d0fa896e3a11150de272cbe52eb275103b7ca561bd64a82a12c298df2cdf"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/level_emitter.png"
+hash = "df67bb3d6726b314f0b724c35924e8da3c85e43926cc0e1f61f455f1b6490f6e"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/level_emitter_off.png"
+hash = "6bbb623eaa8d8ca0fc4670d49c7ebc67aa6257211a369e9bbe941c72b90bd3ec"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/opencrate_bottom.png"
+hash = "3e46a1ec0f7c2413043db354c037eed34a36d868d0fc328bcc8c4a1c04f10833"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/opencrate_side.png"
+hash = "d2221bf0dc24adc24dcaf18c954afe75df730075a83c29c64e28972cbc49dbb6"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/opencrate_top.png"
+hash = "2ff14574d9b20f663b1c6275c4576e3ffeae5a518ec23a64b0e9c44b82f71095"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/terminal_back.png"
+hash = "6fd272c4b3f91e4d365f6f9a052649b2137e1deaa3af38b04ed096bfd4d0d4b5"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/terminal_front.png"
+hash = "09cd72b8d2d9b9f275bcad5e342bffb45c6991abfd8a5829b936cb12d273a249"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/terminal_front.png.mcmeta"
+hash = "1a3925b134ff4e25d2092f12db23787c7c908c68bcaa91186a732c89e637e8ca"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/terminal_keyboard.png"
+hash = "d9644e3390a92d3a72bdab6f409e958f6296b72ad0db5a51149f74a1802ed31f"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/terminal_side.png"
+hash = "ff7c4ce50a83775d0b9959a62b10f82b93481b4e342973222ee5e168c1ede2b1"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/block/trim.png"
+hash = "5cc5eafa81b1452156d2bdf758f8f3a1af05f3903362db4a8956238c0bef4b39"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/gui/filter_buttons.png"
+hash = "0781bfa4500c2b264981f79319a45180f6b20f4773a7526ca3931e2b4ac3bf34"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/gui/tag_filter.png"
+hash = "58df57e356c394c4305da49aaa41dcb0835b29b31546281e3582621543483d7c"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/item/adv_wireless_terminal.png"
+hash = "e1734e2e758f79d0dade6ed277ccfb8b1f768e7a6d84c0b7fc4a27aba6e96fb9"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/item/item_filter.png"
+hash = "0ed8edd1a7cf32dd5adb4254a8b8c6cf74acdf6ee7691fc1a863f835ff59d863"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/item/paint_kit.png"
+hash = "9ba24d131b41592cc75c083bde1c1cd9137c89d4da8377e7592088bec849a485"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/item/poly_item_filter.png"
+hash = "f4c4485c89d706f5726215e291805e514a42f621671778a143b5604cc592898a"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/item/tag_item_filter.png"
+hash = "7afe938fe4bc74327f8d10e815085c260fb183fceb8b97d838fd66606978183c"
+
+[[files]]
+file = "kubejs/assets/toms_storage/textures/item/wireless_terminal.png"
+hash = "35f6b7024fd928f7d3732f9d9ebed215ff4ef8bc77f9180ece7e8e4579e24084"
 
 [[files]]
 file = "kubejs/client_scripts/example.js"
@@ -1203,16 +1779,6 @@ metafile = true
 [[files]]
 file = "mods/you-were-slain.pw.toml"
 hash = "440d00796292221349937ce80c63acb7c031fa936a75617f4cd925b6dcd0e646"
-metafile = true
-
-[[files]]
-file = "resourcepacks/toms-metal-storage.pw.toml"
-hash = "348f2f3c01aebaa1d619dd66a22c52216d6d475a26a77ae1bcdb614e1978a7e0"
-metafile = true
-
-[[files]]
-file = "resourcepacks/unified-compasses.pw.toml"
-hash = "36a59efc8c062f453a5861bd5364fedd31d32b8236e1705531f62edb7d16f6e7"
 metafile = true
 
 [[files]]
