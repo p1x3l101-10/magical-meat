@@ -747,6 +747,11 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-torches.pw.toml"
+hash = "69aaac3512cc2b6766260d707e28d56d9b53eb7a85532d9fe63052ebb046927c"
+metafile = true
+
+[[files]]
 file = "mods/e4mc.pw.toml"
 hash = "207e904557993d8787bdd9a735ad2f094b06aaed0de9d59a9edb1bfba509f745"
 metafile = true
