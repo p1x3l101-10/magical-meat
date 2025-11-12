@@ -277,10 +277,6 @@ file = "config/hexdebug/server.toml"
 hash = "24d767f58cb2ea04ad24b783b24c3f84a048eb74edb005111e722f0636c08c83"
 
 [[files]]
-file = "config/hexparse/common.json5"
-hash = "92491108dcce2bfaadfcb92e8032c7f3ae7d08e0bda8e00412167c6935c96785"
-
-[[files]]
 file = "config/hexportation/client.json5"
 hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
