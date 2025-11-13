@@ -17,34 +17,6 @@ file = "allium/hexpix/manifest.json"
 hash = "65abbf3f490bdc1994482808add7876d3ff6b7fc58dd1279f3c8820ec5b8cafb"
 
 [[files]]
-file = "allium/tis_books/DOCS.txt"
-hash = "3b589ba6eece020e576cae6c1bfa252c8747bec4218e3188970009eaee3561da"
-
-[[files]]
-file = "allium/tis_books/LecternSerialInterfaceProvider.lua"
-hash = "82331bb9cb83d522c804f8ee412ef06307f3f8af9983f6a7e134e25ef638e91c"
-
-[[files]]
-file = "allium/tis_books/interface.lua"
-hash = "d8b5fb4dbed21efed7b6e7635c52a6232ea626319fbd523ce812ecb8c1635c69"
-
-[[files]]
-file = "allium/tis_books/lecternManager.lua"
-hash = "8f4ba099dba8de9afe24aa628c7813f4d0de61e6cd98ca060b118d0431eb5e44"
-
-[[files]]
-file = "allium/tis_books/main.lua"
-hash = "e2af47e1a939ace298a460ad633c1622bef112ab3b9d38615748af6067ce2fc8"
-
-[[files]]
-file = "allium/tis_books/manifest.json"
-hash = "21803ef67e731c23faf815f79085c60207e181e0f475911adc660cdae09ba301"
-
-[[files]]
-file = "allium/tis_books/provider.lua"
-hash = "e6f8461e55f219d9e1531ca2fe0cf568f4b3fec74c26050aea5f8dc37a70a41b"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
