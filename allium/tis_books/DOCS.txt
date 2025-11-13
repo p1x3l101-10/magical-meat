@@ -1,0 +1,20 @@
+Control codes:
+
+Any negative number will set the module back to control mode
+
+Modes:
+
+0: Info mode
+1: Page mode
+2: Content mode
+
+Info on Modes:
+
+Info mode will return the current amount of pages that the book has
+Info mode will discard any writes
+
+Page mode will take one (positive) data byte and turn to that page
+If you read while in page mode, it will return the current page number
+
+Content mode will read all bytes sent to it (interpreted as ASCII) and write the corresponding character to the selected page. To stop writing, send a negative number and you will be sent back to mode select
+Reading from content mode will send a stream of bytes (ASCII). Each byte will be sent in sequence until the end is reached, then a 0 is sent and no more bytes may be read
