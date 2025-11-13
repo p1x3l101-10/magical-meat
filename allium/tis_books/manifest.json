@@ -1,0 +1,9 @@
+{
+  "id": "tis_books",
+  "version": "1.0.0",
+  "name": "tis_books",
+  "entrypoints": {
+    "dynamic": "main.lua"
+  },
+  "mappings": "yarn"
+}

@@ -17,6 +17,18 @@ file = "allium/hexpix/manifest.json"
 hash = "65abbf3f490bdc1994482808add7876d3ff6b7fc58dd1279f3c8820ec5b8cafb"
 
 [[files]]
+file = "allium/tis_books/main.lua"
+hash = "e2af47e1a939ace298a460ad633c1622bef112ab3b9d38615748af6067ce2fc8"
+
+[[files]]
+file = "allium/tis_books/manifest.json"
+hash = "21803ef67e731c23faf815f79085c60207e181e0f475911adc660cdae09ba301"
+
+[[files]]
+file = "allium/tis_books/serialProtocol.lua"
+hash = "ee244b3c0a53405610e47cb42f213aa86d47f31e29d037d6e22f6d95d0b0ce77"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1652,7 +1664,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "67b973f3640c8ab7cdc6f69cdc919e87487c97af2975dc8714e41c296d32d8dd"
+hash = "77ba17c03e1b73462a506cb5880cf50e6432da0d94fdb5b18813fb29bccd588e"
 metafile = true
 
 [[files]]
