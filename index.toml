@@ -274,7 +274,7 @@ hash = "8b98819586c291487883596dc95806f9d97d01f429f5efae11d706e7aa6dcb99"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "3cc82f0b4322b6e00d26a942b04cf54b77a94e0b892d4dc74b8660abf5bb8495"
+hash = "7f5a1c9c4c5075dc61d5c8736148d8dddb6a060820ce1775b7a125557ac553ad"
 
 [[files]]
 file = "config/hexdebug/client.toml"
@@ -318,7 +318,7 @@ hash = "466a145e9d94fef2ed66f6620491ad910888e861916894fdd1beab06e37a08bd"
 
 [[files]]
 file = "config/hierophantics/client.toml"
-hash = "f3a595b517575ce6b01929281884219ff7048ff280b97f7e767cb85bc581d5d4"
+hash = "10905e9136eb599dd7d0af00e328d5362319854489cac25943b9c88c0f529889"
 
 [[files]]
 file = "config/hierophantics/server.toml"
@@ -1458,7 +1458,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexdim.pw.toml"
-hash = "43205cc02ed373e94db92a369da5c58a9f3380261cfe73f58bc0b7b04b7ad9f7"
+hash = "b1aa5f7404a2f7dc1c0257864354e93ee8833bcb996acb50423238b896aa646e"
 metafile = true
 
 [[files]]
