@@ -1458,7 +1458,7 @@ metafile = true
 
 [[files]]
 file = "mods/hexdim.pw.toml"
-hash = "b1aa5f7404a2f7dc1c0257864354e93ee8833bcb996acb50423238b896aa646e"
+hash = "43205cc02ed373e94db92a369da5c58a9f3380261cfe73f58bc0b7b04b7ad9f7"
 metafile = true
 
 [[files]]
