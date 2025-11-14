@@ -650,7 +650,7 @@ hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a4a4deb3dc961ffd0284dc993235f50ec2c8b73be29b17fe246e0ef3c07a3cc9"
+hash = "2981a59853756e61e41b50d7d5a2ca10f4fa308418f6fc3167064100189419b2"
 
 [[files]]
 file = "kubejs/README.txt"
