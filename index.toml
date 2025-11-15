@@ -1657,7 +1657,7 @@ metafile = true
 
 [[files]]
 file = "mods/neepmeat.pw.toml"
-hash = "77ba17c03e1b73462a506cb5880cf50e6432da0d94fdb5b18813fb29bccd588e"
+hash = "099f3a679044156c83e3dc722e6989caaafe5baf027173a96328ba034ae692e4"
 metafile = true
 
 [[files]]
