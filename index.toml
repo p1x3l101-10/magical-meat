@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "allium/hexpix/Patterns/placeholder.lua"
-hash = "b94725cf1ea8ca1ddbdcf5d0b06130d3a49afb7e80c2a5d8d30921d9de37ddbb"
-
-[[files]]
-file = "allium/hexpix/Registry/hexpixPatternRegistry.lua"
-hash = "e35cb2f18dcd06e06657ba59b9853bcced3b9b322b20dd2cac0674914634b625"
-
-[[files]]
-file = "allium/hexpix/main.lua"
-hash = "f8a2bed0c4f2d03c139a94552df9f54208d7719b6128282b61deb4f3914572e0"
-
-[[files]]
-file = "allium/hexpix/manifest.json"
-hash = "65abbf3f490bdc1994482808add7876d3ff6b7fc58dd1279f3c8820ec5b8cafb"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -2815,11 +2799,6 @@ hash = "6bb34a1898552ce09a310c7af9a571f5c9349ea3269074c9605b6795d37d8138"
 [[files]]
 file = "kubejs/startup_scripts/example.js"
 hash = "f447c0e4266e15b34a4f961e1356ca22f1036b07e439a689de22bb6a293e605d"
-
-[[files]]
-file = "mods/allium.pw.toml"
-hash = "761b6253c867c70d3ee410bde8cecb43dfa3ea36372a58030ab2c7963ea3cce6"
-metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"

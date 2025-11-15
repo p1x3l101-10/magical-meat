@@ -1,9 +1,0 @@
-{
-  "id": "hexpix",
-  "version": "1.0.0",
-  "name": "hexpix",
-  "entrypoints": {
-    "dynamic": "main.lua"
-  },
-  "mappings": "yarn"
-}
