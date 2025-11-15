@@ -3353,6 +3353,11 @@ hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
 metafile = true
 
 [[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
+metafile = true
+
+[[files]]
 file = "mods/touhou-origins-blessings.pw.toml"
 hash = "659eacfa6ba4df9a6d03e0566888550f29fab511a5ec13a5a834d239ce5e32c2"
 metafile = true
