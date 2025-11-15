@@ -3186,6 +3186,11 @@ hash = "9ce6efc7149cdae2deb751b4ebf2d220700cc1b204e7a1d026275203387f106b"
 metafile = true
 
 [[files]]
+file = "mods/no-invisible-particles.pw.toml"
+hash = "95a3612a773208f93718a8963ef4ac401d88fcb00dbf756076ebe67e21147301"
+metafile = true
+
+[[files]]
 file = "mods/nyctophobia-dread.pw.toml"
 hash = "74d303cbabbf2a66dbc0a8e0a750a1deb0443d59ec40b0b92b830ab5171596e2"
 metafile = true

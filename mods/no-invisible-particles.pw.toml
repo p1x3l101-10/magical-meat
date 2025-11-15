@@ -1,0 +1,13 @@
+name = "No Invisible Particles"
+filename = "no-invisible-particles-4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vuIZj2vc/versions/ncTKKrlO/no-invisible-particles-4.jar"
+hash-format = "sha512"
+hash = "51535bc802b6e1fd01c11e8733810b97875e03faa1db56cab67bfa7607a30ef55779d959f344b6597524770c1fe17f2c342cf7e5c089328497455e0ac80a74cc"
+
+[update]
+[update.modrinth]
+mod-id = "vuIZj2vc"
+version = "ncTKKrlO"
