@@ -1077,6 +1077,346 @@ file = "kubejs/assets/minecraft/textures/item/lodestone_compass_31.png"
 hash = "11fde4f45fae2cb57914a186cf72385cd1c3570160aaea2febfbdc26f5dab5de"
 
 [[files]]
+file = "kubejs/assets/tis3d/models/block/casing_empty.json"
+hash = "857f2ca38b698414323da1a006ebfd6171c0214595c37179c5ebbf9421736ce3"
+
+[[files]]
+file = "kubejs/assets/tis3d/models/block/controller.json"
+hash = "3f65b942da43297aa846bc32a51ba41d485b75f04c2061417b9f002d48ee248c"
+
+[[files]]
+file = "kubejs/assets/tis3d/models/item/facade_module.json"
+hash = "723a65ed515e7548152c960c7ef00d4c26cf5367d8253e1463b52b5f3b5a04c0"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/casing.png"
+hash = "8daa956a9cfd3a0c1c05e257b274e299603c1415f609f2e28d856b79bbf40ded"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/casing.png.mcmeta"
+hash = "3c29912ce13abcb8ecf4b0d5b4112896036531b58d3ab3f68b869d23ca5b41e4"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/casing_module.png"
+hash = "d04457e3abb28fced7c6009ccbbc2ceb1cb777b13ec6c7fffcbf14552c7e497d"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/controller.png"
+hash = "4575b77c5be0f52f4ec6b3dd4086c6b9a429ef47da622df00d27ff0c7501be52"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/controller.png.mcmeta"
+hash = "3c29912ce13abcb8ecf4b0d5b4112896036531b58d3ab3f68b869d23ca5b41e4"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/controller_edges_east.png"
+hash = "4fbae761b5fcd450abaa7ef2ea20a75ad50d10d5e5c44c86f0d80ec1c272c582"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/controller_edges_north.png"
+hash = "377e172c62933ad680db20e227527964822da215f2864603cb0a6b5f447dbc8d"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/controller_edges_south.png"
+hash = "e68d61b51ef4cd9f106ddb49682dc2507389d33961751b4ad4ad5a02e017c277"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/controller_edges_west.png"
+hash = "745e779ba56f6f217adee8342109603066b0f0d04808a524dc9b2709850de731"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/audio_module.png"
+hash = "3ae45e4815c659842ac1aff74a5685317d33be79bb0554ed8d06ee2eed154f5a"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/audio_module.png.mcmeta"
+hash = "c5c413f48519f09dd4a01d7b4d1ded298e90946f16c354b42c09a4feb371531e"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/casing_locked.png"
+hash = "3cd2da5603114fc0d6032f569b80e990f2616e6f9f254c22436687594013ee9f"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/casing_port_closed.png"
+hash = "6c81b9058a35fe63c9bd75545c3bae662639f3c26be4b1ff465accfbe1cc1f11"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/casing_port_closed_small.png"
+hash = "8f147142f34dcd5d299884914d46e55a073a385f54b0eda667150103bfd68d0f"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/casing_port_highlight.png"
+hash = "47ede59276d155d80e6737c5924a886823faf53863d602c8d5b0ccf170d4c2e8"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/casing_port_open.png"
+hash = "4a9776a8b664f1e6c3780df774fcbba8e07df75b87115dbeee9016fa214030cb"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/casing_unlocked.png"
+hash = "d03bbec0bb2d7dba9eed9d4c7e3522f8d0ad40eefbd21f76407cff280d37fbd1"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/execution_module_error.png"
+hash = "b9cf82489bd92cbabfc4c8d4079a9ba4f52aa1ea160fa16d598947d218e5b3fc"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/execution_module_error.png.mcmeta"
+hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/execution_module_idle.png"
+hash = "2e899368f9f6b2f3b5b21e729b619910c470d290ee9172bda89c6020cbf09a14"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/execution_module_running.png"
+hash = "e84c4a4ac4a98c19d1696aa63b0a9b257534b0306105694ae093d26d8226b78f"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/execution_module_running.png.mcmeta"
+hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/execution_module_waiting.png"
+hash = "04f81fe01ef2649a301366c52a91ebf7869fa9d3de086f0ef8f24a69e3b96c2a"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/execution_module_waiting.png.mcmeta"
+hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/infrared_module.png"
+hash = "6a73ebdf5cedeefa7b3276b4c8289bcdc3b1788ded0f763da76c085e44b9a70c"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/infrared_module.png.mcmeta"
+hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/keypad_module.png"
+hash = "5cb4f5dd1ec442a391fa2e232913203eab8d8fc4b40979be6622890c27da8cba"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/queue_module.png"
+hash = "b1a60589ea094ba43778dca9b6b3c183b4422cf9dee3962700282ff4a44c3709"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/random_module.png"
+hash = "3691ba4d67877b11586154978d404079cbf8e290a087839014a937b25a6d2c21"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/random_module.png.mcmeta"
+hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/redstone_bars_module.png"
+hash = "448909dbbff04596b74d2a1f9a767cecc4213baf3b6fb23d5aa1d5a0caceba6f"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/redstone_module.png"
+hash = "e23d44bff61c7ed493f49b9478452c63c6aa8daed3f8a6ac8c552728ffbffebf"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/sequencer_module.png"
+hash = "06f0946bc0976e44381638a6192f3716aaef7236d7965e62df09d0a935d00152"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/serial_port_module.png"
+hash = "de0e89cee56235ce9603406fafad3a422d4c9a74dd770a6b580b2c902cedb771"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/stack_module.png"
+hash = "b05d49cebc5e4b9cc95e49cc066da74063bf63550e3c507605a1adcbe31f8a61"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/terminal_module.png"
+hash = "da25090ee4c12864320947add34a59e0a4982da0f8b7f720f6b88e60d4920577"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/terminal_module.png.mcmeta"
+hash = "ccc2eb7492b1179c1b6400b0c58a32171aa429c86ee2aefc6cdd912f53e5b438"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/block/overlay/timer_module.png"
+hash = "2831b552945a96d7622a508c337e8d238765d72878f57dd13fc0965e7978b764"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/gui/code_book.png"
+hash = "78f33fdf22faa74f8e9f7ddfa1185788b15773f30e6bd1ea268e18d9339f3ec0"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/gui/manual.png"
+hash = "d3acc63d3b2addf208e50229272e52088dad797f7e42c0a32a3aa91d6754ec04"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/gui/manual_home.png"
+hash = "940ccf8b62a67a317056151a0e2499bdd6496f9019f32ef1349468911754b326"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/gui/manual_missing.png"
+hash = "9cd89a90e8c41bc90d4daf5f5f0b3375bc3c742ee58555acec11badae82fba2e"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/gui/manual_scroll.png"
+hash = "6952adf15e0427125877b6a58d42e0c55b33e0fc6663f2ca89df5168798e542e"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/gui/manual_serial_protocols.png"
+hash = "479880d816063879f329e32f6c492e0a87e72577afe5bb6135c576919a02b856"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/gui/manual_tab.png"
+hash = "a0576c35e900bd9f50d60d5c70c743c6057e19f9880881b985ad56f793d534d4"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/gui/module_memory.png"
+hash = "e80bfbeaa65de0b1ef7f6f67112e7ad5e58f6e84f7675e582b39adce105adef4"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/code_book.png"
+hash = "596a5f740bf4f203df630f5d969c895a98220fae99db982b75b09ac76d8f7ac5"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/copycat_base.png"
+hash = "43e8eb417fd683615d9b3c605e64d6751e4d0732d89e2e3616be78cca124cbd8"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/display_module.png"
+hash = "dc511fa3c8daf972fbe968272352bde17943ce093c6339c5590a6eb052937c52"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/display_module.png.mcmeta"
+hash = "9b53d9769418604cb936e1e76b0a8264741f7229dcc4674d5343d484925b1c4b"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/key.png"
+hash = "249739fb2d51977933e63e5769d8f6620ec782596087ee81954ebfea0e3ca96b"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/manual.png"
+hash = "0339fbd3893bf404618cfcdd36e6186b39ee06f696b46f0f736d6da3f9442171"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/prism.png"
+hash = "a750727cf1b565e43154d601856dcda2a1484e801fc28eca8ae8e266a643472b"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/prism.png.mcmeta"
+hash = "7cdbcdc792481b55d563f7b843ebd2b1e9b939ef9308fe08f1bc519f80153f66"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/queue_module.png"
+hash = "375733ea31b3b2d785103c49897f20c6e8c0033827f67076b7a474631cd66f5f"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/random_access_memory_module.png"
+hash = "407ff852dbdc0fd3ea62e1c172fb91fe28e3935cbdd104a4811339aa3d2de9ff"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/random_module.png"
+hash = "e6e32b1aa9b913f8dee49d84f5587bf12a08df9eb8d16ea64036ec343320f825"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/random_module.png.mcmeta"
+hash = "7dc16041541801a5bbfd3e98fc2e939ca860cc063a19393da16841eca4212b37"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/read_only_memory_module.png"
+hash = "f38f82ea178f655f217b24d77a7ec7070f8865ffa8eb8d9ad01cf34595946575"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/redstone_module.png"
+hash = "2df09ea58d73f891c7da3d830f99dc2ea9c6248fa0c3a5cfadc4707a31059ae4"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/redstone_module.png.mcmeta"
+hash = "9b53d9769418604cb936e1e76b0a8264741f7229dcc4674d5343d484925b1c4b"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/sequencer_module.png"
+hash = "3e9de9ba4971d137ea3b3609ba9aed2440d80b023fd899acfdb502cc914f9053"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/sequencer_module.png.mcmeta"
+hash = "3c29912ce13abcb8ecf4b0d5b4112896036531b58d3ab3f68b869d23ca5b41e4"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/skeleton_key.png"
+hash = "5c2366fda71d2156667144c14c9a9268b7486d794d614563b7ab822f40765f17"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/skeleton_key.png.mcmeta"
+hash = "2081d15121a868177e1500f117f77eead7312f15d86a5d49e7bc6f772f2cfb9c"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/stack_module.png"
+hash = "d97a2a44002bb0ef927404b072305218c8d8e4f383973549d08128d28c4a9e93"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/terminal_module.png"
+hash = "7f68521a04add87fe0a13a89c1e6f0e81086989c2072854ddf33e7732d85b327"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/terminal_module.png.mcmeta"
+hash = "ccc2eb7492b1179c1b6400b0c58a32171aa429c86ee2aefc6cdd912f53e5b438"
+
+[[files]]
+file = "kubejs/assets/tis3d/textures/item/timer_module.png"
+hash = "ec8498b91d641886042c155c296ab6d0e7ec6f0efec11831b0a22d25e2b5f8bc"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/block/overlay/asic_module.png"
+hash = "63d0cade1d3a4bf3d8aa201d01cd6221954864a5f1a44862069fec8ad83064a2"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/block/overlay/radar_module.png"
+hash = "9840341d154727e6e7c36d8538beccc38465159c1da44a130f003911cbf4e433"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/block/overlay/radio_module.png"
+hash = "81d8889a888d466cde50adb1200c0e77eda1282dcc3b47599e220e09a37a1169"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/block/overlay/radio_module.png.mcmeta"
+hash = "73c791121774d935b766d6a451bdc3ca8eb7c6f0f35833e6c368994830447831"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/block/overlay/seven_segment_display.png"
+hash = "c3daa3aab0c73ddb9d1660e376a66ee6ac758021575b12db51057af07c464d38"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/block/overlay/switchboard.png"
+hash = "828dc0783086960b461aa9882169b73c5ef0e8cc61d692e5d878fc394bfd4ff3"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/block/overlay/tape_storage.png"
+hash = "fd2f1f261504b0650cccd6975dc424286bf548c7e206f84964b20b52802c95ff"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/item/asic_module.png"
+hash = "9455c1b4412da5be04af746c9861175450998c5c01eb5dfc7d82fc60a05aedaf"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/item/radar_module.png"
+hash = "59b0c7c0e116f73dcde62c9dfa38ce8beeeb067a6bd542a9a44c9fc131acc4b8"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/item/radio_module.png"
+hash = "7bac69ed84cef765890786b4c647dd889ce94cc35fc2d81ea239ba441d568beb"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/item/radio_module.png.mcmeta"
+hash = "047f0ab7f21b39b84ae9a6509c3819dcfdab38023dcc60a4b7e9a1e451ebfd70"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/item/seven_segment_display.png"
+hash = "07c776c3d7e5aaf713ed3aa74209e43da55c2721a34042ad2882d38ecfe77355"
+
+[[files]]
+file = "kubejs/assets/tisadvanced/textures/item/tape_storage.png"
+hash = "fd2f1f261504b0650cccd6975dc424286bf548c7e206f84964b20b52802c95ff"
+
+[[files]]
 file = "kubejs/assets/toms_storage/lang/en_us.json"
 hash = "39781c4fc1ae8623a82deac24b8705a094f8aaeb110f036b835f77192e262c8d"
 
