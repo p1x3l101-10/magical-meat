@@ -2789,6 +2789,10 @@ file = "kubejs/data/kubejs/recipes/transmuting/my_bad_alchemists.json"
 hash = "f0a6d6c0ee61f87995e4aefc8c15e968efae89fb676eda6e8fbb34fe3c8cfad9"
 
 [[files]]
+file = "kubejs/data/neepmeat/recipes/enlightening/enchanted_golden_apple.json"
+hash = "1db88fd87bc17fd66e47a176f4ec63da670c33fb56761cef6dcd18361783f6a8"
+
+[[files]]
 file = "kubejs/server_scripts/advancementSpam.js"
 hash = "6e354fe80b68fbba34f035aff8aa838b7a015991232185aa061d9133f3730075"
 
