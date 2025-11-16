@@ -2995,6 +2995,11 @@ hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
 
 [[files]]
+file = "mods/bonfires.pw.toml"
+hash = "c0f4ff015f670dcaef785c1a3d95fc1c26e10bfde02ba63b2cf418ef38ca6d34"
+metafile = true
+
+[[files]]
 file = "mods/caduceus.pw.toml"
 hash = "bc10528b0f0b0308bc4bfb1eb6c15451da406f28c8d95ed7b3d111820d5fc108"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Bonfires"
+filename = "bonfires-1.20.1-1.2.20c-fabric-c4e58cf.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/amg8VIPH/versions/DPZmJRnn/bonfires-1.20.1-1.2.20c-fabric-c4e58cf.jar"
+hash-format = "sha512"
+hash = "7a42a58f0512f4bc349be6e07938f7bfda84e5d89549b26c17749baa9ac7db7458c26e73e671e87615f85f288dd9b7e9dce8206df308f6a0dc715ce9a6e29a35"
+
+[update]
+[update.modrinth]
+mod-id = "amg8VIPH"
+version = "DPZmJRnn"
