@@ -2920,6 +2920,11 @@ hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
 
 [[files]]
+file = "mods/ducky-periphs.pw.toml"
+hash = "cc6eb3c71b6f59304db3600f9a4878526a87af81f4b2d195e3a8a21d513878ee"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-torches.pw.toml"
 hash = "69aaac3512cc2b6766260d707e28d56d9b53eb7a85532d9fe63052ebb046927c"
 metafile = true
@@ -3072,6 +3077,11 @@ metafile = true
 [[files]]
 file = "mods/hexthingy.pw.toml"
 hash = "a12033b30bacf51de49b79599cf4d02591bbdac978f14a6a8b4b245e718f52da"
+metafile = true
+
+[[files]]
+file = "mods/hextweaks.pw.toml"
+hash = "304fda9dadcfbc199dd2415aba2a164cb2f31fea6b44ed242271fef6fb194174"
 metafile = true
 
 [[files]]
