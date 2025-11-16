@@ -274,7 +274,7 @@ hash = "8b98819586c291487883596dc95806f9d97d01f429f5efae11d706e7aa6dcb99"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "7f5a1c9c4c5075dc61d5c8736148d8dddb6a060820ce1775b7a125557ac553ad"
+hash = "9097f602d91bdbe7d8f4a8fb13035229c244a08ca7650def5dfeadfc179c1465"
 
 [[files]]
 file = "config/hexdebug/client.toml"
@@ -606,7 +606,7 @@ hash = "3360fd65537503100ae41a053f0ec3081ed837e8ef95ad567dd7bdd11541f4b5"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "a18ccb2ec7030e305df98d615a67590969db5d9be6859092e474e1ef3e498b4e"
+hash = "6ff5898bd65754dc9a6961b4f514d35c1287a10ab09d8fffb77a6506b3c3dc63"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -2871,6 +2871,11 @@ hash = "4cd181924c100d861938395434fd5c5cbb9ffbc3c423f9812e0bb7fcd43e472b"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -2898,6 +2903,16 @@ metafile = true
 [[files]]
 file = "mods/death-knights.pw.toml"
 hash = "ef745f8cc5a093b4a1d6f7809f8bdc9b95a6bc2b4ef1a74aca9adbdf7ecf58eb"
+metafile = true
+
+[[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
 
 [[files]]
@@ -3168,6 +3183,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "b6685e98fce8f1f45868b9df3dbaa410ec23bb64896c826be596d98b01326116"
+metafile = true
+
+[[files]]
+file = "mods/mystical-oak-tree.pw.toml"
+hash = "77b1b462c5717cf66d59f9a1a906b6afb526488a7d16c109082d4a64b1e4967d"
 metafile = true
 
 [[files]]
