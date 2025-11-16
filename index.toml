@@ -21,6 +21,14 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
+file = "config/allium_mappings/mappings-1.20.1.tiny"
+hash = "3d0722089deb99c32c9942a3d9f9f7a74e17e744477814b0f0b06194d8e4a2f0"
+
+[[files]]
+file = "config/allium_mappings/yarn-version.txt"
+hash = "e88ae6cb8fdd704a51a4540703c241ea3eab47f8db14e134aa895b2977abb3e8"
+
+[[files]]
 file = "config/amendments-client.json"
 hash = "c11e10dcc6c9e84f77040e6e8171351a9ac30acf8af8c6d6dc872177fdfc03dd"
 
@@ -161,6 +169,10 @@ file = "config/bluemap/webserver.conf"
 hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
 
 [[files]]
+file = "config/bonfires-config.json5"
+hash = "9302bf41e26a8bd87d1bab55baee7ed0280872a43a2ff176938abac6a01cc1fe"
+
+[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
@@ -185,6 +197,10 @@ file = "config/complexhex/server.json5"
 hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
 [[files]]
+file = "config/computercraft-client.toml"
+hash = "4ff118c3bf2614ef4e86187f1c0b05551324507a136f8932153ca65537fb95a6"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "74dbce3a70ab7968720af1b138b93a2baef8d2c7e6bfa113f58735cfabb7310e"
 
@@ -207,6 +223,86 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 [[files]]
 file = "config/createbigcannons-server.toml"
 hash = "93bbe03b397ef285cd18a78c74f1442fb3b0c4b840f38d1cdd77dd3e148adf45"
+
+[[files]]
+file = "config/darkness.json5"
+hash = "de9ac6057bae0b6abb94cf6ef41569d3a03892efef1d68cb3f96f4022aee55c9"
+
+[[files]]
+file = "config/death_knights/client.json5"
+hash = "e3eeff87e381d5a08c188b4d27638ffa2e8dd78bf1128200e013c26f7dfaeabb"
+
+[[files]]
+file = "config/death_knights/enchants/decaying.json5"
+hash = "00b1cf10c453f0a493e01a8fd58b58636693caad416608fef0f011ba3b4a3c4a"
+
+[[files]]
+file = "config/death_knights/items/armor_sets.json"
+hash = "9735434a452e5dc2c37cfa296c951e3a6e660369a7f7dbcf7273b21fd2991489"
+
+[[files]]
+file = "config/death_knights/items/jewelry.json"
+hash = "f3b8ee33e543f0ae41f92182e8f5770726fc05870c345ff5dc5cc45db55ba4f8"
+
+[[files]]
+file = "config/death_knights/loot/jewelry_v2.json5"
+hash = "8c5e61292d01a4957d975d64906357c1316fba83d560380889839416a47c0ca1"
+
+[[files]]
+file = "config/death_knights/spells/blood/blood_boil.json5"
+hash = "84450a9861dbeefa889f43fa1950de1ae3c063199367c805caa4a9773f78e0fc"
+
+[[files]]
+file = "config/death_knights/spells/blood/death_strike.json5"
+hash = "3974b05ff54215ba8d1ce42243630e6654ac2bf1e02117917453aaffd0351b6c"
+
+[[files]]
+file = "config/death_knights/spells/blood/marrowrend.json5"
+hash = "a53dbb1d63e66bcca8bfbbe900a6a211f5435475bbb57e7b5b00278d0ee3f26f"
+
+[[files]]
+file = "config/death_knights/spells/blood/passive/blood_thirst.json5"
+hash = "0c4b6c1dfec3c0e421ec4f5f3986a55ed2bd79ad3646726d261b333d8fb23421"
+
+[[files]]
+file = "config/death_knights/spells/frost/breath_of_agony.json5"
+hash = "890cedd836a349502fda9de8f76633cdb4579d390f634616dd60f4ccda516df3"
+
+[[files]]
+file = "config/death_knights/spells/frost/obliterate.json5"
+hash = "bf85c55b098e90f0f8d944a5cdc1e416ffe0f031327093fe827428d7dd459d0a"
+
+[[files]]
+file = "config/death_knights/spells/frost/remorseless_winter.json5"
+hash = "f86a31e88cc264bb37238a0faa7159bd9d431094bdf2b92ffaa888e99289d160"
+
+[[files]]
+file = "config/death_knights/spells/unholy/death_coil.json5"
+hash = "9c3335e862ad504b4d7895b38f003b239675eccef591ca168f94c9430279323a"
+
+[[files]]
+file = "config/death_knights/spells/unholy/death_grip.json5"
+hash = "c6fd89523c519f311c62a96263d5bd7d316d76cb546d886504b7450405150ed8"
+
+[[files]]
+file = "config/death_knights/spells/unholy/plagues.json5"
+hash = "c585a13f47d0eaee0db56821969999be4ed006870ef18208797bea858f0ee51d"
+
+[[files]]
+file = "config/dimdoors-config.json5"
+hash = "debf0d9fa5aefe23d94101b9604b448d4889c9586c65c47c089d2778cd6fed1c"
+
+[[files]]
+file = "config/do_a_barrel_roll-client.json"
+hash = "ee32faf303d3beaff76ee54091bc95788048046b6e948ea7795d1eb34f365607"
+
+[[files]]
+file = "config/do_a_barrel_roll-server.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/dynamiccrosshair.json5"
+hash = "930cf24ed59f7733c2f030a5ea9976ec227da78555d2788063b4bd4655c30d24"
 
 [[files]]
 file = "config/e4mc/e4mc.toml"
@@ -409,6 +505,10 @@ file = "config/lootr.json"
 hash = "21f248f54cbad486741a6c7c660cc7bffee7b2520280bfae7999aee4dfcb0595"
 
 [[files]]
+file = "config/midnightlib.json"
+hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "94eaec2a459f27b9e5726bd83c70584476b26705a1c0479dcd6eddaa46f1962e"
 
@@ -437,6 +537,10 @@ file = "config/moreiotas/server.json5"
 hash = "1cefc859dd28bc19e98c6485a9a88d2f79a6553e3d59eeedae29c20ecc54fdfa"
 
 [[files]]
+file = "config/necronomicon.json5"
+hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
+
+[[files]]
 file = "config/neep/neepmeat.toml"
 hash = "88248ba954aa4f87e935a26eee87556401d175227f462681d95fb460fafc9ae7"
 
@@ -455,6 +559,10 @@ hash = "fdf25e2e970edb6c7d7f036ca2fcf09c2cd2077418a4b17bb5d3383430a46ea7"
 [[files]]
 file = "config/origins_server.json"
 hash = "dcabca28374a74dd40a118cbb7ebbfbf094fea86ebd6302a8894e23004f034e7"
+
+[[files]]
+file = "config/overflowingbars-client.toml"
+hash = "5c1a0f1b8ee02b615b071087258461d0ad9848c1a010b06117b52384e890ac7a"
 
 [[files]]
 file = "config/pal.properties"
@@ -493,6 +601,10 @@ file = "config/polymer/auto-host.json"
 hash = "9c14a7ce4b3fcc893b85c9acc3c4dece2c67945d3f1e5a02ff12654f1fafdbcc"
 
 [[files]]
+file = "config/polymer/client.json"
+hash = "f16cd4039869b7c436f6904b6a51f856083fa6b3d91828af770e535b011571ec"
+
+[[files]]
 file = "config/polymer/common.json"
 hash = "310dee45deffb1f13169492bf25cee00503e91403daa8cffa653939feb76cc03"
 
@@ -525,6 +637,14 @@ file = "config/rpg_series/tag_cache.json"
 hash = "9cb5086763fd033fce69053162c73fd153f5a3d4bbb05181c47a947486d26e0c"
 
 [[files]]
+file = "config/scannable-client.toml"
+hash = "b2df49575a531ef15f6be3058c4a788ef7f163ba678c7d1fe9b2ad3b0bf7389a"
+
+[[files]]
+file = "config/scannable-common.toml"
+hash = "72308afdd49cafa6eebcf1e296c63e5072eb78c8f3ddd4ec127d103112c8136c"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "397c8144c4440ecde7899c8d0bda480354bee15bd8f4b1d238a673fab9a7b034"
 
@@ -549,8 +669,16 @@ file = "config/sodiumdynamiclights-client.toml"
 hash = "e15675903d1871c1f16e517b2f28fb7724a3b4b609a3a6d58c3bdc4ffc6ea8e5"
 
 [[files]]
+file = "config/spell_engine/client.json5"
+hash = "3203ea4f6833103e5e7c50727c5521b6853d2c0814335eda3476b9e2b1213e0e"
+
+[[files]]
 file = "config/spell_engine/enchantments.json"
 hash = "504170b7a22b5f6a18d1ae510b66386f0af3a9fe24ea98af2175ad9cf2b5ba8e"
+
+[[files]]
+file = "config/spell_engine/hud_config.json"
+hash = "0b5bdb344e4a4f804a7ff5a7d2ebad5d59f98ddd2aa4d5bc810cfc8feceb473b"
 
 [[files]]
 file = "config/spell_engine/server.json5"
@@ -601,6 +729,10 @@ file = "config/voicechat/translations.properties"
 hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
 
 [[files]]
+file = "config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
 file = "config/voicechat/voicechat-client.properties"
 hash = "3360fd65537503100ae41a053f0ec3081ed837e8ef95ad567dd7bdd11541f4b5"
 
@@ -621,6 +753,10 @@ file = "config/xaeroworldmap-common.txt"
 hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
 
 [[files]]
+file = "config/yacl.json5"
+hash = "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "cecae3a750fb40a17ed8de5be3421efa388ec8a338aa7842116d70dd5a9e175f"
 
@@ -635,6 +771,10 @@ hash = "6cae8c6c64eeebf4dd15076b8f172a440bf1ece460aef63d3abe206e2d45fe8f"
 [[files]]
 file = "config/yosbr/options.txt"
 hash = "2981a59853756e61e41b50d7d5a2ca10f4fa308418f6fc3167064100189419b2"
+
+[[files]]
+file = "config/youwereslain.json"
+hash = "fb89b6dee9a60c43804f09c9b0c93d6133c3e12859eb65cbd17eeddffc85abc8"
 
 [[files]]
 file = "kubejs/README.txt"

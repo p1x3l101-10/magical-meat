@@ -1,0 +1,39 @@
+{
+	"client": {
+		"renderTextAboveBonfire": false,
+		"tabIcons": [
+			"minecraft:overworld=minecraft:grass_block",
+			"minecraft:the_nether=minecraft:netherrack",
+			"minecraft:the_end=minecraft:end_stone",
+			"kingdomkeys:dive_to_the_heart=kingdomkeys:mosaic_stained_glass"
+		],
+		"renderScreenshotsInGui": false,
+		"enableAutomaticScreenshotOnCreation": false,
+		"deleteScreenshotsOnDestroyed": false,
+		"hiddenDimensions": [
+      "dimdoors:dungeon_pockets",
+      "dimdoors:limbo",
+      "dimdoors:personal_pockets",
+      "dimdoors:public_pockets",
+      "hexdim:hexdim",
+      "hexic:thought",
+      "oneironaut:deep_noosphere",
+      "oneironaut:noosphere"
+    ],
+		"disableBonfireParticles": false,
+		"bonfireAmbientSound": "minecraft:block.campfire.crackle"
+	},
+	"common": {
+		"enableUBSBonfire": true,
+		"enableReinforcing": false,
+		"reinforceBlacklist": [],
+		"bonfireMonsterCheckRadius": 32.0,
+		"repairEquipment": false,
+		"estusFlaskBaseHeal": 2.0,
+		"estusFlaskHealPerLevel": 0.5,
+		"reinforceDamagePerLevel": 0.5,
+		"bonfireDiscoveryMode": false,
+		"disableAshDrops": false,
+		"disableBonfireRespawn": true
+	}
+}
