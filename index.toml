@@ -3382,6 +3382,11 @@ hash = "c57e5187ae4382be6c19e596c8a3f4a7a2b4d566c16c6fc8ad8a0629dc9454d1"
 metafile = true
 
 [[files]]
+file = "mods/toms_storage_create_recipes.pw.toml"
+hash = "0092d556d915173f5d9e1fa9b6314ee38cddbacf5b21631e11851c015182f0d8"
+metafile = true
+
+[[files]]
 file = "mods/tooltipfix.pw.toml"
 hash = "ee103bf45111c2cd7ea2d9b31087867dd4b0d07a4b7dad7b138a4ae506127b37"
 metafile = true
