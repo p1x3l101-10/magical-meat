@@ -337,6 +337,10 @@ file = "config/ferritecore.mixin.properties"
 hash = "3cc3011619f098fda6ad213a7c4d1468802ff827591a5917c2b7bf3150bfb2ea"
 
 [[files]]
+file = "config/figura.json"
+hash = "cf3865378dea8d2eded877e0e1bcc3176093f93407daa21a2c8208c9676f7bff"
+
+[[files]]
 file = "config/flywheel.json"
 hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 
@@ -3014,6 +3018,21 @@ hash = "0ed502ad7d53ca1936079cb7508b2e085909610ac51337fff2a3ce0fa6dcae28"
 metafile = true
 
 [[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "d7c6555b666ff113894f6dd6dba7e6cc95c041542d06a39fd6f67421341711b9"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "4233964479cc6cae77c38cf79bd66859a14a6c3105d3d91e53f00c2cefa538de"
+metafile = true
+
+[[files]]
 file = "mods/carry-on.pw.toml"
 hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
 metafile = true
@@ -3127,9 +3146,17 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
+file = "mods/figura-0.1.5+1.20.1-fabric-mc-a5f5d5d.jar"
+hash = "5c2c480b758f307b938e29259cd96a23191670cd338ac996493b97cae4b8dad2"
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
+
+[[files]]
+file = "mods/fsb-carpet-addon-0.1.1.jar"
+hash = "6e6fbf2069ec9be848228ac5de0c276874720ec9c4e72e93b1152d52eb2ba9d9"
 
 [[files]]
 file = "mods/geckolib.pw.toml"
@@ -3311,6 +3338,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "887656197aff2cd6009a0ff04996b4318aa202b8ed253650860f4882a60bc876"
+metafile = true
+
+[[files]]
+file = "mods/mediatransport.pw.toml"
+hash = "0f6cefb7aba95e645942fb0fce77b58a20841dd45c08bedb97ad0517ff918478"
 metafile = true
 
 [[files]]
