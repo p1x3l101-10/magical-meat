@@ -545,6 +545,10 @@ file = "config/neep/neepmeat.toml"
 hash = "88248ba954aa4f87e935a26eee87556401d175227f462681d95fb460fafc9ae7"
 
 [[files]]
+file = "config/nether_chest.json"
+hash = "5cc54bd81a91274e1344ba33815698b227de1ee6b1e18f7444899081c43009f2"
+
+[[files]]
 file = "config/oneironaut/client.json5"
 hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
@@ -3357,6 +3361,11 @@ metafile = true
 [[files]]
 file = "mods/neepmeat.pw.toml"
 hash = "099f3a679044156c83e3dc722e6989caaafe5baf027173a96328ba034ae692e4"
+metafile = true
+
+[[files]]
+file = "mods/nether-chest.pw.toml"
+hash = "e7ca0e487cf95f8d3f2204ae931c54bc361d3d6f738cee65f41b7fc78d4e9a9c"
 metafile = true
 
 [[files]]
