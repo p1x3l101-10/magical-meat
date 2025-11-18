@@ -177,6 +177,14 @@ file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
+file = "config/carpet/default_carpet-fixes.conf"
+hash = "4a3890638cb58a20e91d936ba783a83c27f20872c3d75cc538dbddc67bc1adcc"
+
+[[files]]
+file = "config/carpet/default_carpet.conf"
+hash = "a1841d4e9d82126db89b205ac363478a3e3c3d1017e721a1b13a85a421325380"
+
+[[files]]
 file = "config/carryon-client.json"
 hash = "b66da6824b6141acca353406c20654ebf599c814d50da37006b2bf51009b4f2a"
 
@@ -509,6 +517,14 @@ file = "config/lootr.json"
 hash = "21f248f54cbad486741a6c7c660cc7bffee7b2520280bfae7999aee4dfcb0595"
 
 [[files]]
+file = "config/mediatransport/client.toml"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/mediatransport/server.toml"
+hash = "c04494a3994ad488654fda7e479b4e0f4a831a63641136d04d49c38fc19ccc9f"
+
+[[files]]
 file = "config/midnightlib.json"
 hash = "b14c45c6447f9ee5474d70784a2ef96731abbeca1e92485b7599e76e9dce1444"
 
@@ -675,6 +691,10 @@ hash = "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac"
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
 hash = "e15675903d1871c1f16e517b2f28fb7724a3b4b609a3a6d58c3bdc4ffc6ea8e5"
+
+[[files]]
+file = "config/soulbound.json"
+hash = "1b0c650443045a76533209f304f50eb516e544e9312c25fff0381ab5eea326e9"
 
 [[files]]
 file = "config/spell_engine/client.json5"
