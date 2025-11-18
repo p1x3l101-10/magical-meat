@@ -121,6 +121,10 @@ file = "config/attributefix.json"
 hash = "894c3aec4fafd04ba67c113307c87dcfa627c96e5de3e92f31b35b19090fe350"
 
 [[files]]
+file = "config/better_respawn/better_respawn.properties"
+hash = "0a38277ad6a47ab8dd3034fc25d6fbf7b8cebb42e0b3ee4f19fed979460e24b2"
+
+[[files]]
 file = "config/betteradvancements.json"
 hash = "82ffaabd04cb676394314ad57bacb68b9160d2d8fec5109f1f106115e71417af"
 
