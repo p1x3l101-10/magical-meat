@@ -122,7 +122,7 @@ hash = "894c3aec4fafd04ba67c113307c87dcfa627c96e5de3e92f31b35b19090fe350"
 
 [[files]]
 file = "config/better_respawn/better_respawn.properties"
-hash = "0a38277ad6a47ab8dd3034fc25d6fbf7b8cebb42e0b3ee4f19fed979460e24b2"
+hash = "403856a649e6cc8e354fa8cbc338c428b1365f693ff22c5dc1e8d3f68900edb2"
 
 [[files]]
 file = "config/betteradvancements.json"
