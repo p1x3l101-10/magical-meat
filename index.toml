@@ -3425,6 +3425,11 @@ hash = "727beac4d8109d8136ce3aa101040a80caa4b353e3262eaa6d6256ca38d818b3"
 metafile = true
 
 [[files]]
+file = "mods/origins-extra-keybinds-fabric.pw.toml"
+hash = "e65963729f01e0989b7a57ef340411fd0de3bc97c268e230e832dc69d2a07d64"
+metafile = true
+
+[[files]]
 file = "mods/origins.pw.toml"
 hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
 metafile = true
@@ -3560,6 +3565,11 @@ metafile = true
 [[files]]
 file = "mods/stackdeobf.pw.toml"
 hash = "b97b297fab12e137c58874ae776402cfa29374c8ff50c9f18ef27442b65336e6"
+metafile = true
+
+[[files]]
+file = "mods/succs-origins-the-imploder.pw.toml"
+hash = "482134da1b15d40cc74cec64221a24c88dd6b28d28085115eebfbf4f16b8aca6"
 metafile = true
 
 [[files]]
