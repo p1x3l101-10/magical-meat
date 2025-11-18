@@ -1,8 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "key": {"I": {"tag": "c:iron_plates"}, "L": {"item": "minecraft:lectern"}, "A": {"item": "create:andesite_casing"}},
-  "pattern": ["I", "L", "A"],
-  "result": {"item": "computercraft:disk_drive"},
-  "show_notification": true
+  "key": {"#": {"item": "create:andesite_alloy"}, "R": {"tag": "c:dusts/redstone"}, "C": {"tag": "kubejs:basic_integrated_circuits"}},
+  "pattern": ["###", "#C#", "#R#"],
+  "result": {"count": 1, "item": "computercraft:disk_drive"}
 }

@@ -1,0 +1,14 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "tag": "c:storage_blocks/lapis"
+    }
+  ],
+  "results": [
+    {
+      "count": 1,
+      "item": "kubejs:lapis_sheet"
+    }
+  ]
+}

@@ -1857,12 +1857,36 @@ file = "kubejs/assets/computercraft/textures/item/printed_pages.png"
 hash = "67dd1ddf2c09879c7057d773393b1bb5ea5d18ab53f608dbcc7176b7508d4f25"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+file = "kubejs/assets/kubejs/lang/en_us.json"
+hash = "04b15183ece7cbc695c6234dbcccdf2498140ada5090393b4e81add5b7b86943"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
+file = "kubejs/assets/kubejs/models/item/basic_integrated_circuit.json"
+hash = "10ebbec38101530e2f3385d116b1c97b967c101060600d3e7cb9558dec2d5991"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/integrated_circuit.json"
+hash = "84c594cae660179bb454924adbbee453f3b128c486cb4ffb128266906ed195a7"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/lapis_sheet.json"
+hash = "0052ba4fe9df67f296f50e0155ec9bdea6378da2bbdd36bd3b35740970ef036b"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/create_cc_integration.png"
+hash = "27d1afa3a5b9079ad3685e8da8e25fb91e1d6e8d83813df05cd2c4ca3f462139"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/basic_integrated_circuit.png"
+hash = "47cb88cea8bf62755a58ea88725adf9997a5030614066332eccfd566fca67ce3"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/integrated_circuit.png"
+hash = "4af2a067288537fc2806731d94e340b0c342546cce749489f43a892afd1c26aa"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/lapis_sheet.png"
+hash = "f98fb4df173dd78cf36df39653b154d1fb86efedfefcd75fa81f61f44f44eff0"
 
 [[files]]
 file = "kubejs/assets/minecraft/items/compass.json"
@@ -2801,24 +2825,28 @@ file = "kubejs/config/common.properties"
 hash = "8d62f23aefce86c1606369281e660bb5ce63de21e25eee044510339a8afd2041"
 
 [[files]]
+file = "kubejs/data/c/tags/items/plates/lapis.json"
+hash = "7b7d9b06aa311ea8f8ee171db9495957c22da5945b33c54b0e1a4660006b38af"
+
+[[files]]
 file = "kubejs/data/computercraft/recipes/cable.json"
-hash = "cf8c317908f95642d2abf57a5e28ac18221837ed8295b9c125ba1f2f62283a8f"
+hash = "bbf14ff8146ae0188c927043064fde1c24ab4fcf8fe27fd7b0b98af2745669cd"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/computer_advanced.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "89faa1a9cf8ee0799ac391b733f315fcd70a97691a1d3618dd240ed3e6c571f9"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/computer_advanced_upgrade.json"
-hash = "7e141c4b5bc8b506b9eaff00c23c97622cd687094f2da74cf28d666bc26ed8be"
+hash = "ebea4a924c17df2af35f023fcbcb20b94939f2539cf0dedcad54795a93382a6a"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/computer_command.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "624ea59df843a97f11cebcd4eac06ecea467447ef83763a8ddbc0883818d7029"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/computer_normal.json"
-hash = "3bc2bda9e6f53d3e0e7498dce2bdfa0f19406f534875f2a3e15300fd9eba800a"
+hash = "a6031cd36cd287754edb866d681a11d37cf1b6204baafc627ee9cf50ac1388b5"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/disk_1.json"
@@ -2886,51 +2914,55 @@ hash = "a5fd97e220ed7708032fdeb4159bbeb66a57f697e48f1d87476aa35ed44e6557"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/disk_drive.json"
-hash = "854df654291dae27564f7c980e18c26d95e2abb684b69adbbd36bc4f378e127a"
+hash = "0d0ced513722cdcf7f0d884dd45f0d9b07411a36fc159b4e397b4088bb15d408"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/monitor_advanced.json"
-hash = "cf61c621072c327d557af3a5350ab2d2f77069c6534e1ef29ab63f55c42d98ec"
+hash = "1847fc961438c2ee217076e3ea66ab384646b64b4e878c896afac0ff6cd0a032"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/monitor_normal.json"
-hash = "0c3ff6b17ceb987c352882892caf31397ed8a280742c38d2fd48a239aecc351f"
+hash = "e04e8d4559075195ed10fa5f3d6e17b555a6fe20ffb673eca3058e2d99084987"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/pocket_computer_advanced.json"
-hash = "7ee9986d0395284e0736bdc1fc0e159c73a4588ce4a574ec66d08d9b5b8f7e75"
+hash = "2b8357448dee46dd0a80752a63c713e1df0e13ab70a60d13ededc56a635cc266"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/pocket_computer_advanced_upgrade.json"
-hash = "1288529de72b5cf983f3ac554bbe808057e67491e0a864619b271b7d41fa3e2c"
+hash = "f3f5740cb70a0968356b98a9a3a8a03115cdee36245bb773e59e22789bab2551"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/pocket_computer_normal.json"
-hash = "199680c8d49f6dac05cacb83dafbb3dd082ea75bafee3690a84826899f7c5642"
+hash = "11f1a2d3b17cc53537d5b2e400915fc75d7e42b065e7e9eb61c6d510032e563e"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/printer.json"
-hash = "76aeb33805b8c3fdeb0ecb7e7006ba945e229f0209a2bcabe881f57d8deaea1e"
+hash = "f31778463e476da6e3abf4b1a333ce16f7b79e62ab698db7f1d7ebee4853fc3f"
+
+[[files]]
+file = "kubejs/data/computercraft/recipes/redstone_relay.json"
+hash = "a492c3ba4afe6bb5acf3ed2cd1dd5406b5807fc3e6960ad890d4c92f2af7b552"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/speaker.json"
-hash = "363bf6bebfb4a70c1a22caebbdf0822f08c301a82d461cdfca243d61e98f7b4e"
+hash = "062b6eaff7b19587e6bb33f7e124ff5e323b704a0bf4da711ebd23a2f3a28b0c"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/turtle_advanced.json"
-hash = "4e0c2460f7c2013a9c04e1f484de01fa14a82c2d0bc3f219f0b854314d3af3b4"
+hash = "1a59092d17014237cf00088b870281e3ef82973cc5d169fe0c2a784cadc60b97"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/turtle_advanced_upgrade.json"
-hash = "3224c688f20777b98438be64d84813f7e84443992d506072986de23c806821af"
+hash = "0a93cb5d94b7f16926290c7d5b27227fc0d8e7a7add733b283d9a1616e54722c"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/turtle_normal.json"
-hash = "81d81f2001bca791c42bd4b93a53dbbdb40424fe16e601c2e0fe8bbd2e5cbed0"
+hash = "46f93925439d384801fd7c9b2ff248a327322fee79d7f66d72b0043b7d141eb7"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/wired_modem.json"
-hash = "c3581c9c4a38ecf82a2a4e3dcd1d764ad48a9b36ecfcb10e494adf9a230e8c75"
+hash = "106e03404c5b4d009a7a6d16f96a090310e56485a67574759de6e0d32c28d364"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/wired_modem_full_application.json"
@@ -2946,19 +2978,43 @@ hash = "ba291ae51fc3d2013b3aff1645ab52904cd39a496c477600a3e7566e1987ea1b"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/wireless_modem_advanced.json"
-hash = "c857398e1cda99de6e1c80aaa28d145900b224cef91c34ee5184c1984927563c"
+hash = "cf1421d5bff85cefa8f07c35757809dfaec26b7153923e1c9199b72222039bcb"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/wireless_modem_normal.json"
-hash = "469c95089512494bcda2f22a9b011f8ff92a8f804a8bc52d97d3afa86e7a13bf"
+hash = "81ff8c9ee6b39a35eadec02be0e45c485a7d56428d686753b9b55e5173d58084"
 
 [[files]]
 file = "kubejs/data/hexcasting/loot_tables/grant_patchi_book.json"
 hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
 
 [[files]]
+file = "kubejs/data/kubejs/recipes/basic_integrated_circuit_crafting.json"
+hash = "7e5e565cf490fef1163f2a556fa99ff75e0f7515b7d6403345246e71d6f2efba"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/integrated_circuit.json"
+hash = "c454b5570e6d8fb8010784d8cf79aaa4d464b189a52f95e6d8e53935aa4c9db9"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/pressing/lapis_block.json"
+hash = "668240b5014b475ab4eb89b67f3163324bd3c6b34824379bb28a090e530b0572"
+
+[[files]]
 file = "kubejs/data/kubejs/recipes/transmuting/my_bad_alchemists.json"
 hash = "f0a6d6c0ee61f87995e4aefc8c15e968efae89fb676eda6e8fbb34fe3c8cfad9"
+
+[[files]]
+file = "kubejs/data/kubejs/tags/items/advanced_integrated_circuits.json"
+hash = "04af420eda475f5ba6dae184f85f50d6e7af806fa03241b880270fdb04e409d0"
+
+[[files]]
+file = "kubejs/data/kubejs/tags/items/basic_integrated_circuits.json"
+hash = "7afbac427cc5d0a3f66fe7e09efe4eda05bd0ec9d9e616612f3f08d8c76f60ad"
+
+[[files]]
+file = "kubejs/data/kubejs/tags/items/integrated_circuits.json"
+hash = "41f4c4a579b9837220efb9ad638efba70670fdebef6b1d09a18039c3e4e6ea87"
 
 [[files]]
 file = "kubejs/data/neepmeat/recipes/enlightening/enchanted_golden_apple.json"
@@ -2973,8 +3029,8 @@ file = "kubejs/server_scripts/example.js"
 hash = "6bb34a1898552ce09a310c7af9a571f5c9349ea3269074c9605b6795d37d8138"
 
 [[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "f447c0e4266e15b34a4f961e1356ca22f1036b07e439a689de22bb6a293e605d"
+file = "kubejs/startup_scripts/circuits.js"
+hash = "eef0054350bc96245788dcc2f6ef792a0ba4314335b773385adaa1a0bd8e0a82"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"

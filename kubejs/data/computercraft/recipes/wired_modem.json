@@ -1,7 +1,7 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "ingredients": [{"tag": "c:dusts/redstone"}, {"item": "computercraft:cable"}],
-  "result": {"item": "computercraft:wired_modem"},
-  "show_notification": true
+  "key": {"#": {"item": "create:andesite_alloy"}, "R": {"tag": "kubejs:basic_integrated_circuits"}},
+  "pattern": ["###", "#R#", "###"],
+  "result": {"count": 1, "item": "computercraft:wired_modem"}
 }

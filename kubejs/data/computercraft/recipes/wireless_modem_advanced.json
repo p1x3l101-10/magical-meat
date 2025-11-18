@@ -1,7 +1,7 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "ingredients": [{"item": "minecraft:ender_eye"}, {"item": "minecraft:echo_shard"}, {"item": "computercraft:wireless_modem_normal"}],
-  "result": {"item": "computercraft:wireless_modem_advanced"},
-  "show_notification": true
+  "key": {"#": {"item": "create:brass_ingot"}, "E": {"item": "minecraft:ender_eye"}, "R": {"tag": "kubejs:advanced_integrated_circuits"}, "T": {"item": "minecraft:redstone_torch"}},
+  "pattern": ["#T#", "#R#", "#E#"],
+  "result": {"count": 1, "item": "computercraft:wireless_modem_advanced"}
 }

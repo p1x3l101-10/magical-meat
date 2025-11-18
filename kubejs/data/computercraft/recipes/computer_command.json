@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:brass_ingot"},
+    "G": {"tag": "c:glass_panes"},
+    "R": {"item": "minecraft:command_block"}
+  },
+  "pattern": ["###", "#R#", "#G#"],
+  "result": {"count": 1, "item": "computercraft:computer_command"}
+}

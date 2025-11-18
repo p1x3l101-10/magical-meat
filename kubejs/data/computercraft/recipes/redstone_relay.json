@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "C": {"item": "computercraft:wired_modem"},
+    "R": {"tag": "c:dusts/redstone"},
+    "S": {"item": "create:andesite_alloy"}
+  },
+  "pattern": ["SRS", "RCR", "SRS"],
+  "result": {"count": 1, "item": "computercraft:redstone_relay"}
+}

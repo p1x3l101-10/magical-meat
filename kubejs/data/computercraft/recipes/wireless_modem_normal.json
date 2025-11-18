@@ -1,7 +1,7 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "ingredients": [{"item": "create:redstone_link"}, {"item": "computercraft:wired_modem"}],
-  "result": {"item": "computercraft:wireless_modem_normal"},
-  "show_notification": true
+  "key": {"#": {"item": "create:andesite_alloy"}, "E": {"tag": "c:ender_pearls"}, "R": {"tag": "kubejs:basic_integrated_circuits"}, "T": {"item": "minecraft:redstone_torch"}},
+  "pattern": ["#T#", "#R#", "#E#"],
+  "result": {"count": 1, "item": "computercraft:wireless_modem_normal"}
 }

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "RLR",
+    "RQR",
+    "CCC"
+  ],
+  "key": {
+    "L": {
+      "tag": "c:plates/lapis"
+    },
+    "R": {
+      "tag": "c:dusts/redstone"
+    },
+    "Q": {
+      "item": "create:rose_quartz"
+    },
+    "C": {
+      "tag": "c:nuggets/gold"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "kubejs:basic_integrated_circuit"
+  }
+}

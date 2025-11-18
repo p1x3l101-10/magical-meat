@@ -1,7 +1,7 @@
 {
-  "type": "minecraft:crafting_shapeless",
+  "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "ingredients": [{"tag": "c:dusts/redstone"}, {"item": "minecraft:dried_kelp"}],
-  "result": {"count": 4, "item": "computercraft:cable"},
-  "show_notification": true
+  "key": {"#": {"item": "create:andesite_alloy"}, "R": {"tag": "c:dusts/redstone"}},
+  "pattern": [" # ", "#R#", " # "],
+  "result": {"count": 6, "item": "computercraft:cable"}
 }

@@ -1,8 +1,7 @@
 {
   "type": "computercraft:computer_upgrade",
   "category": "redstone",
-  "key": {"B": {"item": "create:brass_hand"}, "P": {"item": "create:propeller"}, "A": {"tag": "c:amethyst"}, "R": {"tag": "c:redstone_blocks"}, "C": {"item": "computercraft:pocket_computer_normal"}},
-  "pattern": [" B ", "PCA", " R "],
-  "result": {"item": "computercraft:pocket_computer_advanced"},
-  "show_notification": true
+  "key": {"#": {"item": "create:brass_ingot"}, "C": {"item": "computercraft:pocket_computer_normal"}, "R": {"tag": "kubejs:advanced_integrated_circuits"}},
+  "pattern": ["###", "#C#", "#R#"],
+  "result": {"count": 1, "item": "computercraft:pocket_computer_advanced"}
 }

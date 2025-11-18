@@ -1,46 +1,7 @@
 {
-  "type": "create:mechanical_crafting",
-  "acceptMirrored": true,
-  "key": {
-    "I": {
-      "tag": "c:iron_plates"
-    },
-    "V": {
-      "item": "create:item_vault"
-    },
-    "E": {
-      "item": "create:electron_tube"
-    },
-    "L": {
-      "item": "create:display_link"
-    },
-    "P": {
-      "item": "create:propeller"
-    },
-    "M": {
-      "item": "create:precision_mechanism"
-    },
-    "B": {
-      "item": "create:display_board"
-    },
-    "G": {
-      "tag": "c:colorless_glass_panes"
-    },
-    "T": {
-      "tag": "c:redstone_blocks"
-    },
-    "S": {
-      "tag": "c:copper_plates"
-    }
-  },
-  "pattern": [
-    "  I  ",
-    " VEL ",
-    "IPMBG",
-    " TSS ",
-    "  I  "
-  ],
-  "result": {
-    "item": "computercraft:computer_normal"
-  }
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {"#": {"item": "create:andesite_alloy"}, "G": {"tag": "c:glass_panes"}, "R": {"tag": "kubejs:basic_integrated_circuits"}},
+  "pattern": ["###", "#R#", "#G#"],
+  "result": {"count": 1, "item": "computercraft:computer_normal"}
 }

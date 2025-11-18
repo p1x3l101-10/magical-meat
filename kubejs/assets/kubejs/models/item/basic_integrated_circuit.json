@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "ccbr:item/basic_integrated_circuit"
+  }
+}

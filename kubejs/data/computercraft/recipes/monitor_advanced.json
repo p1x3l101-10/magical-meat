@@ -1,8 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "category": "redstone",
-  "key": {"M": {"item": "computercraft:monitor_normal"}, "A": {"tag": "c:amethyst"}},
-  "pattern": ["MA"],
-  "result": {"item": "computercraft:monitor_advanced"},
-  "show_notification": true
+  "key": {"#": {"item": "create:brass_ingot"}, "G": {"tag": "c:glass_panes"}, "E": {"item": "create:electron_tube"}},
+  "pattern": ["###", "#G#", "#E#"],
+  "result": {"count": 4, "item": "computercraft:monitor_advanced"}
 }

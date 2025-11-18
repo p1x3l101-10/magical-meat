@@ -1,30 +1,11 @@
 {
-  "type": "create:mechanical_crafting",
-  "acceptMirrored": false,
+  "type": "computercraft:turtle",
+  "category": "redstone",
   "key": {
-    "H": {
-      "item": "minecraft:turtle_helmet"
-    },
-    "B": {
-      "item": "create:brass_hand"
-    },
-    "O": {
-      "item": "create:content_observer"
-    },
-    "C": {
-      "item": "computercraft:computer_advanced"
-    },
-    "F": {
-      "item": "create:encased_fan"
-    }
+    "#": {"item": "create:brass_ingot"},
+    "C": {"item": "computercraft:computer_advanced"},
+    "I": {"tag": "c:chests/wooden"}
   },
-  "pattern": [
-    " H ",
-    "BOB",
-    " C ",
-    " F "
-  ],
-  "result": {
-    "item": "computercraft:turtle_advanced"
-  }
+  "pattern": ["###", "#C#", "#I#"],
+  "result": {"count": 1, "item": "computercraft:turtle_advanced"}
 }

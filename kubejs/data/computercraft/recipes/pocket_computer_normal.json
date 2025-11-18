@@ -1,13 +1,12 @@
 {
-  "type": "create:pressing",
-  "ingredients": [
-    {
-      "item": "computercraft:computer_normal"
-    }
-  ],
-  "results": [
-    {
-      "item": "computercraft:pocket_computer_normal"
-    }
-  ]
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {"item": "create:andesite_alloy"},
+    "A": {"item": "minecraft:golden_apple"},
+    "G": {"tag": "c:glass_panes"},
+    "R": {"tag": "kubejs:basic_integrated_circuits"}
+  },
+  "pattern": ["#A#", "#R#", "#G#"],
+  "result": {"count": 1, "item": "computercraft:pocket_computer_normal"}
 }

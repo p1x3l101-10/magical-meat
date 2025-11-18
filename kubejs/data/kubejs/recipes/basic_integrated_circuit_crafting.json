@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "bbb",
+    "ccc"
+  ],
+  "key": {
+    "a": {
+      "tag": "c:plates/gold"
+    },
+    "b": {
+      "tag": "c:dusts/redstone"
+    },
+    "c": {
+      "tag": "c:nuggets/iron"
+    }
+  },
+  "result": {
+    "count": 1,
+    "item": "kubejs:basic_integrated_circuit"
+  }
+}
