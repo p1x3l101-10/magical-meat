@@ -1,0 +1,13 @@
+name = "Giant Cherry Blossom Bonsai Tree"
+filename = "giant_cherry_blossom_bonsai_tree-1.0.0 fabric 1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uku0mmHk/versions/LUWRlwvj/giant_cherry_blossom_bonsai_tree-1.0.0%20fabric%201.20.1.jar"
+hash-format = "sha512"
+hash = "aa3114f909c698a0f896df031ebf376d2d60f5e5437e719da34deb9b896d8d96c4d2c656c034687886fe8e8f6bc9b86eb40c3a7d57a26065435985231d195503"
+
+[update]
+[update.modrinth]
+mod-id = "uku0mmHk"
+version = "LUWRlwvj"
