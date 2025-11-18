@@ -3073,6 +3073,11 @@ hash = "d226ea199a740bff4e07877a952dc6972273fb92fcddd258a8989bfbede63a8d"
 metafile = true
 
 [[files]]
+file = "mods/clickable-advancements.pw.toml"
+hash = "41ad480707906de6e55b183a2c3dfd11e2b6a499cf7fbe9c8d9868771462a72a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
@@ -3095,6 +3100,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
 
 [[files]]
