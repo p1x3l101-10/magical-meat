@@ -3169,6 +3169,11 @@ hash = "21d2df923fa369d69a40d69f6466153146bf403367430eaeb2569c1554857df8"
 metafile = true
 
 [[files]]
+file = "mods/giant-cherry-blossom-bonsai-tree.pw.toml"
+hash = "63f784dc3ab6558ea2b5b986b9a3d27d5750403a4b9e2e39a22eccfe6629ad07"
+metafile = true
+
+[[files]]
 file = "mods/glowing-eyes.pw.toml"
 hash = "b1f482a11e58c03d2be605a43b770d16950e4b58683fcea8e5e3e2228aaeebea"
 metafile = true
