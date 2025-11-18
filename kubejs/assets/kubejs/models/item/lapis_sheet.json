@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "ccbr:item/lapis_sheet"
+    "layer0": "kubejs:item/lapis_sheet"
   }
 }

@@ -1862,19 +1862,15 @@ hash = "04b15183ece7cbc695c6234dbcccdf2498140ada5090393b4e81add5b7b86943"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/basic_integrated_circuit.json"
-hash = "10ebbec38101530e2f3385d116b1c97b967c101060600d3e7cb9558dec2d5991"
+hash = "ede434481ef77b38695a3fd1c997e67d57d9c03bd603ac82bff5b923a006340d"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/integrated_circuit.json"
-hash = "84c594cae660179bb454924adbbee453f3b128c486cb4ffb128266906ed195a7"
+hash = "bb81abe66976b6fe6a9c86e72d1494a8cc88fb937a06a3b588bbe3a861af61ca"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/lapis_sheet.json"
-hash = "0052ba4fe9df67f296f50e0155ec9bdea6378da2bbdd36bd3b35740970ef036b"
-
-[[files]]
-file = "kubejs/assets/kubejs/textures/create_cc_integration.png"
-hash = "27d1afa3a5b9079ad3685e8da8e25fb91e1d6e8d83813df05cd2c4ca3f462139"
+hash = "34ebc2f7ad76afb23b87bade5ecc23a258d7e07587f3e347e01f5b16f99b3214"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/basic_integrated_circuit.png"
@@ -3034,7 +3030,7 @@ hash = "6bb34a1898552ce09a310c7af9a571f5c9349ea3269074c9605b6795d37d8138"
 
 [[files]]
 file = "kubejs/startup_scripts/circuits.js"
-hash = "eef0054350bc96245788dcc2f6ef792a0ba4314335b773385adaa1a0bd8e0a82"
+hash = "c0ba74464fb3eb63a3ec7b0095ca3f8894696a5e77c67ef9e24e899f40aaeffe"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
