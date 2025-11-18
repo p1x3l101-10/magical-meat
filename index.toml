@@ -2825,6 +2825,10 @@ file = "kubejs/config/common.properties"
 hash = "8d62f23aefce86c1606369281e660bb5ce63de21e25eee044510339a8afd2041"
 
 [[files]]
+file = "kubejs/data/c/tags/items/plates.json"
+hash = "7b7d9b06aa311ea8f8ee171db9495957c22da5945b33c54b0e1a4660006b38af"
+
+[[files]]
 file = "kubejs/data/c/tags/items/plates/lapis.json"
 hash = "7b7d9b06aa311ea8f8ee171db9495957c22da5945b33c54b0e1a4660006b38af"
 
