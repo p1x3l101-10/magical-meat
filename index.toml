@@ -3553,6 +3553,11 @@ hash = "ecf8e1df2361e5f1d090f83eee16c449ff1021dfb2da46474a72726406d5d535"
 metafile = true
 
 [[files]]
+file = "mods/soulbound-enchantment.pw.toml"
+hash = "a9caaa1f782105a9c245fbb5bc0c3f1fcc09ee9ed61c155340e25e666bb4f8ed"
+metafile = true
+
+[[files]]
 file = "mods/spasm.pw.toml"
 hash = "d85f532c65f1674ff6f3448a4cb8fd8d0f86b0a6c7446de37793f525e8cdd184"
 metafile = true
