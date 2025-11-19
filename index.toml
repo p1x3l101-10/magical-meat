@@ -3021,6 +3021,14 @@ file = "kubejs/data/kubejs/recipes/pressing/lapis_block.json"
 hash = "96154585616c03b0e836164099dee7fd1f84798751ab550e55597542427925cf"
 
 [[files]]
+file = "kubejs/data/kubejs/recipes/sieve/ore/amethyst_dust.json"
+hash = "e029ed8d41bf246123404e6a83d9d8d80676be86c15590753a370bad1833f51f"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/sieve/ore/charged_amethyst.json"
+hash = "8701357e56a98588f62c284d383c1b9d925b903a42a1b088aff50909795fb75d"
+
+[[files]]
 file = "kubejs/data/kubejs/recipes/transmuting/my_bad_alchemists.json"
 hash = "f0a6d6c0ee61f87995e4aefc8c15e968efae89fb676eda6e8fbb34fe3c8cfad9"
 

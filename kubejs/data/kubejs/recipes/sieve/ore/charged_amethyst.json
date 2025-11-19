@@ -1,0 +1,19 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "fabricaeexnihilo:crushed_calcite"
+  },
+  "result": {
+    "count": 1,
+    "item": "hexcasting:charged_amethyst"
+  },
+  "rolls": {
+    "fabricaeexnihilo:diamond_mesh": [
+      0.05
+    ],
+    "fabricaeexnihilo:netherite_mesh": [
+      0.1
+    ]
+  },
+  "waterlogged": false
+}
