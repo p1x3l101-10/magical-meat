@@ -1,0 +1,13 @@
+name = "Immersive Aircraft: Better Engines"
+filename = "more_engines_fabric 2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kNsl999k/versions/iZXhIA6V/more_engines_fabric%202.0.0.jar"
+hash-format = "sha512"
+hash = "367eee22c545c15de4a69777c81ba4d02fa88cfefdc4d16a196dd7a0177f16ceb017731c767f55cb5c95aa0db961f47477b31052f144f4180df660f07b664520"
+
+[update]
+[update.modrinth]
+mod-id = "kNsl999k"
+version = "iZXhIA6V"
