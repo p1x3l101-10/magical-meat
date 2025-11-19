@@ -1,12 +1,13 @@
 {
-  "type": "minecraft:crafting_shaped",
-  "category": "redstone",
-  "key": {
-    "#": {"item": "create:brass_ingot"},
-    "A": {"item": "minecraft:golden_apple"},
-    "G": {"tag": "c:glass_panes"},
-    "R": {"tag": "kubejs:advanced_integrated_circuits"}
-  },
-  "pattern": ["#A#", "#R#", "#G#"],
-  "result": {"count": 1, "item": "computercraft:pocket_computer_advanced"}
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "computercraft:computer_advanced"
+    }
+  ],
+  "results": [
+    {
+      "item": "computercraft:pocket_computer_advanced"
+    }
+  ]
 }

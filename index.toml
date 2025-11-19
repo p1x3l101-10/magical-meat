@@ -2926,7 +2926,7 @@ hash = "e04e8d4559075195ed10fa5f3d6e17b555a6fe20ffb673eca3058e2d99084987"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/pocket_computer_advanced.json"
-hash = "2b8357448dee46dd0a80752a63c713e1df0e13ab70a60d13ededc56a635cc266"
+hash = "7ee9986d0395284e0736bdc1fc0e159c73a4588ce4a574ec66d08d9b5b8f7e75"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/pocket_computer_advanced_upgrade.json"
@@ -2934,7 +2934,7 @@ hash = "f3f5740cb70a0968356b98a9a3a8a03115cdee36245bb773e59e22789bab2551"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/pocket_computer_normal.json"
-hash = "11f1a2d3b17cc53537d5b2e400915fc75d7e42b065e7e9eb61c6d510032e563e"
+hash = "199680c8d49f6dac05cacb83dafbb3dd082ea75bafee3690a84826899f7c5642"
 
 [[files]]
 file = "kubejs/data/computercraft/recipes/printer.json"
