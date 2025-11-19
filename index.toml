@@ -21,14 +21,6 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
-file = "config/allium_mappings/mappings-1.20.1.tiny"
-hash = "3d0722089deb99c32c9942a3d9f9f7a74e17e744477814b0f0b06194d8e4a2f0"
-
-[[files]]
-file = "config/allium_mappings/yarn-version.txt"
-hash = "e88ae6cb8fdd704a51a4540703c241ea3eab47f8db14e134aa895b2977abb3e8"
-
-[[files]]
 file = "config/amendments-client.json"
 hash = "c11e10dcc6c9e84f77040e6e8171351a9ac30acf8af8c6d6dc872177fdfc03dd"
 
