@@ -197,6 +197,10 @@ file = "config/carryon-common.json"
 hash = "da6fdce0a0b230f5ad04a17eba82e3d54651e9c540177e0169cdfe9e6ecba00e"
 
 [[files]]
+file = "config/clickadv.json"
+hash = "fef2a56ec39082f313fc9f3b947a200b1499d510ff031b041b61ae227ba6b211"
+
+[[files]]
 file = "config/complexhex/client.json5"
 hash = "257c1be96ae69f4b01c2c69bdb6d78605f59175819fb007d0bf245bf48444c4a"
 
@@ -235,6 +239,10 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 [[files]]
 file = "config/createbigcannons-server.toml"
 hash = "93bbe03b397ef285cd18a78c74f1442fb3b0c4b840f38d1cdd77dd3e148adf45"
+
+[[files]]
+file = "config/cupboard.json"
+hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
 file = "config/darkness.json5"
