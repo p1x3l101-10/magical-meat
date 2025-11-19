@@ -1,0 +1,30 @@
+{
+  "aliases": {
+    "minecraft:overworld": {
+      "dimension_types": [
+        "minecraft:overworld",
+        "minecraft:overworld_caves"
+      ],
+      "dimensions": []
+    },
+    "minecraft:the_nether": {
+      "dimension_types": [
+        "minecraft:the_nether"
+      ],
+      "dimensions": []
+    },
+    "minecraft:the_end": {
+      "dimension_types": [
+        "minecraft:the_end"
+      ],
+      "dimensions": []
+    }
+  },
+  "tweaks": {
+    "dimensionfixer:dimension": {
+      "fix_sleeping": true,
+      "fix_portal_search_radius": true,
+      "override_flat_check": true
+    }
+  }
+}

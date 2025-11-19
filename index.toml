@@ -313,6 +313,10 @@ file = "config/dimdoors-config.json5"
 hash = "debf0d9fa5aefe23d94101b9604b448d4889c9586c65c47c089d2778cd6fed1c"
 
 [[files]]
+file = "config/dimensionfixer.json"
+hash = "ba07e81732df35c9328ec151ffb2d3361835be94b1a01f3f6c79610dab46eab0"
+
+[[files]]
 file = "config/do_a_barrel_roll-client.json"
 hash = "ee32faf303d3beaff76ee54091bc95788048046b6e948ea7795d1eb34f365607"
 
@@ -351,6 +355,10 @@ hash = "f8fb02e734f33a6e1e008d82c5c284663cfb0d06d345b990a5e032eaedb283d9"
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "748608cfdb7f22dc0735a5383c551c269db24a094203da88f149d4967e779e72"
+
+[[files]]
+file = "config/fabricaeexnihilo.json"
+hash = "0cdc59db68b968c2eaa2094a5943c6581cb3fad9dff9ded2782591569cdd6d84"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -779,6 +787,10 @@ hash = "3360fd65537503100ae41a053f0ec3081ed837e8ef95ad567dd7bdd11541f4b5"
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "6ff5898bd65754dc9a6961b4f514d35c1287a10ab09d8fffb77a6506b3c3dc63"
+
+[[files]]
+file = "config/worldportal.json"
+hash = "15776f67c568c0dc4bbaad791c975d00087b3ce9f1676a500e8308b1b9d367ed"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
