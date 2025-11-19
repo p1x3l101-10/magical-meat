@@ -394,7 +394,7 @@ hash = "8b98819586c291487883596dc95806f9d97d01f429f5efae11d706e7aa6dcb99"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "9097f602d91bdbe7d8f4a8fb13035229c244a08ca7650def5dfeadfc179c1465"
+hash = "2912e703b4bb517255df5ada2e536158ad7e4b4ce71ec90c736f9033b8a55b47"
 
 [[files]]
 file = "config/hexdebug/client.toml"

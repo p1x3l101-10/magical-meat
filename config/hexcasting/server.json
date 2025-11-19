@@ -27,7 +27,8 @@
     "minecraft:chests/ancient_city 4",
     "minecraft:chests/pillager_outpost 4",
     "minecraft:chests/woodland_mansion 5",
-    "minecraft:chests/stronghold_library 5"
+    "minecraft:chests/stronghold_library 5",
+    "fabricaeexnihilo:gameplay/strainer 1"
   ],
   "loreInjectionsRaw": [
     "minecraft:chests/simple_dungeon",
@@ -39,7 +40,8 @@
     "minecraft:chests/village/village_plains_house",
     "minecraft:chests/village/village_savanna_house",
     "minecraft:chests/village/village_snowy_house",
-    "minecraft:chests/village/village_taiga_house"
+    "minecraft:chests/village/village_taiga_house",
+    "fabricaeexnihilo:gameplay/strainer 1
   ],
   "loreChance": 0.4,
   "cypherInjectionsRaw": [
@@ -49,7 +51,8 @@
     "minecraft:chests/jungle_temple",
     "minecraft:chests/desert_pyramid",
     "minecraft:chests/ancient_city",
-    "minecraft:chests/nether_bridge"
+    "minecraft:chests/nether_bridge",
+    "fabricaeexnihilo:gameplay/strainer 1
   ],
   "cypherChance": 0.4
 }
