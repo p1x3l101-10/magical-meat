@@ -8,13 +8,13 @@
   ],
   "key": {
     "a": {
-      "tag": "c:plates/gold"
+      "item": "create:golden_sheet"
     },
     "b": {
       "tag": "c:dusts/redstone"
     },
     "c": {
-      "tag": "c:nuggets/iron"
+      "item": "minecraft:iron_nugget"
     }
   },
   "result": {

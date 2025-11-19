@@ -2990,15 +2990,15 @@ hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
 
 [[files]]
 file = "kubejs/data/kubejs/recipes/basic_integrated_circuit_crafting.json"
-hash = "7e5e565cf490fef1163f2a556fa99ff75e0f7515b7d6403345246e71d6f2efba"
+hash = "8979fb3eafc4b429f94351f3a4365f6cf6dad8769cf2e61fb9693a959bb734d6"
 
 [[files]]
 file = "kubejs/data/kubejs/recipes/integrated_circuit.json"
-hash = "c454b5570e6d8fb8010784d8cf79aaa4d464b189a52f95e6d8e53935aa4c9db9"
+hash = "bc6b83670679898d6b488bf3f368d4134fdfe0e3e92fb193d262f68c78a7a5f1"
 
 [[files]]
 file = "kubejs/data/kubejs/recipes/pressing/lapis_block.json"
-hash = "668240b5014b475ab4eb89b67f3163324bd3c6b34824379bb28a090e530b0572"
+hash = "96154585616c03b0e836164099dee7fd1f84798751ab550e55597542427925cf"
 
 [[files]]
 file = "kubejs/data/kubejs/recipes/transmuting/my_bad_alchemists.json"

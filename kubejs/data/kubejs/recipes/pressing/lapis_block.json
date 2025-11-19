@@ -2,7 +2,7 @@
   "type": "create:pressing",
   "ingredients": [
     {
-      "tag": "c:storage_blocks/lapis"
+      "tag": "minecraft:lapis_block"
     }
   ],
   "results": [

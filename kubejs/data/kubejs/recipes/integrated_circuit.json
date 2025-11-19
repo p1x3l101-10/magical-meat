@@ -17,11 +17,11 @@
       "item": "create:rose_quartz"
     },
     "C": {
-      "tag": "c:nuggets/gold"
+      "item": "minecraft:gold_nugget"
     }
   },
   "result": {
     "count": 1,
-    "item": "kubejs:basic_integrated_circuit"
+    "item": "kubejs:integrated_circuit"
   }
 }
