@@ -1,0 +1,13 @@
+name = "The Void Dimension"
+filename = "thevoiddimension-fabric-0.0.1+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SrhObyPX/versions/ifqEk9TQ/thevoiddimension-fabric-0.0.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "94b3d6a0ff1ad066ebde3bf35b07d44ae3fbf37693f13e41cc0623dc3968b9ebad66890e50c5f7cbee4ed56268fadaeba90599e8691212382c2c24c984edb284"
+
+[update]
+[update.modrinth]
+mod-id = "SrhObyPX"
+version = "ifqEk9TQ"

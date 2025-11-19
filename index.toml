@@ -3186,6 +3186,11 @@ hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
 metafile = true
 
 [[files]]
+file = "mods/dimensionfixer.pw.toml"
+hash = "5fc16b8010e3baebaf8cf1d54b465c687240dafe14d6b87fbe7a8a546eeb8738"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
@@ -3696,6 +3701,11 @@ hash = "3135bb6ec401e951d248de79dbdf40608e362e64b89fe9e7d2e74399f3b49375"
 metafile = true
 
 [[files]]
+file = "mods/thevoiddimension.pw.toml"
+hash = "b23352e6bcbd6a8469e701f6624dbfb575fad8b38231bd52ff3ebe945c85d66f"
+metafile = true
+
+[[files]]
 file = "mods/tis3d.pw.toml"
 hash = "f51450fce6c7064ac1ad3d2107f0223ea0601fb9ea5e970d1cdab340464ce8b8"
 metafile = true
@@ -3738,6 +3748,11 @@ metafile = true
 [[files]]
 file = "mods/unoriginal.pw.toml"
 hash = "7cbd442dc4816697956f89b1e759ef310f22801afa0284b8a6c271a93f82a455"
+metafile = true
+
+[[files]]
+file = "mods/worldportal.pw.toml"
+hash = "146a2b1e9d53344f33d75001338802b65d579ff43c72c758727266bec88f2f8a"
 metafile = true
 
 [[files]]
