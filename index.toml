@@ -209,6 +209,10 @@ file = "config/computercraft-client.toml"
 hash = "4ff118c3bf2614ef4e86187f1c0b05551324507a136f8932153ca65537fb95a6"
 
 [[files]]
+file = "config/copperhopper.properties"
+hash = "9e690dd8f8a614cd6351eae694fbfca2768b09aff682c4f51ddf4eaf1e3fa52c"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "74dbce3a70ab7968720af1b138b93a2baef8d2c7e6bfa113f58735cfabb7310e"
 
@@ -365,6 +369,10 @@ file = "config/forgeconfigapiport.toml"
 hash = "da82326e21db344255a22d1dd09b104a039719c94ab3a9e64e1c71ca378ea7a1"
 
 [[files]]
+file = "config/grapplemod.json"
+hash = "ecb1684d0295cd780045353608ac43aab8eaf82003985ed92709b804736de23b"
+
+[[files]]
 file = "config/gravestones.json"
 hash = "5d54a39cf8caa1576127e054b2fae188376c440e889fec101cb469dd48be40b5"
 
@@ -443,6 +451,14 @@ hash = "fd568ebceac9cf223399adc567d49ac424c30f7e1b6022470b5a47a84288f483"
 [[files]]
 file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
+
+[[files]]
+file = "config/immersive_armors.json"
+hash = "3b1b222917697f4e339d7770136473fb277c46687d94b85f0b0835be8ebad695"
+
+[[files]]
+file = "config/immersive_melodies.json"
+hash = "9c2b17602df8e9fdeeedc8ac2a484d36ff86270e2d34c796e884a6338e62a643"
 
 [[files]]
 file = "config/incapacitated.json"
