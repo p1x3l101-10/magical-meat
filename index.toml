@@ -782,7 +782,7 @@ hash = "3360fd65537503100ae41a053f0ec3081ed837e8ef95ad567dd7bdd11541f4b5"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "6ff5898bd65754dc9a6961b4f514d35c1287a10ab09d8fffb77a6506b3c3dc63"
+hash = "a18ccb2ec7030e305df98d615a67590969db5d9be6859092e474e1ef3e498b4e"
 
 [[files]]
 file = "config/worldportal.json"
