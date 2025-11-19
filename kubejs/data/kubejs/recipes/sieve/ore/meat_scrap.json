@@ -1,0 +1,19 @@
+{
+  "type": "fabricaeexnihilo:sieve",
+  "input": {
+    "item": "fabricaeexnihilo:crushed_netherrack"
+  },
+  "result": {
+    "count": 1,
+    "item": "neepmeat:meat_scrap"
+  },
+  "rolls": {
+    "fabricaeexnihilo:flint_mesh": [
+      0.25
+    ],
+    "fabricaeexnihilo:iron_mesh": [
+      0.10
+    ]
+  },
+  "waterlogged": false
+}

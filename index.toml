@@ -3009,6 +3009,10 @@ file = "kubejs/data/kubejs/recipes/sieve/ore/charged_amethyst.json"
 hash = "8701357e56a98588f62c284d383c1b9d925b903a42a1b088aff50909795fb75d"
 
 [[files]]
+file = "kubejs/data/kubejs/recipes/sieve/ore/meat_scrap.json"
+hash = "20ba9e9a1df1494390614ba36bab721053d9c5159a6908e272b22325074bdcb9"
+
+[[files]]
 file = "kubejs/data/kubejs/recipes/transmuting/my_bad_alchemists.json"
 hash = "f0a6d6c0ee61f87995e4aefc8c15e968efae89fb676eda6e8fbb34fe3c8cfad9"
 
