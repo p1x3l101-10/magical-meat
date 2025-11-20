@@ -11,7 +11,10 @@
   "villagersOffendedByMindMurder": true,
   "doesTrueNameHaveAmbit": true,
   "tpDimDenylist": [
-    "twilightforest:twilight_forest"
+    "twilightforest:twilight_forest",
+    "dimdoors:dungeon_pockets",
+    "dimdoors:personal_pockets",
+    "dimdoors:public_pockets"
   ],
   "scrollInjectionsRaw": [
     "minecraft:chests/simple_dungeon 1",

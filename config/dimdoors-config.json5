@@ -50,7 +50,7 @@
     "tryPlayerBedSpawn": false,
     "defaultToWorldSpawn": true,
     "limboBlocksCorruptingExitWorldAmount": 5.0,
-    "escapeTargetWorld": "minecraft:overworld"
+    "escapeTargetWorld": "minecraft:the_nether"
   },
   "graphics": {
     "showRiftCore": false,

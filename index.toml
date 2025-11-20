@@ -306,7 +306,7 @@ hash = "c585a13f47d0eaee0db56821969999be4ed006870ef18208797bea858f0ee51d"
 
 [[files]]
 file = "config/dimdoors-config.json5"
-hash = "769a0994277f672e3c6beb22fa40e2d87b3a7dcb3db66caa568ca3e27026d686"
+hash = "2c0c00ec0670bb67204e345337be116d087690f46a1f09c3deb91383936159a1"
 
 [[files]]
 file = "config/dimensionfixer.json"
@@ -402,7 +402,7 @@ hash = "8b98819586c291487883596dc95806f9d97d01f429f5efae11d706e7aa6dcb99"
 
 [[files]]
 file = "config/hexcasting/server.json"
-hash = "2912e703b4bb517255df5ada2e536158ad7e4b4ce71ec90c736f9033b8a55b47"
+hash = "fa9c1707acff7a11dc544bb0cea82ad2703518f03bef3ef537a18b045df761ba"
 
 [[files]]
 file = "config/hexdebug/client.toml"
