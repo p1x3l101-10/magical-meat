@@ -3057,6 +3057,10 @@ file = "kubejs/data/kubejs/tags/items/integrated_circuits.json"
 hash = "41f4c4a579b9837220efb9ad638efba70670fdebef6b1d09a18039c3e4e6ea87"
 
 [[files]]
+file = "kubejs/data/minecraft/worldgen/biome/the_void.json"
+hash = "0e373b5a01a09f3655b606099e9cc676c370a6617ad5bc32bb0c4ada962771b3"
+
+[[files]]
 file = "kubejs/data/neepmeat/recipes/enlightening/enchanted_golden_apple.json"
 hash = "1db88fd87bc17fd66e47a176f4ec63da670c33fb56761cef6dcd18361783f6a8"
 
