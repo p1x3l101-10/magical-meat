@@ -3001,14 +3001,6 @@ file = "kubejs/data/computercraft/recipes/wireless_modem_normal.json"
 hash = "81ff8c9ee6b39a35eadec02be0e45c485a7d56428d686753b9b55e5173d58084"
 
 [[files]]
-file = "kubejs/data/fabricaeexnihilo/recipes/hammering/stone/cobbled_deepslate.json"
-hash = "ad68490fa57bb5042a630d89a98d60a5f0a5da61580198b4d54130a2969712c5"
-
-[[files]]
-file = "kubejs/data/fabricaeexnihilo/tags/blocks/hammerables.json"
-hash = "5f5090109002439f1b5a4767cef726505c4cedb3fbd622884ee8dd06e8229824"
-
-[[files]]
 file = "kubejs/data/hexcasting/loot_tables/grant_patchi_book.json"
 hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
 
