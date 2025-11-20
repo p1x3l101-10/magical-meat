@@ -39,8 +39,7 @@
         "dimdoors:personal_pockets",
         "dimdoors:public_pockets",
         "minecraft:the_end",
-        "oneironaut:noosphere",
-        "thevoiddimension:overworld"
+        "oneironaut:noosphere"
       ],
       "blacklist": false
     },
