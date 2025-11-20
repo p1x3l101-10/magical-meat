@@ -306,7 +306,7 @@ hash = "c585a13f47d0eaee0db56821969999be4ed006870ef18208797bea858f0ee51d"
 
 [[files]]
 file = "config/dimdoors-config.json5"
-hash = "debf0d9fa5aefe23d94101b9604b448d4889c9586c65c47c089d2778cd6fed1c"
+hash = "62ba49e5e1ea34e80d5aad3907dcf70d9d492633a2cae150d6eb6d5f26eb77bd"
 
 [[files]]
 file = "config/dimensionfixer.json"
@@ -3274,6 +3274,11 @@ hash = "64b486e16ccc051f897e7cc16ce33c45b3f7d45c3622544f15c54bb354efea76"
 metafile = true
 
 [[files]]
+file = "mods/extractinator.pw.toml"
+hash = "fe3fdbd01b83896d96c3f0e8dedc921c45fb034a94fc087b106dd6607c054dc0"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "2b7949e506ba69c57139127c0ccc6caf5a9ec5ec97788b81288118db3d7c2ad3"
 metafile = true
@@ -3664,6 +3669,16 @@ hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
 
 [[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "77a658a9d9cec5037136b95c42d1dff26dbf4010f17ecb2116bebf69178a03ba"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
@@ -3700,6 +3715,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "fae2bc6c282159f6a2e55e22d19241c625a9795dddbe8bd0f0b501c8aa709be1"
+metafile = true
+
+[[files]]
+file = "mods/slashblade-refabricated.pw.toml"
+hash = "d914b090e460658918c99ceaaeab4c15f2f25aeef8adfa126e3e4f1b87f25f50"
 metafile = true
 
 [[files]]

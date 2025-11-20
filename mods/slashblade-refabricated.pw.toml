@@ -1,0 +1,13 @@
+name = "SlashBlade: Refabricated"
+filename = "SlashBlade-Refabricated-1.20.1-1.1.5-Resharped-1.8.60.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UggVUKPz/versions/uAnTQaIE/SlashBlade-Refabricated-1.20.1-1.1.5-Resharped-1.8.60.jar"
+hash-format = "sha512"
+hash = "5ab6902de19d0caf23b5430d0e9ffb4ebed9905e650d16a55a5ecc03cfc79c9a75f47cf1c6737cbabb8c356c88e6c8359cd1ec2489e37ef3f2fcaf978d9fa79c"
+
+[update]
+[update.modrinth]
+mod-id = "UggVUKPz"
+version = "uAnTQaIE"
