@@ -349,6 +349,10 @@ file = "config/ephemera/server.json5"
 hash = "f8fb02e734f33a6e1e008d82c5c284663cfb0d06d345b990a5e032eaedb283d9"
 
 [[files]]
+file = "config/extractinator.jsonc"
+hash = "d2b35906770f789f28bd1db40f25dd546d7ac380243d6fd759de7c3028cde68a"
+
+[[files]]
 file = "config/fabric/indigo-renderer.properties"
 hash = "748608cfdb7f22dc0735a5383c551c269db24a094203da88f149d4967e779e72"
 
@@ -665,6 +669,10 @@ file = "config/power_config.json5"
 hash = "27cd70051136835dd5b3cc5f2a1684abf0703526d5e1c8ff964a7f02d35944aa"
 
 [[files]]
+file = "config/resourceful-config-web.json"
+hash = "7b85e480aeedfd4717262735a359a3f35d909a226cef7bfae05441190cae7b6f"
+
+[[files]]
 file = "config/ritchiesprojectilelib-server.toml"
 hash = "bd2ff5fb308c6648b18322b2a2d8bfc164027289ff5edbd72a7737b7e5dd822b"
 
@@ -683,6 +691,10 @@ hash = "b2df49575a531ef15f6be3058c4a788ef7f163ba678c7d1fe9b2ad3b0bf7389a"
 [[files]]
 file = "config/scannable-common.toml"
 hash = "72308afdd49cafa6eebcf1e296c63e5072eb78c8f3ddd4ec127d103112c8136c"
+
+[[files]]
+file = "config/slashblade-common.toml"
+hash = "757bc364ad5cd415e43cd875cff64aee686de6079e3e454aeee0ffa834018522"
 
 [[files]]
 file = "config/sodium-extra-options.json"
