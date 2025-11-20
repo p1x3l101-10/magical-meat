@@ -44,13 +44,13 @@
       "blacklist": false
     },
     "hardcoreLimbo": true,
-    "limboReturnDistanceMax": 64000,
+    "limboReturnDistanceMax": 8000,
     "limboReturnDistanceMin": 1000,
     "decaySurroundings": true,
     "tryPlayerBedSpawn": false,
     "defaultToWorldSpawn": true,
     "limboBlocksCorruptingExitWorldAmount": 5.0,
-    "escapeTargetWorld": "minecraft:the_nether"
+    "escapeTargetWorld": "minecraft:overworld"
   },
   "graphics": {
     "showRiftCore": false,
