@@ -306,7 +306,7 @@ hash = "c585a13f47d0eaee0db56821969999be4ed006870ef18208797bea858f0ee51d"
 
 [[files]]
 file = "config/dimdoors-config.json5"
-hash = "62ba49e5e1ea34e80d5aad3907dcf70d9d492633a2cae150d6eb6d5f26eb77bd"
+hash = "883a487f881cc95093cda325183aeacdb2672177d1c1904ab9d04a7a5a54cac2"
 
 [[files]]
 file = "config/dimensionfixer.json"

@@ -34,7 +34,14 @@
   },
   "limbo": {
     "worldsLeadingToLimbo": {
-      "list": [],
+      "list": [
+        "dimdoors:dungeon_pockets",
+        "dimdoors:personal_pockets",
+        "dimdoors:public_pockets",
+        "minecraft:the_end",
+        "oneironaut:noosphere",
+        "thevoiddimension:overworld"
+      ],
       "blacklist": false
     },
     "hardcoreLimbo": true,
@@ -44,7 +51,7 @@
     "tryPlayerBedSpawn": false,
     "defaultToWorldSpawn": true,
     "limboBlocksCorruptingExitWorldAmount": 5.0,
-    "escapeTargetWorld": "minecraft:overworld"
+    "escapeTargetWorld": "thevoiddimension:overworld"
   },
   "graphics": {
     "showRiftCore": false,
