@@ -177,6 +177,10 @@ file = "config/bonfires-config.json5"
 hash = "9302bf41e26a8bd87d1bab55baee7ed0280872a43a2ff176938abac6a01cc1fe"
 
 [[files]]
+file = "config/botania-client.json5"
+hash = "651452d26846ab642e76eabc912e87cd4ae84404f546fb9bebe497e3c1622d4a"
+
+[[files]]
 file = "config/botania-common.json5"
 hash = "34e9ccc5d052f8791f8feb8af97fe578c1c1435e7426accd87a75a687cfba544"
 
@@ -379,6 +383,10 @@ hash = "a45f0cfbd33ec1372471d4c22b48140bdb9583c7dee038b8b84a9fa932bdb429"
 [[files]]
 file = "config/exoflame-blaze-common.toml"
 hash = "0d2779ed1057b32df8eb37eda3ab787d225ea54932a4ae5143e9d9a8dc8d09d8"
+
+[[files]]
+file = "config/extrabotany-client.json5"
+hash = "bbfe59090265b6e12886934c66ec95ea01a07336e7d41a48056086165713d641"
 
 [[files]]
 file = "config/extrabotany-common.json5"
