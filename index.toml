@@ -3284,6 +3284,11 @@ hash = "ef745f8cc5a093b4a1d6f7809f8bdc9b95a6bc2b4ef1a74aca9adbdf7ecf58eb"
 metafile = true
 
 [[files]]
+file = "mods/difficulty.pw.toml"
+hash = "b9036f73a16ac4bf0804f09ea8bb80a91a12503fb4eacc9f7865700d9222239e"
+metafile = true
+
+[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
 metafile = true
@@ -3769,6 +3774,11 @@ metafile = true
 [[files]]
 file = "mods/runes.pw.toml"
 hash = "d873b4bc94bc5cfe1bdfab5c965264f3183cd66c6f8f22a395e449962cb4d5a3"
+metafile = true
+
+[[files]]
+file = "mods/safe-respawn.pw.toml"
+hash = "855d4af5d64305f54ed4d068447925a7481eb3ac241132208e13a47ec840c30c"
 metafile = true
 
 [[files]]
