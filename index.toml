@@ -177,6 +177,14 @@ file = "config/bonfires-config.json5"
 hash = "9302bf41e26a8bd87d1bab55baee7ed0280872a43a2ff176938abac6a01cc1fe"
 
 [[files]]
+file = "config/botania-common.json5"
+hash = "34e9ccc5d052f8791f8feb8af97fe578c1c1435e7426accd87a75a687cfba544"
+
+[[files]]
+file = "config/botaniacombat.json5"
+hash = "91968181740e0ec37a4a57030a9398e5a04add573b549b76bc90c24002071cff"
+
+[[files]]
 file = "config/cardinal-components-api.properties"
 hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
@@ -231,6 +239,14 @@ hash = "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca"
 [[files]]
 file = "config/create-server.toml"
 hash = "45e7071444b687a5540c2bf7006166f00ada1979086a57a8d25d29a0ae36ca58"
+
+[[files]]
+file = "config/create_new_age-client.toml"
+hash = "b043e477da9a557970cd2cc7941106111bfd27a86b1237608f54e918c2a62ec1"
+
+[[files]]
+file = "config/create_new_age-common.toml"
+hash = "139fa5dc54b7f55c4770be574361e6b2bf46ee74f858128d3f9bcbdd232a4cf4"
 
 [[files]]
 file = "config/createbigcannons-client.toml"
@@ -359,6 +375,14 @@ hash = "f8fb02e734f33a6e1e008d82c5c284663cfb0d06d345b990a5e032eaedb283d9"
 [[files]]
 file = "config/excompressum-common.toml"
 hash = "a45f0cfbd33ec1372471d4c22b48140bdb9583c7dee038b8b84a9fa932bdb429"
+
+[[files]]
+file = "config/exoflame-blaze-common.toml"
+hash = "0d2779ed1057b32df8eb37eda3ab787d225ea54932a4ae5143e9d9a8dc8d09d8"
+
+[[files]]
+file = "config/extrabotany-common.json5"
+hash = "86ada07ba5f69822e6931de55d984781a9dc87e8c9b894db7fbe0c5a687ea7a6"
 
 [[files]]
 file = "config/extractinator.jsonc"
@@ -557,6 +581,10 @@ file = "config/leahs-immersive-thunder.toml"
 hash = "a120d448e40dbd9f63f660539b0cefb7ab3519a49a89c88e6be615fdaa363d36"
 
 [[files]]
+file = "config/leavesbegone-server.toml"
+hash = "940b907b5ca990dd5e258ed1b42461400cbc4755f7d1935daa09869a65000ce9"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "76765e8e5ff8e927d80beb0739aababcf36e7babfd94262f2afece256cc5cd2e"
 
@@ -717,6 +745,50 @@ file = "config/selectivebounds.json"
 hash = "515790e5c4fe8dabb62932e4ed47e3b5ff57d9ef9266e7d9e04c0881e7c4d8e2"
 
 [[files]]
+file = "config/sihywtcamd/arthropods.json"
+hash = "5566eac21870255378d22eb76bf8c1c745f838bcfda2bcbf5a5b7f28257da748"
+
+[[files]]
+file = "config/sihywtcamd/bosses.json"
+hash = "70f7275c81b2962fbc0a8daa78363c1bc81234f7df728701f8b8c130224e496d"
+
+[[files]]
+file = "config/sihywtcamd/cosmetics.json"
+hash = "0595ccea5a6f0e3c3bd5b6c02f8b13bffd94fb4a8df0aff21edad0d90c164d3d"
+
+[[files]]
+file = "config/sihywtcamd/end.json"
+hash = "99d92ec5545caf3b8170c2e4ea1e75d9136ae6caba6903e81af50e3812602db2"
+
+[[files]]
+file = "config/sihywtcamd/general.json"
+hash = "9f9ca918fc4a9180de443fafc799a1a3a73f60b6288ce786f102c0b378981fce"
+
+[[files]]
+file = "config/sihywtcamd/illagers.json"
+hash = "c434dd89ebb0ae99b85834f2d993cda437a21c9e90163d673e1153f33e3f9e8f"
+
+[[files]]
+file = "config/sihywtcamd/nether.json"
+hash = "bc16f05616ad5645fb83733dcc2e63215c47a88dc8c5df2c839b716af94e78ba"
+
+[[files]]
+file = "config/sihywtcamd/overworld.json"
+hash = "c16aa40fb32c7ec562ee2e2c47ce17f23aa4dd5ec7ea3c0aad90fffff60cca7c"
+
+[[files]]
+file = "config/sihywtcamd/skeletons.json"
+hash = "02d69a4a2a18173fd357ca79037618b125c923bc01a46572265ebdd9b77c75cb"
+
+[[files]]
+file = "config/sihywtcamd/undead.json"
+hash = "558986b328de23f9745a195c450df0cd93c6d0e48583a45cf4d981ddb94cdc55"
+
+[[files]]
+file = "config/sihywtcamd/zombies.json"
+hash = "5f5e595ec78ffc6d56c43ba5a7d849089d9d95d32aa725e52091d568730dfa56"
+
+[[files]]
 file = "config/slashblade-common.toml"
 hash = "757bc364ad5cd415e43cd875cff64aee686de6079e3e454aeee0ffa834018522"
 
@@ -747,6 +819,10 @@ hash = "e15675903d1871c1f16e517b2f28fb7724a3b4b609a3a6d58c3bdc4ffc6ea8e5"
 [[files]]
 file = "config/soulbound.json"
 hash = "1b0c650443045a76533209f304f50eb516e544e9312c25fff0381ab5eea326e9"
+
+[[files]]
+file = "config/soundattract.json"
+hash = "ee16d16412a2a3e4b1d75c18dc7d4216f2bfdee0e4a2da76f9517f36ecacf09a"
 
 [[files]]
 file = "config/spell_engine/client.json5"
