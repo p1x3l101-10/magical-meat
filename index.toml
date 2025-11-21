@@ -270,7 +270,7 @@ hash = "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028"
 
 [[files]]
 file = "config/darkness.json5"
-hash = "de9ac6057bae0b6abb94cf6ef41569d3a03892efef1d68cb3f96f4022aee55c9"
+hash = "af2b1bfc3ddb05fde4d444aa0d4bae0f4aa9df52d19e481d92dc8ebbb49ca0d5"
 
 [[files]]
 file = "config/death_knights/client.json5"
