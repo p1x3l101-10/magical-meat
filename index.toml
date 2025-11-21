@@ -3522,6 +3522,11 @@ hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "37421d14755957856ddafed04020b2b23f902f6f4c410fb5bdfc956959f99fba"
+metafile = true
+
+[[files]]
 file = "mods/lesser-teleport.pw.toml"
 hash = "9a007915eba7703d5ecda48c7abe36a1e29e6f39c729e026dd5551b48ae44c40"
 metafile = true
@@ -3834,6 +3839,11 @@ hash = "a44088681aa09c008bf904a95d0715329ca087e390f9340336e2907d3e5388a9"
 metafile = true
 
 [[files]]
+file = "mods/treechop.pw.toml"
+hash = "d4973af17081ec2f1d5aabad778331459612fc95617cda5fbcafa79ea9384c43"
+metafile = true
+
+[[files]]
 file = "mods/trinkets.pw.toml"
 hash = "ffdb79f5bc29f990e5889f5d159a043c7046b8cd8d79f17f54b44d7ccc2b242a"
 metafile = true
@@ -3846,6 +3856,11 @@ metafile = true
 [[files]]
 file = "mods/unoriginal.pw.toml"
 hash = "7cbd442dc4816697956f89b1e759ef310f22801afa0284b8a6c271a93f82a455"
+metafile = true
+
+[[files]]
+file = "mods/wheelchairs.pw.toml"
+hash = "f5ffec79996a4cd69dedf2c2af6ec018faab42adfae295db126b8b7a73b13f08"
 metafile = true
 
 [[files]]
