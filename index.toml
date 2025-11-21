@@ -21,6 +21,14 @@ file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
+file = "config/Wheelchairs.cfg"
+hash = "aeb463f9e87299011e7110db6e80ac6770f3486ae8c88b6f552b46be714fca08"
+
+[[files]]
+file = "config/WheelchairsClient.cfg"
+hash = "f889c3c6e9ed0afff64367c18bfedc606afbef8bdccc5247980bc59c780a70a7"
+
+[[files]]
 file = "config/amendments-client.json"
 hash = "c11e10dcc6c9e84f77040e6e8171351a9ac30acf8af8c6d6dc872177fdfc03dd"
 
@@ -349,6 +357,10 @@ file = "config/ephemera/server.json5"
 hash = "f8fb02e734f33a6e1e008d82c5c284663cfb0d06d345b990a5e032eaedb283d9"
 
 [[files]]
+file = "config/excompressum-common.toml"
+hash = "a45f0cfbd33ec1372471d4c22b48140bdb9583c7dee038b8b84a9fa932bdb429"
+
+[[files]]
 file = "config/extractinator.jsonc"
 hash = "d2b35906770f789f28bd1db40f25dd546d7ac380243d6fd759de7c3028cde68a"
 
@@ -457,6 +469,10 @@ file = "config/immediatelyfast.json"
 hash = "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa"
 
 [[files]]
+file = "config/immersive_aircraft.json"
+hash = "126bf93c76ee071685685cf3523ecb60dd7fc648d6eb5fae70ad697681757e48"
+
+[[files]]
 file = "config/immersive_armors.json"
 hash = "3b1b222917697f4e339d7770136473fb277c46687d94b85f0b0835be8ebad695"
 
@@ -535,6 +551,10 @@ hash = "8ee405b6a65236d3ae7d8cfedfe32b5c487051a16d0c36ccb08edb17d6cec6a5"
 [[files]]
 file = "config/jsonpatcher.json"
 hash = "0dbc42a29cafdf669ec15ba1f68c284fdd876ff5d38200bde07719b52c012ba3"
+
+[[files]]
+file = "config/leahs-immersive-thunder.toml"
+hash = "a120d448e40dbd9f63f660539b0cefb7ab3519a49a89c88e6be615fdaa363d36"
 
 [[files]]
 file = "config/lithium.properties"
@@ -693,6 +713,10 @@ file = "config/scannable-common.toml"
 hash = "72308afdd49cafa6eebcf1e296c63e5072eb78c8f3ddd4ec127d103112c8136c"
 
 [[files]]
+file = "config/selectivebounds.json"
+hash = "515790e5c4fe8dabb62932e4ed47e3b5ff57d9ef9266e7d9e04c0881e7c4d8e2"
+
+[[files]]
 file = "config/slashblade-common.toml"
 hash = "757bc364ad5cd415e43cd875cff64aee686de6079e3e454aeee0ffa834018522"
 
@@ -771,6 +795,14 @@ hash = "de4ac589f042748b5eee152034365ccb5e02cd083b67d138090a36202f7cbd15"
 [[files]]
 file = "config/toms_storage.json"
 hash = "9d8618b1e931bb01dcd78cd3058428eef19e97483c67aaf25d49dfb96b9f634c"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "37d60663be0cd06f8dfc3b0adbf4256a00f2703cda01bc1f0314df4a883046a0"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "e2e0b21f320a250e574fdde439817a99d4491897a4f98b405e57b327f60b090d"
 
 [[files]]
 file = "config/voicechat/category-volumes.properties"
