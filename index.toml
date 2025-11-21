@@ -3189,6 +3189,11 @@ hash = "c0f4ff015f670dcaef785c1a3d95fc1c26e10bfde02ba63b2cf418ef38ca6d34"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
 file = "mods/caduceus.pw.toml"
 hash = "bc10528b0f0b0308bc4bfb1eb6c15451da406f28c8d95ed7b3d111820d5fc108"
 metafile = true
@@ -3261,6 +3266,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
 metafile = true
 
 [[files]]
