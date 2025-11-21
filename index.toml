@@ -3058,7 +3058,7 @@ hash = "41f4c4a579b9837220efb9ad638efba70670fdebef6b1d09a18039c3e4e6ea87"
 
 [[files]]
 file = "kubejs/data/minecraft/worldgen/biome/the_void.json"
-hash = "0e373b5a01a09f3655b606099e9cc676c370a6617ad5bc32bb0c4ada962771b3"
+hash = "5120ca61bceaec7a764c63c7ca73776cb44752ec6087fe9282456403606dc3df"
 
 [[files]]
 file = "kubejs/data/neepmeat/recipes/enlightening/enchanted_golden_apple.json"
