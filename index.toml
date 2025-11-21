@@ -3422,6 +3422,11 @@ hash = "207e904557993d8787bdd9a735ad2f094b06aaed0de9d59a9edb1bfba509f745"
 metafile = true
 
 [[files]]
+file = "mods/early-loading-screen.pw.toml"
+hash = "cb5d0f9fdc6224769a0339389816936f40e0a61b408e5e05d5088f696a799f37"
+metafile = true
+
+[[files]]
 file = "mods/efhexs-1.0.0-20dbe0d.jar"
 hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 
