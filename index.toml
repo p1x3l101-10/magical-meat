@@ -3089,6 +3089,10 @@ file = "kubejs/data/kubejs/tags/items/integrated_circuits.json"
 hash = "41f4c4a579b9837220efb9ad638efba70670fdebef6b1d09a18039c3e4e6ea87"
 
 [[files]]
+file = "kubejs/data/minecraft/tags/worldgen/world_preset/normal.json"
+hash = "e1d7b01dd1b8895c00979963e9570d81cb251bf19d984b2ada2d387d6cbc1604"
+
+[[files]]
 file = "kubejs/data/minecraft/worldgen/biome/the_void.json"
 hash = "5120ca61bceaec7a764c63c7ca73776cb44752ec6087fe9282456403606dc3df"
 
@@ -3186,6 +3190,16 @@ metafile = true
 [[files]]
 file = "mods/bonfires.pw.toml"
 hash = "c0f4ff015f670dcaef785c1a3d95fc1c26e10bfde02ba63b2cf418ef38ca6d34"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "c325387d3cbdf2658de2a51ea6235b610505c6de8dc8be71799d050c713c88a2"
+metafile = true
+
+[[files]]
+file = "mods/botaniacombat.pw.toml"
+hash = "45a39d25ad3afd552924fdb4c37e9452306399f0fd6fd7a1b0188f781240ce00"
 metafile = true
 
 [[files]]
@@ -3342,6 +3356,11 @@ hash = "64b486e16ccc051f897e7cc16ce33c45b3f7d45c3622544f15c54bb354efea76"
 metafile = true
 
 [[files]]
+file = "mods/event-wrapper.pw.toml"
+hash = "1e74bb6d60a9575e36ea008003f11c62f3e83803d728d91ad5e5510bf299b9c7"
+metafile = true
+
+[[files]]
 file = "mods/ex-compressum.pw.toml"
 hash = "fc4c604fa778f2df01af11abc04b231b585041804ac7cc65951a79bb98ea3a95"
 metafile = true
@@ -3349,6 +3368,16 @@ metafile = true
 [[files]]
 file = "mods/ex-nihilo-extras.pw.toml"
 hash = "832570229b89ac6832f4214abc403123c35eb59444c7f38ba66d3f256d4b7abe"
+metafile = true
+
+[[files]]
+file = "mods/exoflame-blaze-burners.pw.toml"
+hash = "7b1fac1459e96c4b20839cbbc696d1f32475e8ef684e4504db4c77e0f5dee6c4"
+metafile = true
+
+[[files]]
+file = "mods/extrabotany.pw.toml"
+hash = "d9c5863ef646a2f422783c6d9986c13e285e1d7886086160422d25a61078890c"
 metafile = true
 
 [[files]]
@@ -3389,6 +3418,11 @@ metafile = true
 [[files]]
 file = "mods/fxnt-create-storage.pw.toml"
 hash = "35c71e20d7f3492c1d3a81050db4ed2c6c9b372c588f9ada003bf1e2b119dfbe"
+metafile = true
+
+[[files]]
+file = "mods/gardenofglass.pw.toml"
+hash = "364596783a2f92fa17ad252628593e37e9a3e91d1a0587fa420b72d403f304ff"
 metafile = true
 
 [[files]]

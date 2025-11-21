@@ -1,0 +1,13 @@
+name = "Botania: Garden of Glass"
+filename = "gardenofglass-1.13.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/u9tsjkut/versions/IbrEfLHB/gardenofglass-1.13.jar"
+hash-format = "sha512"
+hash = "3f0bf1df3c9e4304f1ea5e7888460405fd9c021bb8d61ba0cfab1d1403ec89938c0d1ad9a19a56798495d519dd32598b901e6a5097f68e3d28a3d1b4d64c322f"
+
+[update]
+[update.modrinth]
+mod-id = "u9tsjkut"
+version = "IbrEfLHB"

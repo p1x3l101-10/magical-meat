@@ -1,0 +1,13 @@
+name = "Event Wrapper"
+filename = "eventwrapper-fabric-1.20.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k7JPYdTv/versions/BBPvazDb/eventwrapper-fabric-1.20.1-1.1.4.jar"
+hash-format = "sha512"
+hash = "9df10cc4c846799f1f0289bade3b0f232a72f78f430dc98103afd57d0aa47cf7931799c1e41fe4dfa708a1902f762ed2799310cba1e68d0b337b561fde13af97"
+
+[update]
+[update.modrinth]
+mod-id = "k7JPYdTv"
+version = "BBPvazDb"

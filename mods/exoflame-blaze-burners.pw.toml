@@ -1,0 +1,13 @@
+name = "Exoflame Blaze Burners"
+filename = "exoflame-blaze-0.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/o7JwZMLZ/versions/mnJX3HNJ/exoflame-blaze-0.1.2.jar"
+hash-format = "sha512"
+hash = "72bfc61a4773bb6262c7f1b4e4c9f3ccb69a9155277e8797194f78881e51a0ec3ab6cf8da13e6b4cad64fcb4e3375467c04d0a35ed4450bfae78be8b9072175d"
+
+[update]
+[update.modrinth]
+mod-id = "o7JwZMLZ"
+version = "mnJX3HNJ"

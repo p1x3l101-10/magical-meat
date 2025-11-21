@@ -1,0 +1,13 @@
+name = "Extrabotany"
+filename = "extrabotany-fabric-1.20.1-1.9.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zG0IqeQj/versions/m4ApMsG5/extrabotany-fabric-1.20.1-1.9.2.jar"
+hash-format = "sha512"
+hash = "22b8d20838e1e008826d46e22299a5835fa0d0633d4b22bd6351011a0dc86f1d6421a9d3bcef6a18e90c3e7987f2683c068e1940bbfce744af46ca1dfdc8826f"
+
+[update]
+[update.modrinth]
+mod-id = "zG0IqeQj"
+version = "m4ApMsG5"
