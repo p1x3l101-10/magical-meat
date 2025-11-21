@@ -1,0 +1,13 @@
+name = "Ex Nihilo Extras"
+filename = "exnihiloextras-fabric-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/df69gHGo/versions/167Fu76m/exnihiloextras-fabric-1.20.1-1.2.0.jar"
+hash-format = "sha512"
+hash = "0bbe2d78b0209c1afb4b2f324a12e69ef56515fa405cec6c561116f08bc7a4c09a7c7ca0b7649d807f388c590998712c758133dab2ee1813b62646b154f1606a"
+
+[update]
+[update.modrinth]
+mod-id = "df69gHGo"
+version = "167Fu76m"

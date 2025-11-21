@@ -1,0 +1,13 @@
+name = "Ex Compressum"
+filename = "excompressum-fabric-1.20.1-20.1.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mwfOGtr1/versions/nKgG4Hsk/excompressum-fabric-1.20.1-20.1.9.jar"
+hash-format = "sha512"
+hash = "1f2720b080f96ec83e19a626c9fcad38971607a3d8325ba4657f1334167279f7244a6b23928a4880cd133e663eccc30cc462d2754a351154711bb70d8ef2f611"
+
+[update]
+[update.modrinth]
+mod-id = "mwfOGtr1"
+version = "nKgG4Hsk"
