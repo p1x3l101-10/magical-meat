@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "1823f82e7cd82ec228a3e8017b1c78a873e3843f58de3d13260e4a4fc21bbd1c"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -121,12 +125,64 @@ file = "config/attributefix.json"
 hash = "894c3aec4fafd04ba67c113307c87dcfa627c96e5de3e92f31b35b19090fe350"
 
 [[files]]
+file = "config/bclib/biomes.json"
+hash = "e31ef59faee81b0cff9506c0b4137f6473f68ca469d2319203bc3ca50eed6d13"
+
+[[files]]
+file = "config/bclib/cache.json"
+hash = "60cfb5c34e27eaecdd8aa4b2e59909ee038efd8eaba17faac6938816cc9cdfb4"
+
+[[files]]
+file = "config/bclib/client.json"
+hash = "9465041fe3ae38d327310691edf624fff7379a09aabedec7bcc3886841094518"
+
+[[files]]
+file = "config/bclib/generator.json"
+hash = "218542dbc05094a216da6161849a631c4fd770cf5364395d521e15e00240e0bf"
+
+[[files]]
+file = "config/bclib/main.json"
+hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
+
+[[files]]
+file = "config/bclib/server.json"
+hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+
+[[files]]
 file = "config/better_respawn/better_respawn.properties"
 hash = "403856a649e6cc8e354fa8cbc338c428b1365f693ff22c5dc1e8d3f68900edb2"
 
 [[files]]
 file = "config/betteradvancements.json"
 hash = "82ffaabd04cb676394314ad57bacb68b9160d2d8fec5109f1f106115e71417af"
+
+[[files]]
+file = "config/betterend/blocks.json"
+hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
+
+[[files]]
+file = "config/betterend/client.json"
+hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
+
+[[files]]
+file = "config/betterend/enchantments.json"
+hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
+
+[[files]]
+file = "config/betterend/entities.json"
+hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
+
+[[files]]
+file = "config/betterend/generator.json"
+hash = "564c1d7ef5b6adaeec9e7024147316c6448fcc4e97dab5391870440d0237c718"
+
+[[files]]
+file = "config/betterend/items.json"
+hash = "5fb18af78d9d096929c49224dab452715b319de8dd433a274c54adb25ea7f005"
+
+[[files]]
+file = "config/betterend/portals.json"
+hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
 
 [[files]]
 file = "config/bluemap/core.conf"
@@ -353,6 +409,10 @@ file = "config/e4mc/e4mc.toml"
 hash = "8c20c8d35ef767c383756599fc6cabda0e8fdc5aaba3b51b7dc0c8be357c01a9"
 
 [[files]]
+file = "config/early-loading-screen.properties"
+hash = "dafb44865c740bf40082d65326782d6dae2e1c317dd4956ebcb26da86ecf95d7"
+
+[[files]]
 file = "config/emi.css"
 hash = "6a7cae69cc98717d699fcca45a62a9a6d327b922cf51f2ce44da2025076362eb"
 
@@ -503,6 +563,10 @@ hash = "126bf93c76ee071685685cf3523ecb60dd7fc648d6eb5fae70ad697681757e48"
 [[files]]
 file = "config/immersive_armors.json"
 hash = "3b1b222917697f4e339d7770136473fb277c46687d94b85f0b0835be8ebad695"
+
+[[files]]
+file = "config/immersive_machinery.json"
+hash = "ca24e50fabfae0ba63e50ed786ec5674d725db94f8ee064cef53f0db49153d69"
 
 [[files]]
 file = "config/immersive_melodies.json"
@@ -687,6 +751,14 @@ hash = "f025fe9200c89f808a4459ce10b332a2f763c3d6d9622de61b10278e54161117"
 [[files]]
 file = "config/paucal.json5"
 hash = "fd8dbcd3db695f130b78e5eb763e33669c2b7215edb9d95f55429307cc7b8905"
+
+[[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/pehkui/config.json"
