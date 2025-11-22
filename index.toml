@@ -3396,6 +3396,16 @@ hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "630b6d667264f8f5a580af52952ca9ef031d4f6db81a41e22d78738dcc53b154"
+metafile = true
+
+[[files]]
+file = "mods/ctov-paladins-n-priests-compat.pw.toml"
+hash = "744cff2fb142e4558497347e7017e53e3e80c3da8cb960848220b5629cf9e2e5"
+metafile = true
+
+[[files]]
 file = "mods/cupboard.pw.toml"
 hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
 metafile = true
@@ -3748,6 +3758,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "55167e582fd4841cd6c581beb53d341e94285c216e04b1d7bff0068e875be2a6"
 metafile = true
 
 [[files]]
