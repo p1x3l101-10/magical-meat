@@ -3417,7 +3417,7 @@ metafile = true
 
 [[files]]
 file = "mods/difficulty.pw.toml"
-hash = "b9036f73a16ac4bf0804f09ea8bb80a91a12503fb4eacc9f7865700d9222239e"
+hash = "9aeb8670f487587f6deaddbbc11794755be5dcea0e1408d230100c79dbccc16e"
 metafile = true
 
 [[files]]
