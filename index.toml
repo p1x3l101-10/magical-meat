@@ -3273,6 +3273,11 @@ file = "kubejs/startup_scripts/circuits.js"
 hash = "c0ba74464fb3eb63a3ec7b0095ca3f8894696a5e77c67ef9e24e899f40aaeffe"
 
 [[files]]
+file = "mods/advanced-reborn.pw.toml"
+hash = "dff6380fc06ba42bf28ead9e8c249f03d2397720fe75a8f106d926a02e18e1c4"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
@@ -3305,11 +3310,6 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
-metafile = true
-
-[[files]]
-file = "mods/augmented-reborn.pw.toml"
-hash = "0a3a557627740d5d10f5cf2127984c481ea76b69333e1f6dcf132d1258272b89"
 metafile = true
 
 [[files]]
