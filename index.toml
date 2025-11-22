@@ -3616,6 +3616,11 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
+file = "mods/fullstack-watchdog.pw.toml"
+hash = "1bd2525bd0b9c600f3ce691e72e61547743fb3b1d5b5b8b8fdbe370cd8adf720"
+metafile = true
+
+[[files]]
 file = "mods/gardenofglass.pw.toml"
 hash = "364596783a2f92fa17ad252628593e37e9a3e91d1a0587fa420b72d403f304ff"
 metafile = true
