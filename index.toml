@@ -3358,6 +3358,11 @@ hash = "dd8057c40ff94e9a21a121583884f71c9a6b1eaa6f913ef46c5d1f9b37fe487f"
 metafile = true
 
 [[files]]
+file = "mods/betternether.pw.toml"
+hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
@@ -4212,6 +4217,11 @@ metafile = true
 [[files]]
 file = "mods/worldportal.pw.toml"
 hash = "146a2b1e9d53344f33d75001338802b65d579ff43c72c758727266bec88f2f8a"
+metafile = true
+
+[[files]]
+file = "mods/wunderreich.pw.toml"
+hash = "33c84998c9a366d0c56b1c6be83f121b02c95ece9e492d4b3452cb03a69b7056"
 metafile = true
 
 [[files]]
