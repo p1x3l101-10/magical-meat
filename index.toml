@@ -3303,11 +3303,6 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
-file = "mods/attract-to-sound.pw.toml"
-hash = "02a161e45572a5a9748aa4485c25fd4bb026ad97f441e21df79d4f55c67f5164"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
 metafile = true
