@@ -1,12 +1,12 @@
 name = "Magic Meat"
 author = "P1x3l101"
-version = "1.0.2"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "c362d37b2983ab530573bab5551725cf345ea11edec6e1de9b56f80a1ffb1a52"
+hash = "d105aca92b912475a6fe518c03b2fe4c98ce1ea4e75e61754712d1e976ffc3df"
 
 [versions]
 fabric = "0.18.0"
