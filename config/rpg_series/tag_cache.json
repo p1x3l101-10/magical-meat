@@ -1,6 +1,10 @@
 {
   "cache": {
-    "rpg_series:tier_4_weapons": [],
+    "rpg_series:tier_4_weapons": [
+      "paladins:aeternium_great_hammer",
+      "paladins:aeternium_claymore",
+      "paladins:aeternium_mace"
+    ],
     "rpg_series:tier_1_armors": [
       "paladins:paladin_armor_chest",
       "paladins:paladin_armor_feet",
@@ -65,7 +69,9 @@
       "paladins:diamond_claymore",
       "paladins:diamond_holy_staff"
     ],
-    "rpg_series:tier_4_accessories": [],
+    "rpg_series:tier_4_accessories": [
+      "paladins:aeternium_kite_shield"
+    ],
     "rpg_series:tier_0_weapons": [
       "paladins:wooden_great_hammer",
       "paladins:stone_great_hammer",

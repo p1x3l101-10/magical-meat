@@ -48,6 +48,36 @@
           "operation": "ADDITION"
         }
       ]
+    },
+    "paladins:aeternium_kite_shield": {
+      "durability": 1344,
+      "attributes": [
+        {
+          "id": "minecraft:generic.armor_toughness",
+          "value": 1.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "generic.max_health",
+          "value": 6.0,
+          "operation": "ADDITION"
+        }
+      ]
+    },
+    "paladins:ruby_kite_shield": {
+      "durability": 1344,
+      "attributes": [
+        {
+          "id": "minecraft:generic.armor_toughness",
+          "value": 1.0,
+          "operation": "ADDITION"
+        },
+        {
+          "id": "generic.max_health",
+          "value": 6.0,
+          "operation": "ADDITION"
+        }
+      ]
     }
   }
 }

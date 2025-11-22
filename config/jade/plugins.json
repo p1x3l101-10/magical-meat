@@ -51,6 +51,18 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "treechop": {
+    "plugin": true,
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
+  },
+  "fabricaeexnihilo": {
+    "barrel": true,
+    "strainer": true,
+    "crucible": true,
+    "sieve": true,
+    "infesting_leaves": true
+  },
   "supplementaries": {
     "hat_stand": true
   },
@@ -61,5 +73,15 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
+  },
+  "excompressum": {
+    "bait": true,
+    "auto_sieve": true,
+    "wooden_crucible": true,
+    "heavy_sieve": true,
+    "auto_hammer": true
+  },
+  "balm": {
+    "jade": true
   }
 }
