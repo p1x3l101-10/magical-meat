@@ -3361,6 +3361,11 @@ hash = "41a3dc271859b118417946d2fdb2408523563b2f4f49048073672a342fb1aebf"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
+metafile = true
+
+[[files]]
 file = "mods/complex-hex.pw.toml"
 hash = "7deff0eada2fe367cf5d47b8f48ace87d6af8baa4044b1e1be0491d9088bb866"
 metafile = true
