@@ -3998,11 +3998,6 @@ hash = "f149e9b1b21f40c44f167ef018e7e310d164d49b4c0c0ed65dd6f64827496c17"
 metafile = true
 
 [[files]]
-file = "mods/just-a-backpack.pw.toml"
-hash = "e22df11e9e7bd05de94cee2896a58ea83207f4636acb508d0e935bbf3d659a00"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ead6f125d759a3bc5892416204319369836742556943d5fed6220dbdb8f32913"
 metafile = true
@@ -4115,6 +4110,11 @@ metafile = true
 [[files]]
 file = "mods/nullscape.pw.toml"
 hash = "e5e76b305f6e8fd611fb70695f42014c62e5f46b926d626eaf5ca0c78e394c5c"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-wearable-backpacks.pw.toml"
+hash = "5a65ec0691ed17be84d9c860fd7e0c3827718af293b6e43bfd9dacb9be9ffc21"
 metafile = true
 
 [[files]]

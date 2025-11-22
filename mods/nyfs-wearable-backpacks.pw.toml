@@ -1,0 +1,13 @@
+name = "Nyf's Wearable Backpacks"
+filename = "wearablebackpacks-fabric-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/50ZhaKlO/versions/HYak6KS7/wearablebackpacks-fabric-1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "a1e9b23883671c83f437ed608ace1347fe589a2949472d6235359d952a0844f7603d9ea3f5f4aa0c23c0943491ffd9f1a97450a6c62102a31a7b0ca7226ed7de"
+
+[update]
+[update.modrinth]
+mod-id = "50ZhaKlO"
+version = "HYak6KS7"
