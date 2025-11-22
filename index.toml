@@ -3273,6 +3273,11 @@ file = "kubejs/startup_scripts/circuits.js"
 hash = "c0ba74464fb3eb63a3ec7b0095ca3f8894696a5e77c67ef9e24e899f40aaeffe"
 
 [[files]]
+file = "mods/advanced-reborn.pw.toml"
+hash = "dff6380fc06ba42bf28ead9e8c249f03d2397720fe75a8f106d926a02e18e1c4"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
@@ -3305,6 +3310,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
+metafile = true
+
+[[files]]
+file = "mods/augmented-reborn.pw.toml"
+hash = "0a3a557627740d5d10f5cf2127984c481ea76b69333e1f6dcf132d1258272b89"
 metafile = true
 
 [[files]]
@@ -3838,6 +3848,11 @@ hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
+file = "mods/industrialreborn.pw.toml"
+hash = "659ea54db6a88fc1cd35d1c501d86227088c62c5b9997e7456acf246bcab4a48"
+metafile = true
+
+[[files]]
 file = "mods/infernum-effugium.pw.toml"
 hash = "a7abc895474e1851bcb4957e69d6d9fdef3411b7ee989932e1673e109622f5a6"
 metafile = true
@@ -3905,6 +3920,11 @@ metafile = true
 [[files]]
 file = "mods/markdownmanual.pw.toml"
 hash = "887656197aff2cd6009a0ff04996b4318aa202b8ed253650860f4882a60bc876"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "28eedffdb074a8837005037768b97258c60bb471a5e9952e6e3e5cf11697b6ec"
 metafile = true
 
 [[files]]
@@ -4056,6 +4076,11 @@ hash = "857fab6e4165870158db645dc5cb00ae845426bf37af87961a80953fe9b465bd"
 metafile = true
 
 [[files]]
+file = "mods/reborncore.pw.toml"
+hash = "6148364363b63bfcf0348e0fdba41617866120a50dc191bbe64e53728c4a9ca9"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "4a7d1e46795d2d83b18db85d8dbc63740a1d337e12d2b9e550378de59f2b23ab"
 metafile = true
@@ -4187,6 +4212,16 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "3135bb6ec401e951d248de79dbdf40608e362e64b89fe9e7d2e74399f3b49375"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "a08d9b7f16be892793150a9a01328945ee4880dc0ed74cab632a76cb8cb4dbdd"
+metafile = true
+
+[[files]]
+file = "mods/techrebornjei.pw.toml"
+hash = "c48947e2995890bbc5bc82b3c3c43e2be7dfea08ae0aebb0c1efdd71e577f1f2"
 metafile = true
 
 [[files]]

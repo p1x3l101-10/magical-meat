@@ -1,0 +1,13 @@
+name = "TechRebornJEI"
+filename = "TechRebornJEI-20.1.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FaJv0NSi/versions/Kp3qSIZH/TechRebornJEI-20.1.8.jar"
+hash-format = "sha512"
+hash = "83f35d42fb0e4e3df09020263cdd9f20164985533655e7f19cbb03e94316f417ccb14a70be889c2f2b384204afa10bba9d5df9472008e48e2bb61bdce09f8797"
+
+[update]
+[update.modrinth]
+mod-id = "FaJv0NSi"
+version = "Kp3qSIZH"

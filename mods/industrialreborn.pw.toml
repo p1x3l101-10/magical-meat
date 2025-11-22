@@ -1,0 +1,13 @@
+name = "Industrial Reborn"
+filename = "IndustrialReborn-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kwpnHlhf/versions/OlXXoERL/IndustrialReborn-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "6fd8f30e0b94db1aa67e36b50a8501b212d74ed131addc23734b556649920d920dd097105adb61d56e096727db0d533ed9df4a12f3e649c8397286bb91162ced"
+
+[update]
+[update.modrinth]
+mod-id = "kwpnHlhf"
+version = "OlXXoERL"
