@@ -3426,6 +3426,11 @@ hash = "9aeb8670f487587f6deaddbbc11794755be5dcea0e1408d230100c79dbccc16e"
 metafile = true
 
 [[files]]
+file = "mods/dimensionaldoors.pw.toml"
+hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
+metafile = true
+
+[[files]]
 file = "mods/dimensionfixer.pw.toml"
 hash = "5fc16b8010e3baebaf8cf1d54b465c687240dafe14d6b87fbe7a8a546eeb8738"
 metafile = true
