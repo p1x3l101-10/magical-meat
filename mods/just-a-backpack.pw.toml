@@ -1,0 +1,13 @@
+name = "Just a Backpack"
+filename = "just_a_backpack-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4LWc2Mjr/versions/yYzDrzj0/just_a_backpack-0.1.0.jar"
+hash-format = "sha512"
+hash = "5fa1bacde75a6545f982883fc5721f72ffdbb46613a5b20bcb7cf734b158acc33c759f896b8dfdaa2b454d827cb3e042704467ea06320bd79a105917982687bd"
+
+[update]
+[update.modrinth]
+mod-id = "4LWc2Mjr"
+version = "yYzDrzj0"
