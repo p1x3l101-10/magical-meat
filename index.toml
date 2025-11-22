@@ -3519,17 +3519,17 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-extra.pw.toml"
-hash = "5aa266498f131bf7b9d764d608b6416f36555c228110c0d5126bcd7c8bec9f9c"
+hash = "c14318e07b2f43246b24e787ed38366309bcb063f62d1173f323a8578b054688"
 metafile = true
 
 [[files]]
 file = "mods/carpet-fixes.pw.toml"
-hash = "d7c6555b666ff113894f6dd6dba7e6cc95c041542d06a39fd6f67421341711b9"
+hash = "927a9d030a9bad114c17a4195f25a76f2ba9d0bdaf8e701f323e267dd1ce9edf"
 metafile = true
 
 [[files]]
 file = "mods/carpet.pw.toml"
-hash = "4233964479cc6cae77c38cf79bd66859a14a6c3105d3d91e53f00c2cefa538de"
+hash = "f912004cc3c195008c32edf5ad4108639eb36530221886034cdd03b7916a220a"
 metafile = true
 
 [[files]]
@@ -3549,7 +3549,7 @@ metafile = true
 
 [[files]]
 file = "mods/clickable-advancements.pw.toml"
-hash = "41ad480707906de6e55b183a2c3dfd11e2b6a499cf7fbe9c8d9868771462a72a"
+hash = "6230655836322a69dbc7d836f90c11045fa912258430429e156dae4aa29b10f2"
 metafile = true
 
 [[files]]
@@ -3609,7 +3609,7 @@ metafile = true
 
 [[files]]
 file = "mods/cupboard.pw.toml"
-hash = "4463005ad6ae41db2bf707952d6945297f48601a42ec8b6cac8aef09d653ffd2"
+hash = "407bc67fa298592aab2a9137849b9f643e70354342cc5fcf517755b3c88a94a8"
 metafile = true
 
 [[files]]
@@ -4197,7 +4197,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
-hash = "6148364363b63bfcf0348e0fdba41617866120a50dc191bbe64e53728c4a9ca9"
+hash = "ead542d74c74da66fff0f8076b97f03ebe202151a189a12907e5aa8c99a78f96"
 metafile = true
 
 [[files]]
@@ -4336,7 +4336,7 @@ metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
-hash = "a08d9b7f16be892793150a9a01328945ee4880dc0ed74cab632a76cb8cb4dbdd"
+hash = "c0ba3d8bbfc1a0f79b9726305b92d827ae4f43777ae42a0733c253aaf0c89dfa"
 metafile = true
 
 [[files]]

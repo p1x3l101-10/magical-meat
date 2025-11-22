@@ -3,8 +3,8 @@ filename = "clickadv-fabric-1.20.1-3.8.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "4417c595b13d6ce79cb500f69631cd753fdd9357"
+hash-format = "sha512"
+hash = "49380fde6bb82dd1da96a5be927a153588a8315c03206270af4afa47a9e7a7289d909a247d3e99135edc9265f4b447c29633b53120a76fe60e7f2172ffefdf78"
 mode = "metadata:curseforge"
 
 [update]

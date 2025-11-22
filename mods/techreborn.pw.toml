@@ -3,8 +3,8 @@ filename = "TechReborn-5.8.14.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3a7f907b5da70e3fc114493c17ee7518042cf14b"
+hash-format = "sha512"
+hash = "a0c917ba97880b31e3898bc8fb7483b2f649f188b43b4cab7e29d006643c1c2b52212b08d0c270557e50af06cbc92c75209c67626da8d1eb562438dcc1310661"
 mode = "metadata:curseforge"
 
 [update]
