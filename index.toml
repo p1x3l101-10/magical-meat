@@ -3393,10 +3393,6 @@ file = "kubejs/startup_scripts/circuits.js"
 hash = "c0ba74464fb3eb63a3ec7b0095ca3f8894696a5e77c67ef9e24e899f40aaeffe"
 
 [[files]]
-file = "mods/EasyShulkerBoxes-v8.0.2-1.20.1-Fabric.jar"
-hash = "20061a4a13e8ba5f82ff83086e3145e9dfa36206e179d711bfd1c5140ac18209"
-
-[[files]]
 file = "mods/advanced-reborn.pw.toml"
 hash = "dff6380fc06ba42bf28ead9e8c249f03d2397720fe75a8f106d926a02e18e1c4"
 metafile = true
