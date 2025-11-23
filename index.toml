@@ -449,6 +449,10 @@ file = "config/early-loading-screen.properties"
 hash = "aeeeb8d9d2f67cd17a17e92ff6f6f04e96dfd6fc30a0fb41e7521b15c1276818"
 
 [[files]]
+file = "config/easyanvils-client.toml"
+hash = "620ac570d584297adbd7b3dd4307c80970f076cb2c3a146401e67e04dbff150d"
+
+[[files]]
 file = "config/emi.css"
 hash = "6a7cae69cc98717d699fcca45a62a9a6d327b922cf51f2ce44da2025076362eb"
 
@@ -869,6 +873,14 @@ file = "config/power_config.json5"
 hash = "4a0492a46ebe8c5870fccbd5451cfff5a6557779ae34270e33620024b0896245"
 
 [[files]]
+file = "config/puzzlesapi-iteminteractions-client.toml"
+hash = "6312dd81c268ba17c9875276b62ee7d48a61a61d6dae53d8833d638cb43456f7"
+
+[[files]]
+file = "config/puzzlesapi-slotcycling-client.toml"
+hash = "fe448bbfec4b3129be87422c0616136bc5179cf9c85447f1742170bb59a79ed0"
+
+[[files]]
 file = "config/reborncore/misc.json"
 hash = "01b9aa50c5ea6978d65bef4bfea6247a550d1d85e716b408c84a698ee2a25576"
 
@@ -1079,6 +1091,10 @@ hash = "3360fd65537503100ae41a053f0ec3081ed837e8ef95ad567dd7bdd11541f4b5"
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "a18ccb2ec7030e305df98d615a67590969db5d9be6859092e474e1ef3e498b4e"
+
+[[files]]
+file = "config/wearablebackpacks-common.toml"
+hash = "4c2f91fac0f3c62ac3de5c2ff811470a2f6989b138cf365443a7617261e10e50"
 
 [[files]]
 file = "config/worldportal.json"
