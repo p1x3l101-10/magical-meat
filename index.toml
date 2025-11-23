@@ -3603,8 +3603,8 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
-file = "mods/create-new-age.pw.toml"
-hash = "2c65b7ed826a2d147f0eb4788152b9f1ae878e0df102af58a9ea23ebd1c48f04"
+file = "mods/createaddition.pw.toml"
+hash = "8e0ab4317f114231fa313af5fc1b5fadf0e8096d712bdc1fd7359077a003d389"
 metafile = true
 
 [[files]]
@@ -3665,6 +3665,16 @@ metafile = true
 [[files]]
 file = "mods/early-loading-screen.pw.toml"
 hash = "cb5d0f9fdc6224769a0339389816936f40e0a61b408e5e05d5088f696a799f37"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "e9ba6ffa1109ca957fef061ef4b41a46300b3cfb382ef4ae24f96c54309fd31f"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "5525baa8ad75041025127697dfb53232afee87c23ed56517f10577d3eaa04ec2"
 metafile = true
 
 [[files]]
