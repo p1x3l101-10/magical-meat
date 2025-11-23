@@ -1,0 +1,13 @@
+name = "Biotania"
+filename = "biotania-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BvTAwKjV/versions/TZrlydJj/biotania-1.0.1.jar"
+hash-format = "sha512"
+hash = "1e90a2fed2d380343adc408476730341778c3a913acd2c9c03a321cf72c0b360fb45a2edeebe355de755050ae4d4c865a26c4fbd57e166a4de26722d4267f2ee"
+
+[update]
+[update.modrinth]
+mod-id = "BvTAwKjV"
+version = "TZrlydJj"

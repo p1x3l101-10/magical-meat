@@ -3483,6 +3483,16 @@ hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "9e9bbbe39ae2ef72b9ad5dfbd63efd6beec6a5fb1391fcb01f92f6ade8117971"
+metafile = true
+
+[[files]]
+file = "mods/biotania.pw.toml"
+hash = "0c2d0700da258c127d0448998dd1cea557c99232dd3d2b1e771f5a907e9fbe58"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "f96656076717dcadf38073af32ce253b2cfd0f5ff1785c03450e146f06213ee3"
 metafile = true
