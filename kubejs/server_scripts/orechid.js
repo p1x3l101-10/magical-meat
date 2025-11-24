@@ -26,52 +26,43 @@ ServerEvents.recipes(event => {
     { mod: "techreborn", ore: "pyrite", weight: 200 },
     { mod: "techreborn", ore: "sphalerite", weight: 200 }
   ];
-  // Cobble
-  var cobbleOreGen = overworldAll + overworldCobble;
-  for (const entry of cobbleOreGen) {
+  // Function
+  const orechidGenerator = (input, output, weight, type) => {
     event.custom({
-      type: 'botania:orechid',
+      type: "botania" + type,
       input: {
         type: 'block',
-        block: 'minecraft:stone'
+        block: input
       },
       output: {
         type: 'block',
-        block: entry.mod + ':' + entry.ore + "_ore"
+        block: output
       },
-      weight: entry.weight
+      weight: weight
     });
+  };
+  // Cobble
+  var cobbleOreGen = overworldAll + overworldCobble;
+  for (const entry of cobbleOreGen) {
+    orechidGenerator('minecraft:stone'
+      , entry.mod + ':' + entry.ore + "_ore"
+      , entry.weight
+      , 'orechid');
   }
   // Deepslate
   var deepslateOreGen = overworldAll + overworldDeepslate;
   for (const entry of deepslateOreGen) {
-    event.custom({
-      type: 'botania:orechid',
-      input: {
-        type: 'block',
-        block: 'minecraft:deepslate'
-      },
-      output: {
-        type: 'block',
-        block: entry.mod + ':deepslate_' + entry.ore + "_ore"
-      },
-      weight: entry.weight
-    });
+    orechidGenerator('minecraft:deepslate'
+      , entry.mod + ':deepslate_' + entry.ore + "_ore"
+      , entry.weight
+      , 'orechid');
   }
   // Nether
   var netherrackOreGen = nether;
   for (const entry of netherrackOreGen) {
-    event.custom({
-      type: 'botania:orechid_ignem',
-      input: {
-        type: 'block',
-        block: 'minecraft:netherrack'
-      },
-      output: {
-        type: 'block',
-        block: entry.mod + ':' + entry.ore + "_ore"
-      },
-      weight: entry.weight
-    });
+    orechidGenerator('minecraft:netherrack'
+      , entry.mod + ':' + entry.ore + "_ore"
+      , entry.weight
+      , 'orechid_ignem');
   }
 })
