@@ -1,0 +1,13 @@
+name = "AE2CC Bridge"
+filename = "AE2CCBridge-1.0.0-1.20.1-FABRIC-0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZRtuvEQK/versions/9qt4DMlG/AE2CCBridge-1.0.0-1.20.1-FABRIC-0.0.jar"
+hash-format = "sha512"
+hash = "e66f11a7fe9d8b51deafe9f389af6db25528d67a772abba72e98536dd27e922ab55e3a098287f4d7d9c86f39a6f962ec559c74bb8b9fa73394cbdbc9e981e311"
+
+[update]
+[update.modrinth]
+mod-id = "ZRtuvEQK"
+version = "9qt4DMlG"

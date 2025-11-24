@@ -3418,6 +3418,31 @@ hash = "dff6380fc06ba42bf28ead9e8c249f03d2397720fe75a8f106d926a02e18e1c4"
 metafile = true
 
 [[files]]
+file = "mods/ae2-emi-crafting.pw.toml"
+hash = "f9de150fd28847bbae0649278f098babfb0ea4961caf93bec38835c4574e5ab3"
+metafile = true
+
+[[files]]
+file = "mods/ae2-mousetweaks-fix.pw.toml"
+hash = "2b4bc7596c0c4ea12e17728530b201aa4b56284c68fc2d5b138a5ddc55ceee3c"
+metafile = true
+
+[[files]]
+file = "mods/ae2-qol-recipes.pw.toml"
+hash = "30aed1d7af669335841c2eac7024384fc7934539208053c25cc69847e986f70d"
+metafile = true
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "ddb73a24312769d0023e70d764db13e2de3cfe271c1e7e7c6ae9bd4e1201cd20"
+metafile = true
+
+[[files]]
+file = "mods/ae2cc.pw.toml"
+hash = "03dad985b41947ea69e4ecbf023b2a3e27dd42d74a6b4c86a38cbd360e1c5c45"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "006b24892ead1f3b1319727bcd41c32db322e3eb61956825387c3788bfd9e168"
 metafile = true
@@ -3440,6 +3465,16 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "7d44149b8b22e0b19b082f49809edfc1b5f170e5d1d297cd73ae88c0b432c3ab"
+metafile = true
+
+[[files]]
+file = "mods/applied-botanics.pw.toml"
+hash = "d0eb474d87b7478361597c4d59adeaf3b42cf384526c9adad745c707b82797c9"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "f53692469637eda8ca8e113738fc02e4a08a2093781da80c96c8fdf0671b65b2"
 metafile = true
 
 [[files]]
@@ -3505,6 +3540,11 @@ metafile = true
 [[files]]
 file = "mods/betternether.pw.toml"
 hash = "2e8023b4e1107227e4adadabdcb48d96b6659134f9174d476899e077c1621a12"
+metafile = true
+
+[[files]]
+file = "mods/betterp2p.pw.toml"
+hash = "1ea7556f38ba21e1ea121b2b99540c521ad50af984977888775cf5b9798e5043"
 metafile = true
 
 [[files]]
@@ -3658,6 +3698,11 @@ hash = "5fc16b8010e3baebaf8cf1d54b465c687240dafe14d6b87fbe7a8a546eeb8738"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "20fdb4bb9c30b2aa81499f43657c266e3d84fdb4a3b167c7fdbf3309e4316fc7"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "a8aa09f4f156506ed902620637557fb3623084d5d994f7b4f1f01eb4a19916b6"
 metafile = true
@@ -3761,6 +3806,11 @@ hash = "7b1fac1459e96c4b20839cbbc696d1f32475e8ef684e4504db4c77e0f5dee6c4"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "b45066ea78e24345a9393d25608575335ac57896be4a6cc0123c78dbf1b46cfb"
+metafile = true
+
+[[files]]
 file = "mods/extra-mod-integrations.pw.toml"
 hash = "376321a4e11e86d932670192b6ddebfd7b898c4e47e74a6b08c7c0123a0aa49c"
 metafile = true
@@ -3783,6 +3833,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "d7c055f277c1751122d9abc5f09015e629699e04a9383cd0c666b33436293079"
+metafile = true
+
+[[files]]
+file = "mods/fabricae-ex-nihilo-ae2-addon.pw.toml"
+hash = "9c672d7700e0411bc5a2a130005fe8d5ac740a4bb5bfadfc9d3b0470038ca8d5"
 metafile = true
 
 [[files]]
@@ -3838,6 +3893,11 @@ metafile = true
 [[files]]
 file = "mods/giant-cherry-blossom-bonsai-tree.pw.toml"
 hash = "63f784dc3ab6558ea2b5b986b9a3d27d5750403a4b9e2e39a22eccfe6629ad07"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "dc96ea7e0dbe948eb3c517bb5458dd1fc9a787b61719458c2dd92d549c667ffb"
 metafile = true
 
 [[files]]
@@ -4442,6 +4502,11 @@ metafile = true
 [[files]]
 file = "mods/true-darkness-refabricated.pw.toml"
 hash = "cdcd8b1b9f62eea4f46ed5bc3a58125ae5ae2ceb1854739666eeacffda6fabc7"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
 metafile = true
 
 [[files]]

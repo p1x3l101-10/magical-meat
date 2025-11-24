@@ -1,0 +1,13 @@
+name = "Fabricae Ex Nihilo - AE2 Addon"
+filename = "fabricae-ex-nihilo-ae2-addon-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jvSbMxFq/versions/5tV8wnZv/fabricae-ex-nihilo-ae2-addon-1.0.0.jar"
+hash-format = "sha512"
+hash = "c6ce0a9913ce7bfa153d281476142037e7a7ccccfabc03adb2c2fd6fc635af80de1c52f85ecc409686b77a5ba34de2b421d397fe3fe8c87d0853847216ad2173"
+
+[update]
+[update.modrinth]
+mod-id = "jvSbMxFq"
+version = "5tV8wnZv"
