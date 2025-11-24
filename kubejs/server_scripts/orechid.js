@@ -2,7 +2,7 @@
 
 ServerEvents.recipes(event => {
   // Ore tables
-  var overworldAll = [
+  let overworldAll = [
     { mod: "techreborn", ore: "lead", weight: 1000 },
     { mod: "techreborn", ore: "tin", weight: 1000 },
     { mod: "techreborn", ore: "silver", weight: 100 },
@@ -12,16 +12,16 @@ ServerEvents.recipes(event => {
     { mod: "techreborn", ore: "sapphire", weight: 100 },
     { mod: "techreborn", ore: "iridium", weight: 100 }
   ];
-  var overworldCobble = [
+  let overworldCobble = [
     { mod: "create_new_age", ore: "thorium", weight: 100 }
   ];
-  var overworldDeepslate = [
+  let overworldDeepslate = [
     { mod: "techreborn", ore: "sheldonite", weight: 100 },
     { mod: "techreborn", ore: "sodalite", weight: 100 },
     { mod: "techreborn", ore: "peridot", weight: 100 },
     { mod: "techreborn", ore: "tungsten", weight: 100 }
   ];
-  var nether = [
+  let nether = [
     { mod: "techreborn", ore: "cinnabar", weight: 200 },
     { mod: "techreborn", ore: "pyrite", weight: 200 },
     { mod: "techreborn", ore: "sphalerite", weight: 200 }
@@ -42,7 +42,7 @@ ServerEvents.recipes(event => {
     });
   };
   // Cobble
-  var cobbleOreGen = overworldAll + overworldCobble;
+  const cobbleOreGen = overworldAll + overworldCobble;
   for (const entry of cobbleOreGen) {
     orechidGenerator('minecraft:stone'
       , entry.mod + ':' + entry.ore + "_ore"
@@ -50,7 +50,7 @@ ServerEvents.recipes(event => {
       , 'orechid');
   }
   // Deepslate
-  var deepslateOreGen = overworldAll + overworldDeepslate;
+  const deepslateOreGen = overworldAll + overworldDeepslate;
   for (const entry of deepslateOreGen) {
     orechidGenerator('minecraft:deepslate'
       , entry.mod + ':deepslate_' + entry.ore + "_ore"
@@ -58,7 +58,7 @@ ServerEvents.recipes(event => {
       , 'orechid');
   }
   // Nether
-  var netherrackOreGen = nether;
+  const netherrackOreGen = nether;
   for (const entry of netherrackOreGen) {
     orechidGenerator('minecraft:netherrack'
       , entry.mod + ':' + entry.ore + "_ore"
