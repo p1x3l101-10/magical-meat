@@ -3807,6 +3807,11 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
+file = "mods/forgiving-void.pw.toml"
+hash = "9df3c501b49a230b801971cec21fc534d3b9bd506c1c07331fef455f2a96ec53"
+metafile = true
+
+[[files]]
 file = "mods/fullstack-watchdog.pw.toml"
 hash = "1bd2525bd0b9c600f3ce691e72e61547743fb3b1d5b5b8b8fdbe370cd8adf720"
 metafile = true
