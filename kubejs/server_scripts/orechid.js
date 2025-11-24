@@ -29,7 +29,7 @@ ServerEvents.recipes(event => {
   // Function
   const orechidGenerator = (input, output, weight, type) => {
     event.custom({
-      type: "botania" + type,
+      type: "botania:" + type,
       input: {
         type: 'block',
         block: input
