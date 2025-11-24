@@ -1,0 +1,13 @@
+name = "Hopper The Hedgehog (Faster Hoppers/Dispensers)"
+filename = "HopperTheHedgehog-2.0.0-1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/o8M31HQZ/versions/n6M1JMzl/HopperTheHedgehog-2.0.0-1.20.jar"
+hash-format = "sha512"
+hash = "0356f1de09b53111699e97d248966dc5dfc0a5b1e67b95d6bb43670e59484befaf65ba677a1db279daf0de3db9378a42e76038ab6ed3a55d564bf6d74f9adf77"
+
+[update]
+[update.modrinth]
+mod-id = "o8M31HQZ"
+version = "n6M1JMzl"

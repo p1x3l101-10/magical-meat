@@ -3949,6 +3949,11 @@ hash = "04b60c1af307fe868c98b0e4ef4d641dbf4ebe800524ea5ad779b47cedd3ff1c"
 metafile = true
 
 [[files]]
+file = "mods/hopper-the-hedgehog.pw.toml"
+hash = "420b916ee9c533e24ac9d006f034ce5b1a358a550e76923e661c99ed8ff1bed4"
+metafile = true
+
+[[files]]
 file = "mods/hostile-mobs-improve-over-time.pw.toml"
 hash = "3762eb02ae94946c1b6bc473c3d62261ef97a84675f58d402e1dd1ffb91115df"
 metafile = true
