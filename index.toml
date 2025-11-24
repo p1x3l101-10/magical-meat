@@ -3401,6 +3401,10 @@ file = "kubejs/server_scripts/advancementSpam.js"
 hash = "6e354fe80b68fbba34f035aff8aa838b7a015991232185aa061d9133f3730075"
 
 [[files]]
+file = "kubejs/server_scripts/botanicalAmethyst.js"
+hash = "4f7f426e3755a8af1de34dec54f953ef6bdc6bc07bc824e75c86065113aeb8fa"
+
+[[files]]
 file = "kubejs/server_scripts/orechid.js"
 hash = "d3e87d79d6af9ab8801edff6d3bfcd5e16aaacf8e8ce1a2e305fd95b5fff219f"
 
