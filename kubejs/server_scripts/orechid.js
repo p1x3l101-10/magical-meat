@@ -42,7 +42,7 @@ ServerEvents.recipes(event => {
     });
   };
   // Cobble
-  const cobbleOreGen = [ ...overworldAll, ...overworldCobble];
+  const cobbleOreGen = overworldAll.concat(overworldCobble);
   for (const entry of cobbleOreGen) {
     orechidGenerator('minecraft:stone'
       , entry.mod + ':' + entry.ore + "_ore"
@@ -50,7 +50,7 @@ ServerEvents.recipes(event => {
       , 'orechid');
   }
   // Deepslate
-  const deepslateOreGen = [ ...overworldAll, ...overworldDeepslate];
+  const deepslateOreGen = overworldAll.concat(overworldDeepslate);
   for (const entry of deepslateOreGen) {
     orechidGenerator('minecraft:deepslate'
       , entry.mod + ':deepslate_' + entry.ore + "_ore"
