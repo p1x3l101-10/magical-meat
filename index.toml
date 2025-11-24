@@ -142,7 +142,7 @@ hash = "60cfb5c34e27eaecdd8aa4b2e59909ee038efd8eaba17faac6938816cc9cdfb4"
 
 [[files]]
 file = "config/bclib/client.json"
-hash = "9465041fe3ae38d327310691edf624fff7379a09aabedec7bcc3886841094518"
+hash = "09ecedcc5e3f1233fa324c6404945db82928ecbf8c91a2c319c30ec882aa101a"
 
 [[files]]
 file = "config/bclib/generator.json"
@@ -154,7 +154,7 @@ hash = "6c374c2361f59dbbace6322200613773ec01d5fb6e8fb70ac5d89463e3631f05"
 
 [[files]]
 file = "config/bclib/server.json"
-hash = "a747a0bb0548ef3b677671e5e60ac931bb2a45c212bfdb9a8b180cddb068ee87"
+hash = "8f1e50ca92cb89ef5aa06f35bcf89c5ff67b20b14bee08bdf7a59282b9ec22dd"
 
 [[files]]
 file = "config/better_respawn/better_respawn.properties"
