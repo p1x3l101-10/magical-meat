@@ -3448,6 +3448,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/ash-api.pw.toml"
+hash = "83a72cf7d3ef3a91f2ad822b372b96d0b13b51889f3cf063dc38e7222d1c95e9"
+metafile = true
+
+[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "b6060e92c302e4db7c1040a1e6f2d9f59998d1e18e10e0c8734c7659eb003c01"
 metafile = true
@@ -3803,6 +3808,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
+metafile = true
+
+[[files]]
+file = "mods/flourish.pw.toml"
+hash = "70f68fb650fcd4b8c723209c3a8b1344d6e427bf69e736a31946c707fc5111ca"
 metafile = true
 
 [[files]]
@@ -4442,6 +4452,11 @@ metafile = true
 [[files]]
 file = "mods/true-darkness-refabricated.pw.toml"
 hash = "cdcd8b1b9f62eea4f46ed5bc3a58125ae5ae2ceb1854739666eeacffda6fabc7"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "3bfed0a852a79f001106405e9964c96eb552ffd4ff247698fbe1d49e76838db6"
 metafile = true
 
 [[files]]
