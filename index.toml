@@ -3405,6 +3405,10 @@ file = "kubejs/server_scripts/example.js"
 hash = "6bb34a1898552ce09a310c7af9a571f5c9349ea3269074c9605b6795d37d8138"
 
 [[files]]
+file = "kubejs/server_scripts/orechid.js"
+hash = "9d537b260542d03fb2f0b0015d91b8b54c9ae815adbcab0ec229b20b683e0772"
+
+[[files]]
 file = "kubejs/startup_scripts/circuits.js"
 hash = "c0ba74464fb3eb63a3ec7b0095ca3f8894696a5e77c67ef9e24e899f40aaeffe"
 
