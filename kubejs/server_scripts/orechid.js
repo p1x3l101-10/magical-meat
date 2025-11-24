@@ -15,16 +15,17 @@ ServerEvents.recipes(event => {
   let overworldCobble = [
     { mod: "create_new_age", ore: "thorium", weight: 25 }
   ];
-  let overworldDeepslate = [
-    { mod: "techreborn", ore: "sheldonite", weight: 25 },
-    { mod: "techreborn", ore: "sodalite", weight: 25 },
-    { mod: "techreborn", ore: "peridot", weight: 25 },
-    { mod: "techreborn", ore: "tungsten", weight: 25 }
-  ];
+  let overworldDeepslate = [];
   let nether = [
     { mod: "techreborn", ore: "cinnabar", weight: 200 },
     { mod: "techreborn", ore: "pyrite", weight: 200 },
     { mod: "techreborn", ore: "sphalerite", weight: 200 }
+  ];
+  let end = [
+    { mod: "techreborn", ore: "sheldonite", weight: 25 },
+    { mod: "techreborn", ore: "sodalite", weight: 25 },
+    { mod: "techreborn", ore: "peridot", weight: 25 },
+    { mod: "techreborn", ore: "tungsten", weight: 25 }
   ];
   // Function
   const orechidGenerator = (input, output, weight, type) => {
@@ -64,5 +65,13 @@ ServerEvents.recipes(event => {
       , entry.mod + ':' + entry.ore + "_ore"
       , entry.weight
       , 'orechid_ignem');
+  }
+  const endstoneOreGen = end;
+  for (const entry of endstoneOreGen) {
+    orechidGenerator('minecraft:end_stone'
+      , entry.mod + ':' + entry.ore + "_ore"
+      , entry.weight
+      , 'orechid_ignem'
+    );
   }
 })
