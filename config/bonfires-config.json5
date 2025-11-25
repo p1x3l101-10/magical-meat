@@ -18,7 +18,8 @@
       "hexdim:hexdim",
       "hexic:thought",
       "oneironaut:deep_noosphere",
-      "oneironaut:noosphere"
+      "oneironaut:noosphere",
+      "ae2:spatial_storage"
     ],
 		"disableBonfireParticles": false,
 		"bonfireAmbientSound": "minecraft:block.campfire.crackle"
