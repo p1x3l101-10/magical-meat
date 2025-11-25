@@ -2206,7 +2206,7 @@ hash = "67dd1ddf2c09879c7057d773393b1bb5ea5d18ab53f608dbcc7176b7508d4f25"
 
 [[files]]
 file = "kubejs/assets/kubejs/lang/en_us.json"
-hash = "04b15183ece7cbc695c6234dbcccdf2498140ada5090393b4e81add5b7b86943"
+hash = "cb0510fe40d33d16c0526b9fd2db936c324cdcbbfa7768ad97abbb2e2ae93b0c"
 
 [[files]]
 file = "kubejs/assets/kubejs/models/item/basic_integrated_circuit.json"
@@ -2643,10 +2643,6 @@ hash = "6fdd429b36fcec6b7d131af09f4612e02fcdc30fc27e1548dd15d7d0f2c5035c"
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/lodestone_compass_31.png"
 hash = "11fde4f45fae2cb57914a186cf72385cd1c3570160aaea2febfbdc26f5dab5de"
-
-[[files]]
-file = "kubejs/assets/thevoiddimension/lang/en_us.json"
-hash = "2d8d65384a80caaa0d2f1399dbe158b04bb0f6ce839a998639fb248b199819a4"
 
 [[files]]
 file = "kubejs/assets/tis3d/models/block/casing_empty.json"

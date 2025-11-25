@@ -1,5 +1,6 @@
 {
   "item.kubejs.integrated_circuit": "Integrated Circuit",
   "item.kubejs.basic_integrated_circuit": "Basic Integrated Circuit",
-  "item.kubejs.lapis_sheet": "Lapis Sheet"
+  "item.kubejs.lapis_sheet": "Lapis Sheet",
+  "dimensions.thevoiddimension.overworld": "The World of Glass"
 }
