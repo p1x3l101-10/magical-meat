@@ -262,7 +262,7 @@ hash = "420b13227864623ff9e5f200ebba4c1a10f05a4ca40539dbefdfc9e23cdf78f2"
 
 [[files]]
 file = "config/bonfires-config.json5"
-hash = "9302bf41e26a8bd87d1bab55baee7ed0280872a43a2ff176938abac6a01cc1fe"
+hash = "325dbfcff26bbfe19edc73374bb3bc9703f9c662e07988b1de41e5bf4e8730a5"
 
 [[files]]
 file = "config/botania-client.json5"

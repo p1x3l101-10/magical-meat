@@ -27,7 +27,7 @@
 		"enableUBSBonfire": true,
 		"enableReinforcing": false,
 		"reinforceBlacklist": [],
-		"bonfireMonsterCheckRadius": 32.0,
+		"bonfireMonsterCheckRadius": 5.0,
 		"repairEquipment": false,
 		"estusFlaskBaseHeal": 2.0,
 		"estusFlaskHealPerLevel": 0.5,
