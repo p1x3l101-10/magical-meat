@@ -1,0 +1,13 @@
+name = "RevertBark"
+filename = "RevertBark-0.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4suwyVn/versions/dPEezHEO/RevertBark-0.0.2.jar"
+hash-format = "sha512"
+hash = "ae943ecb82a168f7d11de4fff6f0d97647fd2ac7824daa2abf481373ab51022c0f8a2de521d5f47c30fc6a1fb5f5afa8777a117afaa8eafa9770dce663ad07f2"
+
+[update]
+[update.modrinth]
+mod-id = "z4suwyVn"
+version = "dPEezHEO"

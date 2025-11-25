@@ -4326,6 +4326,11 @@ hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]
+file = "mods/revertbark.pw.toml"
+hash = "9d7c193ff77d90a7eb5fc74525002a3e49e7fe81e272e431da5dc7d19c2c2e71"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "82c3a531c2180cd45f59e433315e31dc886c464a05ea38ea0b82ce1bc033c520"
 metafile = true
