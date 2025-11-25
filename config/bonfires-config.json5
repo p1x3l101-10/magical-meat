@@ -5,6 +5,7 @@
 			"minecraft:overworld=minecraft:grass_block",
 			"minecraft:the_nether=minecraft:netherrack",
 			"minecraft:the_end=minecraft:end_stone",
+      "thevoiddimension:overworld=minecraft:glass_block",
 			"kingdomkeys:dive_to_the_heart=kingdomkeys:mosaic_stained_glass"
 		],
 		"renderScreenshotsInGui": false,
