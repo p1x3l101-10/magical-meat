@@ -3856,11 +3856,6 @@ hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
-file = "mods/flourish.pw.toml"
-hash = "70f68fb650fcd4b8c723209c3a8b1344d6e427bf69e736a31946c707fc5111ca"
-metafile = true
-
-[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
