@@ -2645,6 +2645,10 @@ file = "kubejs/assets/minecraft/textures/item/lodestone_compass_31.png"
 hash = "11fde4f45fae2cb57914a186cf72385cd1c3570160aaea2febfbdc26f5dab5de"
 
 [[files]]
+file = "kubejs/assets/thevoiddimension/lang/en_us.json"
+hash = "2d8d65384a80caaa0d2f1399dbe158b04bb0f6ce839a998639fb248b199819a4"
+
+[[files]]
 file = "kubejs/assets/tis3d/models/block/casing_empty.json"
 hash = "857f2ca38b698414323da1a006ebfd6171c0214595c37179c5ebbf9421736ce3"
 
