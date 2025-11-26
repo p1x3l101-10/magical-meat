@@ -1,0 +1,13 @@
+name = "Parrier"
+filename = "parrier-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/z4IfAkkn/versions/hBDywcWI/parrier-1.3.jar"
+hash-format = "sha512"
+hash = "e153947302ffa576ccaa4b5bd493e81845e125d8f2404cf5d71fabab16ef61c4b9b19eb0d14a3f443cbca06deafde0988f835cebc7fd75d3fb5f684540da6ee2"
+
+[update]
+[update.modrinth]
+mod-id = "z4IfAkkn"
+version = "hBDywcWI"

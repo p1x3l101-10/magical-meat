@@ -1,0 +1,13 @@
+name = "ULTRAKILLMusicDisc"
+filename = "ULTRAKILLMusicDisc 1.20.1 full fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uh1WvPJq/versions/dIqVJqLT/ULTRAKILLMusicDisc%201.20.1%20full%20fabric.jar"
+hash-format = "sha512"
+hash = "c23d92ad9b74e4e45ced5e1bc9799bed34a70b5edb5dfb600d06dbbce25d9a7c191f100431923e3ab9b864f9567c8b1942e4c50470013e801bc6517b9a5cb7ba"
+
+[update]
+[update.modrinth]
+mod-id = "uh1WvPJq"
+version = "dIqVJqLT"

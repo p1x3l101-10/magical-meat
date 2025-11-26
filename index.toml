@@ -4158,6 +4158,11 @@ hash = "28eedffdb074a8837005037768b97258c60bb471a5e9952e6e3e5cf11697b6ec"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "4b1b29ebfbbd9f23eb90c8c9f5113fce64c3ca605c8cad3aedaa25be83a82a53"
+metafile = true
+
+[[files]]
 file = "mods/mixin-conflict-helper.pw.toml"
 hash = "d7aaccec2291f2be791ec0cc3185102eec7aabc9323f6262343293a375603db5"
 metafile = true
@@ -4268,6 +4273,11 @@ metafile = true
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
 hash = "a1bf139dbad00b5c1b7d8129dd22e33f1536f0dcf9f572f6cd6969131806e796"
+metafile = true
+
+[[files]]
+file = "mods/parrier.pw.toml"
+hash = "f352c1c041336b7b11d8eb31da9353b80e28ef027821b34ad0714f90a7a52a13"
 metafile = true
 
 [[files]]
@@ -4527,6 +4537,11 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "3f12e299c61128e9b68e30f814a8507437afc84e27c678fe7955ced741fc176a"
+metafile = true
+
+[[files]]
+file = "mods/ultrakillmusicdisc.pw.toml"
+hash = "f2a3c5c7c820cc3fab8c929c21b4cba894fc441b19cfd30ad7f34df36896e7de"
 metafile = true
 
 [[files]]

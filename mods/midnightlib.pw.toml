@@ -1,0 +1,13 @@
+name = "MidnightLib"
+filename = "midnightlib-fabric-1.9.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/H83eN0R5/midnightlib-fabric-1.9.1%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "48791ea37d61151b7ad8b35eacb53743d71709300e600c030b98c879d7612f8a0ae09649b3edbbdbc4be68da02229a83a083c0e1ce198e21551cf90c750b3ad9"
+
+[update]
+[update.modrinth]
+mod-id = "codAaoxh"
+version = "H83eN0R5"
