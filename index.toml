@@ -3698,6 +3698,11 @@ hash = "5fc16b8010e3baebaf8cf1d54b465c687240dafe14d6b87fbe7a8a546eeb8738"
 metafile = true
 
 [[files]]
+file = "mods/distant-friends.pw.toml"
+hash = "c7351890b58df4ad8a64d05ff7b417a458dc66ba916cf88b10b634f753b0ae38"
+metafile = true
+
+[[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "20fdb4bb9c30b2aa81499f43657c266e3d84fdb4a3b167c7fdbf3309e4316fc7"
 metafile = true
