@@ -1,0 +1,13 @@
+name = "Infestation Potion Mod"
+filename = "infestation-potion-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CwuM5amJ/versions/oK2j5pjq/infestation-potion-1.0.0.jar"
+hash-format = "sha512"
+hash = "536a8c1096e6b899ac759b343cb8cdc0803631da863132912d566b6af69ef936366f62570c579470313b5a3926c70ad6d99016f4f20268f2fdbcd117543f8625"
+
+[update]
+[update.modrinth]
+mod-id = "CwuM5amJ"
+version = "oK2j5pjq"

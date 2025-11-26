@@ -4073,6 +4073,11 @@ hash = "a7abc895474e1851bcb4957e69d6d9fdef3411b7ee989932e1673e109622f5a6"
 metafile = true
 
 [[files]]
+file = "mods/infestation-potion-mod.pw.toml"
+hash = "ecf8aa959066c6a816d697d44924d04b07f1b249c4b4d98f62ea25db1bb641ad"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "77705ea58913cad0baa1964f8ba1a37b2fdf640b955a70f4bc1ad985cdd14a5f"
 metafile = true
@@ -4080,6 +4085,11 @@ metafile = true
 [[files]]
 file = "mods/ioticblocks.pw.toml"
 hash = "85412f19eccc9b4caa6932122e5e3c7b05aba22686b8cde137a96537d23ff322"
+metafile = true
+
+[[files]]
+file = "mods/ironfish.pw.toml"
+hash = "78dcb312cfd6e52fdf2eab10293d9a2a8185c8498c50aeba85e6d4cf2343aa7a"
 metafile = true
 
 [[files]]
@@ -4200,6 +4210,11 @@ metafile = true
 [[files]]
 file = "mods/nether-chest.pw.toml"
 hash = "e7ca0e487cf95f8d3f2204ae931c54bc361d3d6f738cee65f41b7fc78d4e9a9c"
+metafile = true
+
+[[files]]
+file = "mods/neutral-animals.pw.toml"
+hash = "1b45e8ac17c7d5608f103e9417acc2adca06c8dc15919f4d271299cce58955ad"
 metafile = true
 
 [[files]]
