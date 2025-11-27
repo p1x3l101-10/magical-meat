@@ -638,7 +638,7 @@ hash = "ca24e50fabfae0ba63e50ed786ec5674d725db94f8ee064cef53f0db49153d69"
 
 [[files]]
 file = "config/immersive_melodies.json"
-hash = "9c2b17602df8e9fdeeedc8ac2a484d36ff86270e2d34c796e884a6338e62a643"
+hash = "c48ecb004e3ee8221f67a76f3371e629082de504f6c03d42d807cec5db6cdd6d"
 
 [[files]]
 file = "config/incapacitated.json"
