@@ -4450,6 +4450,21 @@ hash = "7ad4ca488da13998ce660729167eef71ce1bdfb57ef1c5d593096fa459cec0f8"
 metafile = true
 
 [[files]]
+file = "mods/polymorph.pw.toml"
+hash = "8293786ca23e23e7dd04d60d666f34145a00229a5959f7a1962995654cacdf1f"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "50c3264db098f9d4390d21508ab2f6b21a68a2b52eda373d0205569387cdb329"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-toms-simple-storag.pw.toml"
+hash = "cebde6ce5f1b776a3367e56731041541da4b55fb98f6e5aef820ff6c12592d73"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a1eff7b33a54586b6989c7bfd89992f9d315f1c656b7596649d9af7017c6af7b"
 metafile = true
