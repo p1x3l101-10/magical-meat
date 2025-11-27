@@ -2234,7 +2234,7 @@ hash = "f98fb4df173dd78cf36df39653b154d1fb86efedfefcd75fa81f61f44f44eff0"
 
 [[files]]
 file = "kubejs/assets/kubemusic/lang/en_us.json"
-hash = "94d3189d5ff971ea5507907a50cae0cadef5945e8848e5c953fe3cfb856921f1"
+hash = "396af6834711539b47f5e5882ab4fb3507a3f620b383a2ab750a6199432ac126"
 
 [[files]]
 file = "kubejs/assets/minecraft/items/compass.json"
@@ -3389,6 +3389,10 @@ file = "kubejs/data/kubemusic/melodies/15_heian_alien.mid"
 hash = "21631e5c42aa18331ba61d7997b3c5adf6ba5d19b37dcb0a02158f7280df6192"
 
 [[files]]
+file = "kubejs/data/kubemusic/melodies/bonetrousle.mid"
+hash = "6859b60159d46f14f1f67a8d2a64c1ffb95b8f2655eca1d8a02e5552f4b5a92c"
+
+[[files]]
 file = "kubejs/data/kubemusic/melodies/candid_friend.mid"
 hash = "a19a3c9f789d7e51019efe64d4d518c3f1e8c22cda6f1af9d2f58a8429bcf073"
 
@@ -3415,6 +3419,10 @@ hash = "9d904285e665d5fabe7706139d17c302083b790ff13998d38cc0510d5b856593"
 [[files]]
 file = "kubejs/data/kubemusic/melodies/night_of_knights.mid"
 hash = "d319a6522490a1172c6479835d0b1b666a0a59a1750a4ab8465a7dc45fe612e6"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/rush_e_real.mid"
+hash = "dcb9fa15dc7eb0725a7e548aab91b0dd9a24d592dd1aba9e5018e797ddce2430"
 
 [[files]]
 file = "kubejs/data/kubemusic/melodies/satorimaiden.mid"
