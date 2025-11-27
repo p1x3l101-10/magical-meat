@@ -11,3 +11,5 @@ autosign
 unsup.sig
 unsup.ini.sig
 subpacks
+kubejs/assets/kubemusic/lang/regen.sh
+kubejs/assets/kubemusic/lang/localeIn.json

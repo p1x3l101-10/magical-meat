@@ -2233,8 +2233,8 @@ file = "kubejs/assets/kubejs/textures/item/lapis_sheet.png"
 hash = "f98fb4df173dd78cf36df39653b154d1fb86efedfefcd75fa81f61f44f44eff0"
 
 [[files]]
-file = "kubejs/assets/kubemusic/en_us.json"
-hash = "ec2b559a0762b045e2cfb16396e330683ba6cbb1ed721d3d78955237b0f11379"
+file = "kubejs/assets/kubemusic/lang/en_us.json"
+hash = "94d3189d5ff971ea5507907a50cae0cadef5945e8848e5c953fe3cfb856921f1"
 
 [[files]]
 file = "kubejs/assets/minecraft/items/compass.json"
@@ -3379,6 +3379,122 @@ hash = "7afbac427cc5d0a3f66fe7e09efe4eda05bd0ec9d9e616612f3f08d8c76f60ad"
 [[files]]
 file = "kubejs/data/kubejs/tags/items/integrated_circuits.json"
 hash = "41f4c4a579b9837220efb9ad638efba70670fdebef6b1d09a18039c3e4e6ea87"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/12_hellfire_mantle_akira_.mid"
+hash = "c2a8323e239ac8547a63123aa2783e10aafccdc4e37f86bd0383c3351d17fc72"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/15_heian_alien.mid"
+hash = "21631e5c42aa18331ba61d7997b3c5adf6ba5d19b37dcb0a02158f7280df6192"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/candid_friend.mid"
+hash = "a19a3c9f789d7e51019efe64d4d518c3f1e8c22cda6f1af9d2f58a8429bcf073"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/cirno_s_perfect_math_class_fujirobe_a35af.mid"
+hash = "e25300ab6f168ae0c920676ac3915a3af7f2bc2cea2cff88c37dc71541646acf"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/cool_create_-_final_savage_sister_f.mid"
+hash = "590b8050f1a13587e4c0da1c914060f90779a7c043a6f3bad038d735a435a851"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/cool_create_-_last_brutal_sister_fl.mid"
+hash = "254ab9c9561d174aab6294890bd449a3905258cfbf804a98f00c13f0293c73fa"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/demetori_-_wind_god_girl_unknown_.mid"
+hash = "c1f4cf89d6cd43211d2a34ad2fc01b35ecd9b2c01dbfc2f5c2c9546298d9900c"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/iosys_-_marisa_stole_the_precious_t.mid"
+hash = "9d904285e665d5fabe7706139d17c302083b790ff13998d38cc0510d5b856593"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/night_of_knights.mid"
+hash = "d319a6522490a1172c6479835d0b1b666a0a59a1750a4ab8465a7dc45fe612e6"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/satorimaiden.mid"
+hash = "12b3712075037eab2acc0786719c3c506d1ff3ecd9275640e4ecdec403d1d4ba"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/solar_sect_of_mystic_wisdom__nuclea.mid"
+hash = "60b544958c474774a1bd1d5842e903a30fc2f2a9213d420b9b7adedce4526d72"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th06_02.mid"
+hash = "bc45b91c210c9b13a0fc909b3bb16ef1fa1a402d5947e12af9d1e3aed3312cb6"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th06_05.mid"
+hash = "a97ba20eddc8127b0684e35a0246817c6ab26cf5d0b3937304d34b627d31c77b"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th06_07.mid"
+hash = "40217ab92e1598bf0303b448ba76359868047aadeafab31d82c38e4d1d07cb8e"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th06_09.mid"
+hash = "bd046a73250175f16a5f47df98b0056452bbb61c0a84abc5ea3aa308605dc7b0"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th06_10.mid"
+hash = "dd18db5b13c468e1b1bbfc4845a355144a80e4bdd86462226ed4dd616199caee"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th06_11.mid"
+hash = "07be27e1f4e1f1bfcd947e0458234d77b1fe71b15f0815c8b03b8bea43963e05"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th06_12.mid"
+hash = "2fc8b534d324f093d66e0d8a11bd4db01cf3a3f90042e9e0edff422e3c047b3a"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th06_13.mid"
+hash = "66cadd7217789fba2090020f81bbb8097b09ed39983bb7da5c492b548954aa6a"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th07_07.mid"
+hash = "db1e46a6e97b01ebbfbef59b44503559e97e5d221b1b86383aba6f4bf6b6d4a5"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th07_15.mid"
+hash = "2f7482544c014be34ef910e410d07c898d7e659a48e23c3cd7c7367d2d160e76"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th07_17.mid"
+hash = "85ed9f0b28577ddd962531a3f8aa3c627cdf096c42face1e07297658b18332df"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th07_19.mid"
+hash = "8c47fabe616ad22793c5d8bd02cb8e50aa5b0d8082093791fed4b26daab3bbbf"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th08_08.mid"
+hash = "f219b59db7139b9653e8cf0db88c47cc14267bb1a5286caa9e541d16b989211b"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th08_09.mid"
+hash = "1bd5a2a45068beadbf6ae70d0e511f3fe6a58ca1405a68d467776fef94afebc8"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th08_10.mid"
+hash = "347f3947bc926214fdfede0aaa35a2e96edcd57dc64b8c13723f7ab7c3da1e11"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th08_12.mid"
+hash = "180d76cadd1939ff9e8340eeb04f751219cd3399dc87f790a02e7ab8f94f58a8"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th08_15.mid"
+hash = "02a9de7f7d4f15d14b0c56ec16389adc6ab9199032e6f65bb5b33a7ba6c0ab0d"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/th08_19.mid"
+hash = "d42144f6d17e1728754fb6a7d408c76f447a504c397f7d3fa7d2f906b7698283"
 
 [[files]]
 file = "kubejs/data/kubemusic/melodies/un_owen_was_her.mid"
