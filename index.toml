@@ -2233,6 +2233,10 @@ file = "kubejs/assets/kubejs/textures/item/lapis_sheet.png"
 hash = "f98fb4df173dd78cf36df39653b154d1fb86efedfefcd75fa81f61f44f44eff0"
 
 [[files]]
+file = "kubejs/assets/kubemusic/en_us.json"
+hash = "ec2b559a0762b045e2cfb16396e330683ba6cbb1ed721d3d78955237b0f11379"
+
+[[files]]
 file = "kubejs/assets/minecraft/items/compass.json"
 hash = "bf6ffd4ca71b3cd342ac8ced0a2b3b0c4ca095495d1604ce61c9c891ada3ae8a"
 
@@ -3375,6 +3379,10 @@ hash = "7afbac427cc5d0a3f66fe7e09efe4eda05bd0ec9d9e616612f3f08d8c76f60ad"
 [[files]]
 file = "kubejs/data/kubejs/tags/items/integrated_circuits.json"
 hash = "41f4c4a579b9837220efb9ad638efba70670fdebef6b1d09a18039c3e4e6ea87"
+
+[[files]]
+file = "kubejs/data/kubemusic/melodies/un_owen_was_her.mid"
+hash = "4eef4cb514dfa70a3ce92bd9e2453d90b8cec9dad64d1dd243bb1ca7f2a3d07e"
 
 [[files]]
 file = "kubejs/data/lootr/tags/blocks/convert/barrels.json"
