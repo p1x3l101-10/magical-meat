@@ -3820,11 +3820,6 @@ hash = "ef745f8cc5a093b4a1d6f7809f8bdc9b95a6bc2b4ef1a74aca9adbdf7ecf58eb"
 metafile = true
 
 [[files]]
-file = "mods/difficulty.pw.toml"
-hash = "9aeb8670f487587f6deaddbbc11794755be5dcea0e1408d230100c79dbccc16e"
-metafile = true
-
-[[files]]
 file = "mods/dimensionaldoors.pw.toml"
 hash = "7b31ce2c086570d8a58f8a1d81b273d6de14a2e39e3124216408016abc99f72a"
 metafile = true
