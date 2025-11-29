@@ -1,0 +1,13 @@
+name = "BounceStyles"
+filename = "bouncestyles-3.0.0+1.20.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8z2jru2M/versions/jo7rBi3h/bouncestyles-3.0.0%2B1.20.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "c6769cf01b99f926c5d695e99b46c7f879d935fc82b0352b9ac00b79f46a299df5dd6fb6dabdbd3f23eb781637eb7f54cc8c09c7d31c9d45d2009cdc18a83683"
+
+[update]
+[update.modrinth]
+mod-id = "8z2jru2M"
+version = "jo7rBi3h"

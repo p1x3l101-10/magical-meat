@@ -3705,6 +3705,11 @@ hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
 metafile = true
 
 [[files]]
+file = "mods/bouncestyles.pw.toml"
+hash = "93bd69ae813b882dac8590673cd26d409c96b9bb0ab3329773088786aef54f65"
+metafile = true
+
+[[files]]
 file = "mods/caduceus.pw.toml"
 hash = "bc10528b0f0b0308bc4bfb1eb6c15451da406f28c8d95ed7b3d111820d5fc108"
 metafile = true
