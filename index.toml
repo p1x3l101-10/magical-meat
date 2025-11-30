@@ -3874,6 +3874,11 @@ file = "mods/efhexs-1.0.0-20dbe0d.jar"
 hash = "bdbea2df3c466eff733377685a4a199516f7ac7b67c82dd32e0521d37f386bce"
 
 [[files]]
+file = "mods/elytra_trinket.pw.toml"
+hash = "6843acc9f467e19880f90e2a914c939163374bd9be8113e460a4b17a842f9bae"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "aef45a1afd270204f96f05142cd1013146e87428e4ffaef3f54148d7f1836916"
 metafile = true
@@ -4357,6 +4362,11 @@ metafile = true
 [[files]]
 file = "mods/nether-chest.pw.toml"
 hash = "e7ca0e487cf95f8d3f2204ae931c54bc361d3d6f738cee65f41b7fc78d4e9a9c"
+metafile = true
+
+[[files]]
+file = "mods/nets.pw.toml"
+hash = "5ca8fbd517ad2a110188eece0a9ec9df09e62fd1e5cadecb0f3ac8489d9abd6f"
 metafile = true
 
 [[files]]
